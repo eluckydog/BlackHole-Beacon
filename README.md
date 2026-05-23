@@ -38,7 +38,7 @@ TOP 10 候选体经 Simbad 数据库验证：**TOP 10 均不在任何已知星�
 
 ## 项目结构
 
-`
+```
 blackhole-beacon/
 ├── README.md                  # 本文档
 ├── SKILL.md                   # QClaw skill 配置
@@ -63,7 +63,7 @@ blackhole-beacon/
 ├── catalog/                   # 外部星表数据
 └── docs/
     └── THREE_AUDIT_REPORT.md  # 三条审计报告
-`
+```
 
 ---
 
@@ -85,7 +85,7 @@ python cross_match_top10_v9_fixed.py
 
 # 观测提案
 python generate_observation_proposal.py
-`
+```
 
 ---
 
