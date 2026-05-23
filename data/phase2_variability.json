@@ -1,0 +1,6840 @@
+[
+  {
+    "anchor": {
+      "name": "J0024-7204C",
+      "ra": 5.959792,
+      "dec": -72.075417,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "00235160-7204303",
+        "designation_wise": "J002351.82-720431.5",
+        "offset_arcsec": 1.57,
+        "J": 10.374,
+        "H": 9.697,
+        "K": 9.573,
+        "W1": 8.653,
+        "W2": 8.777,
+        "J-H_2mass": 0.677,
+        "H-K_2mass": 0.124,
+        "W1-W2_wise": -0.124,
+        "proper_motion_masyr": 120.8,
+        "flags": [
+          "PM=121mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "00235053-7204213",
+        "designation_wise": "J002350.65-720421.3",
+        "offset_arcsec": 0.58,
+        "J": 8.876,
+        "H": 8.026,
+        "K": 7.835,
+        "W1": 7.366,
+        "W2": 7.581,
+        "J-H_2mass": 0.85,
+        "H-K_2mass": 0.191,
+        "W1-W2_wise": -0.215
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0024-7204D",
+      "ra": 6.057833,
+      "dec": -72.078833,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "00241513-7204365",
+        "designation_wise": "J002415.30-720437.1",
+        "offset_arcsec": 0.96,
+        "J": 7.876,
+        "H": 6.997,
+        "K": 6.723,
+        "W1": 4.238,
+        "W2": 6.13,
+        "J-H_2mass": 0.879,
+        "H-K_2mass": 0.274,
+        "W1-W2_wise": -1.892
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0024-7204J",
+      "ra": 5.997542,
+      "dec": -72.066333,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "00235946-7203551",
+        "designation_wise": "J002359.89-720357.1",
+        "offset_arcsec": 2.85,
+        "J": 10.098,
+        "H": 9.344,
+        "K": 9.146,
+        "W1": 8.15,
+        "W2": 8.265,
+        "J-H_2mass": 0.754,
+        "H-K_2mass": 0.198,
+        "W1-W2_wise": -0.115,
+        "proper_motion_masyr": 219.2,
+        "flags": [
+          "PM=219mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0024-7204L",
+      "ra": 6.015708,
+      "dec": -72.082472,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "00240258-7205074",
+        "designation_wise": "J002403.15-720506.1",
+        "offset_arcsec": 2.95,
+        "J": 7.478,
+        "H": 6.598,
+        "K": 6.346,
+        "W1": 1.052,
+        "W2": 3.633,
+        "J-H_2mass": 0.88,
+        "H-K_2mass": 0.252,
+        "W1-W2_wise": -2.581,
+        "proper_motion_masyr": 226.9,
+        "flags": [
+          "PM=227mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0024-7204M",
+      "ra": 5.977042,
+      "dec": -72.091861,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "00235767-7205296",
+        "designation_wise": "J002357.66-720530.1",
+        "offset_arcsec": 0.52,
+        "J": 8.016,
+        "H": 7.447,
+        "K": 7.072,
+        "W1": 4.902,
+        "W2": 6.251,
+        "J-H_2mass": 0.569,
+        "H-K_2mass": 0.375,
+        "W1-W2_wise": -1.349
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0024-7204U",
+      "ra": 6.041,
+      "dec": -72.066583,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "00240859-7203549",
+        "designation_wise": "J002408.59-720354.9",
+        "offset_arcsec": 0.04,
+        "J": 7.866,
+        "H": 7.02,
+        "K": 6.661,
+        "W1": 5.147,
+        "W2": 5.439,
+        "J-H_2mass": 0.846,
+        "H-K_2mass": 0.359,
+        "W1-W2_wise": -0.292
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0024-7204W",
+      "ra": 6.025292,
+      "dec": -72.080278,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "00240514-7204542",
+        "designation_wise": "J002405.10-720452.5",
+        "offset_arcsec": 1.73,
+        "J": 9.317,
+        "H": 8.333,
+        "K": 8.179,
+        "W1": 2.394,
+        "W2": 4.051,
+        "J-H_2mass": 0.984,
+        "H-K_2mass": 0.154,
+        "W1-W2_wise": -1.657,
+        "proper_motion_masyr": 133.1,
+        "flags": [
+          "PM=133mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0026+6320",
+      "ra": 6.710667,
+      "dec": 63.333583,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "00265237+6319573",
+        "designation_wise": "J002652.40+631957.2",
+        "offset_arcsec": 0.23,
+        "J": 13.166,
+        "H": 12.715,
+        "K": 12.576,
+        "W1": 12.58,
+        "W2": 12.637,
+        "J-H_2mass": 0.451,
+        "H-K_2mass": 0.139,
+        "W1-W2_wise": -0.057
+      },
+      {
+        "designation_2mass": "00265102+6319585",
+        "designation_wise": "J002651.07+631958.4",
+        "offset_arcsec": 0.38,
+        "J": 15.071,
+        "H": 14.479,
+        "K": 14.447,
+        "W1": 14.193,
+        "W2": 14.422,
+        "J-H_2mass": 0.592,
+        "H-K_2mass": 0.032,
+        "W1-W2_wise": -0.229
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0030+0451",
+      "ra": 7.614292,
+      "dec": 4.861028,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "00302780+0451351",
+        "designation_wise": "J003027.82+045134.7",
+        "offset_arcsec": 0.56,
+        "J": 16.838,
+        "H": 16.564,
+        "K": 15.647,
+        "W1": 16.61,
+        "W2": 16.251,
+        "J-H_2mass": 0.274,
+        "H-K_2mass": 0.917,
+        "W1-W2_wise": 0.359
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0033+57",
+      "ra": 8.25,
+      "dec": 57.0,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "00325959+5700082",
+        "designation_wise": "J003259.67+570008.2",
+        "offset_arcsec": 0.67,
+        "J": 16.54,
+        "H": 16.256,
+        "K": 15.325,
+        "W1": 15.946,
+        "W2": 16.026,
+        "J-H_2mass": 0.284,
+        "H-K_2mass": 0.931,
+        "W1-W2_wise": -0.08
+      },
+      {
+        "designation_2mass": "00325940+5659488",
+        "designation_wise": "J003259.43+565948.7",
+        "offset_arcsec": 0.27,
+        "J": 16.295,
+        "H": 15.618,
+        "K": 15.495,
+        "W1": 15.605,
+        "W2": 16.271,
+        "J-H_2mass": 0.677,
+        "H-K_2mass": 0.123,
+        "W1-W2_wise": -0.666
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0033+61",
+      "ra": 8.25,
+      "dec": 61.0,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "00330004+6100028",
+        "designation_wise": "J003300.03+610003.0",
+        "offset_arcsec": 0.17,
+        "J": 15.05,
+        "H": 14.636,
+        "K": 14.409,
+        "W1": 14.31,
+        "W2": 14.349,
+        "J-H_2mass": 0.414,
+        "H-K_2mass": 0.227,
+        "W1-W2_wise": -0.039
+      },
+      {
+        "designation_2mass": "00325907+6059519",
+        "designation_wise": "J003258.99+605952.1",
+        "offset_arcsec": 0.64,
+        "J": 16.549,
+        "H": 15.916,
+        "K": 16.968,
+        "W1": 15.814,
+        "W2": 16.162,
+        "J-H_2mass": 0.633,
+        "H-K_2mass": -1.052,
+        "W1-W2_wise": -0.348
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0034-0534",
+      "ra": 8.590958,
+      "dec": -5.576833,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "00342227-0534470",
+        "designation_wise": "J003422.29-053447.2",
+        "offset_arcsec": 0.4,
+        "J": 15.072,
+        "H": 14.704,
+        "K": 14.514,
+        "W1": 14.608,
+        "W2": 14.635,
+        "J-H_2mass": 0.368,
+        "H-K_2mass": 0.19,
+        "W1-W2_wise": -0.027
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0034+69",
+      "ra": 8.5,
+      "dec": 69.716667,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "00340096+6943004",
+        "designation_wise": "J003401.05+694300.3",
+        "offset_arcsec": 0.48,
+        "J": 16.247,
+        "H": 15.473,
+        "K": 15.52,
+        "W1": 15.147,
+        "W2": 15.234,
+        "J-H_2mass": 0.774,
+        "H-K_2mass": -0.047,
+        "W1-W2_wise": -0.087
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0045-7319",
+      "ra": 11.3965,
+      "dec": -73.3175,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "00453774-7318543",
+        "designation_wise": "J004537.77-731854.2",
+        "offset_arcsec": 0.16,
+        "J": 15.6,
+        "H": 15.055,
+        "K": 15.024,
+        "W1": 15.002,
+        "W2": 15.626,
+        "J-H_2mass": 0.545,
+        "H-K_2mass": 0.031,
+        "W1-W2_wise": -0.624
+      },
+      {
+        "designation_2mass": "00453716-7319090",
+        "designation_wise": "J004537.18-731908.8",
+        "offset_arcsec": 0.21,
+        "J": 14.628,
+        "H": 14.012,
+        "K": 14.007,
+        "W1": 13.923,
+        "W2": 14.113,
+        "J-H_2mass": 0.616,
+        "H-K_2mass": 0.005,
+        "W1-W2_wise": -0.19
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0054+66",
+      "ra": 13.5,
+      "dec": 66.0,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "00535860+6559539",
+        "designation_wise": "J005358.59+655954.0",
+        "offset_arcsec": 0.1,
+        "J": 12.762,
+        "H": 12.01,
+        "K": 11.734,
+        "W1": 11.567,
+        "W2": 11.606,
+        "J-H_2mass": 0.752,
+        "H-K_2mass": 0.276,
+        "W1-W2_wise": -0.039
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0054+69",
+      "ra": 13.616667,
+      "dec": 69.433333,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "00542659+6926001",
+        "designation_wise": "J005426.55+692559.6",
+        "offset_arcsec": 0.57,
+        "J": 17.296,
+        "H": 15.947,
+        "K": 15.84,
+        "W1": 16.834,
+        "W2": 17.58,
+        "J-H_2mass": 1.349,
+        "H-K_2mass": 0.107,
+        "W1-W2_wise": -0.746
+      },
+      {
+        "designation_2mass": "00542952+6926056",
+        "designation_wise": "J005429.59+692605.7",
+        "offset_arcsec": 0.37,
+        "J": 16.097,
+        "H": 15.789,
+        "K": 15.432,
+        "W1": 15.555,
+        "W2": 16.127,
+        "J-H_2mass": 0.308,
+        "H-K_2mass": 0.357,
+        "W1-W2_wise": -0.572
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0059+50",
+      "ra": 14.75,
+      "dec": 50.033333,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "00590089+5001560",
+        "designation_wise": "J005900.88+500155.9",
+        "offset_arcsec": 0.14,
+        "J": 14.483,
+        "H": 13.995,
+        "K": 13.861,
+        "W1": 13.82,
+        "W2": 13.938,
+        "J-H_2mass": 0.488,
+        "H-K_2mass": 0.134,
+        "W1-W2_wise": -0.118
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0100-7211",
+      "ra": 15.179292,
+      "dec": -72.192667,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "01004313-7211421",
+        "designation_wise": "J010043.12-721141.9",
+        "offset_arcsec": 0.19,
+        "J": 10.98,
+        "H": 10.275,
+        "K": 10.061,
+        "W1": 9.963,
+        "W2": 10.117,
+        "J-H_2mass": 0.705,
+        "H-K_2mass": 0.214,
+        "W1-W2_wise": -0.154
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0102+6537",
+      "ra": 15.637333,
+      "dec": 65.620389,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "01023498+6537175",
+        "designation_wise": "J010234.97+653717.4",
+        "offset_arcsec": 0.09,
+        "J": 16.597,
+        "H": 15.536,
+        "K": 15.139,
+        "W1": 15.074,
+        "W2": 15.481,
+        "J-H_2mass": 1.061,
+        "H-K_2mass": 0.397,
+        "W1-W2_wise": -0.407
+      },
+      {
+        "designation_2mass": "01023343+6537278",
+        "designation_wise": "J010233.43+653727.9",
+        "offset_arcsec": 0.16,
+        "J": 15.167,
+        "H": 14.588,
+        "K": 14.205,
+        "W1": 14.046,
+        "W2": 13.989,
+        "J-H_2mass": 0.579,
+        "H-K_2mass": 0.383,
+        "W1-W2_wise": 0.057
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0106+4855",
+      "ra": 16.604417,
+      "dec": 48.931056,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "01062467+4855591",
+        "designation_wise": "J010624.68+485559.0",
+        "offset_arcsec": 0.11,
+        "J": 14.097,
+        "H": 13.878,
+        "K": 13.806,
+        "W1": 13.761,
+        "W2": 13.799,
+        "J-H_2mass": 0.219,
+        "H-K_2mass": 0.072,
+        "W1-W2_wise": -0.038
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0108+6608",
+      "ra": 17.094333,
+      "dec": 66.142778,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "01082225+6608206",
+        "designation_wise": "J010822.25+660820.6",
+        "offset_arcsec": 0.02,
+        "J": 10.551,
+        "H": 9.603,
+        "K": 9.302,
+        "W1": 9.15,
+        "W2": 9.22,
+        "J-H_2mass": 0.948,
+        "H-K_2mass": 0.301,
+        "W1-W2_wise": -0.07
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0108+6905",
+      "ra": 17.122917,
+      "dec": 69.097944,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "01082836+6905438",
+        "designation_wise": "J010828.42+690543.8",
+        "offset_arcsec": 0.33,
+        "J": 15.953,
+        "H": 15.108,
+        "K": 15.301,
+        "W1": 14.983,
+        "W2": 15.3,
+        "J-H_2mass": 0.845,
+        "H-K_2mass": -0.193,
+        "W1-W2_wise": -0.317
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0125+62",
+      "ra": 21.5,
+      "dec": 62.583333,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "01260117+6234563",
+        "designation_wise": "J012601.20+623456.2",
+        "offset_arcsec": 0.22,
+        "J": 16.011,
+        "H": 15.299,
+        "K": 15.042,
+        "W1": 15.103,
+        "W2": 15.484,
+        "J-H_2mass": 0.712,
+        "H-K_2mass": 0.257,
+        "W1-W2_wise": -0.381
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0131-7310",
+      "ra": 22.868792,
+      "dec": -73.16925,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "01312877-7310203",
+        "designation_wise": "J013128.75-731020.2",
+        "offset_arcsec": 0.09,
+        "J": 9.691,
+        "H": 9.385,
+        "K": 9.307,
+        "W1": 9.265,
+        "W2": 9.293,
+        "J-H_2mass": 0.306,
+        "H-K_2mass": 0.078,
+        "W1-W2_wise": -0.028
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0139+5621",
+      "ra": 24.910667,
+      "dec": 56.360222,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "01393906+5621353",
+        "designation_wise": "J013939.09+562134.9",
+        "offset_arcsec": 0.41,
+        "J": 15.59,
+        "H": 15.211,
+        "K": 15.09,
+        "W1": 14.74,
+        "W2": 14.833,
+        "J-H_2mass": 0.379,
+        "H-K_2mass": 0.121,
+        "W1-W2_wise": -0.093
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0141+6009",
+      "ra": 25.416417,
+      "dec": 60.158972,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "01414111+6009415",
+        "designation_wise": "J014141.08+600941.0",
+        "offset_arcsec": 0.54,
+        "J": 15.315,
+        "H": 15.015,
+        "K": 15.066,
+        "W1": 14.746,
+        "W2": 14.771,
+        "J-H_2mass": 0.3,
+        "H-K_2mass": -0.051,
+        "W1-W2_wise": -0.025
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0141+63",
+      "ra": 25.25,
+      "dec": 63.133333,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "01410069+6307521",
+        "designation_wise": "J014100.64+630752.2",
+        "offset_arcsec": 0.34,
+        "J": 15.363,
+        "H": 14.826,
+        "K": 14.618,
+        "W1": 14.415,
+        "W2": 14.503,
+        "J-H_2mass": 0.537,
+        "H-K_2mass": 0.208,
+        "W1-W2_wise": -0.088
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0146+6145",
+      "ra": 26.593417,
+      "dec": 61.750778,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "01462283+6144549",
+        "designation_wise": "J014622.95+614455.5",
+        "offset_arcsec": 0.99,
+        "J": 15.877,
+        "H": 14.867,
+        "K": 14.743,
+        "W1": 14.136,
+        "W2": 14.248,
+        "J-H_2mass": 1.01,
+        "H-K_2mass": 0.124,
+        "W1-W2_wise": -0.112
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0157+6212",
+      "ra": 29.458042,
+      "dec": 62.207194,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "01574869+6212324",
+        "designation_wise": "J015748.67+621232.4",
+        "offset_arcsec": 0.09,
+        "J": 12.537,
+        "H": 11.748,
+        "K": 11.493,
+        "W1": 11.31,
+        "W2": 11.354,
+        "J-H_2mass": 0.789,
+        "H-K_2mass": 0.255,
+        "W1-W2_wise": -0.044
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0201+7005",
+      "ra": 30.42225,
+      "dec": 70.088361,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "02014367+7005210",
+        "designation_wise": "J020143.64+700520.9",
+        "offset_arcsec": 0.18,
+        "J": 16.033,
+        "H": 15.525,
+        "K": 15.106,
+        "W1": 15.194,
+        "W2": 15.423,
+        "J-H_2mass": 0.508,
+        "H-K_2mass": 0.419,
+        "W1-W2_wise": -0.229
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0205+6449",
+      "ra": 31.408,
+      "dec": 64.828139,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "02053656+6449511",
+        "designation_wise": "J020536.49+644950.9",
+        "offset_arcsec": 0.48,
+        "J": 16.756,
+        "H": 16.075,
+        "K": 15.782,
+        "W1": 16.056,
+        "W2": 16.921,
+        "J-H_2mass": 0.681,
+        "H-K_2mass": 0.293,
+        "W1-W2_wise": -0.865
+      },
+      {
+        "designation_2mass": "02053883+6449319",
+        "designation_wise": "J020538.83+644931.9",
+        "offset_arcsec": 0.07,
+        "J": 12.941,
+        "H": 12.16,
+        "K": 12.049,
+        "W1": 11.862,
+        "W2": 11.911,
+        "J-H_2mass": 0.781,
+        "H-K_2mass": 0.111,
+        "W1-W2_wise": -0.049
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0212+5222",
+      "ra": 33.2175,
+      "dec": 52.379167,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "02125376+5222429",
+        "designation_wise": "J021253.77+522243.4",
+        "offset_arcsec": 0.55,
+        "J": 17.237,
+        "H": 15.958,
+        "K": 15.654,
+        "W1": 16.881,
+        "W2": 17.176,
+        "J-H_2mass": 1.279,
+        "H-K_2mass": 0.304,
+        "W1-W2_wise": -0.295
+      },
+      {
+        "designation_2mass": "02125107+5222548",
+        "designation_wise": "J021251.06+522254.5",
+        "offset_arcsec": 0.26,
+        "J": 15.803,
+        "H": 15.648,
+        "K": 15.543,
+        "W1": 15.599,
+        "W2": 15.543,
+        "J-H_2mass": 0.155,
+        "H-K_2mass": 0.105,
+        "W1-W2_wise": 0.056
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0231+7026",
+      "ra": 37.808292,
+      "dec": 70.44275,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "02311485+7026247",
+        "designation_wise": "J023114.85+702624.8",
+        "offset_arcsec": 0.09,
+        "J": 14.54,
+        "H": 14.041,
+        "K": 13.947,
+        "W1": 13.849,
+        "W2": 13.862,
+        "J-H_2mass": 0.499,
+        "H-K_2mass": 0.094,
+        "W1-W2_wise": -0.013
+      },
+      {
+        "designation_2mass": "02311201+7026316",
+        "designation_wise": "J023112.02+702631.2",
+        "offset_arcsec": 0.41,
+        "J": 14.298,
+        "H": 13.86,
+        "K": 13.776,
+        "W1": 13.703,
+        "W2": 13.682,
+        "J-H_2mass": 0.438,
+        "H-K_2mass": 0.084,
+        "W1-W2_wise": 0.021
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0243+6027",
+      "ra": 40.75,
+      "dec": 60.45,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "02430185+6026579",
+        "designation_wise": "J024301.93+602658.7",
+        "offset_arcsec": 1.02,
+        "J": 16.538,
+        "H": 15.868,
+        "K": 15.208,
+        "W1": 14.594,
+        "W2": 14.376,
+        "J-H_2mass": 0.67,
+        "H-K_2mass": 0.66,
+        "W1-W2_wise": 0.218,
+        "proper_motion_masyr": 78.5,
+        "flags": [
+          "PM=78mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0248+6021",
+      "ra": 42.077583,
+      "dec": 60.359639,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "02481870+6021388",
+        "designation_wise": "J024818.64+602138.5",
+        "offset_arcsec": 0.5,
+        "J": 14.891,
+        "H": 14.361,
+        "K": 14.036,
+        "W1": 13.67,
+        "W2": 13.944,
+        "J-H_2mass": 0.53,
+        "H-K_2mass": 0.325,
+        "W1-W2_wise": -0.274
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0255-5304",
+      "ra": 43.98425,
+      "dec": -53.072611,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "02555668-5304318",
+        "designation_wise": "J025556.68-530432.0",
+        "offset_arcsec": 0.15,
+        "J": 14.481,
+        "H": 13.774,
+        "K": 13.534,
+        "W1": 13.552,
+        "W2": 13.534,
+        "J-H_2mass": 0.707,
+        "H-K_2mass": 0.24,
+        "W1-W2_wise": 0.018
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0323+3944",
+      "ra": 50.860917,
+      "dec": 39.748028,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "03232571+3945007",
+        "designation_wise": "J032325.70+394500.6",
+        "offset_arcsec": 0.16,
+        "J": 14.026,
+        "H": 13.513,
+        "K": 13.419,
+        "W1": 13.366,
+        "W2": 13.403,
+        "J-H_2mass": 0.513,
+        "H-K_2mass": 0.094,
+        "W1-W2_wise": -0.037
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0332+5434",
+      "ra": 53.247375,
+      "dec": 54.578778,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "03325936+5434448",
+        "designation_wise": "J033259.32+543444.7",
+        "offset_arcsec": 0.39,
+        "J": 17.093,
+        "H": 16.183,
+        "K": 15.556,
+        "W1": 15.684,
+        "W2": 16.038,
+        "J-H_2mass": 0.91,
+        "H-K_2mass": 0.627,
+        "W1-W2_wise": -0.354
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0332+79",
+      "ra": 53.1875,
+      "dec": 79.166667,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "03324023+7909533",
+        "designation_wise": "J033240.26+790953.3",
+        "offset_arcsec": 0.09,
+        "J": 14.954,
+        "H": 14.481,
+        "K": 14.48,
+        "W1": 14.401,
+        "W2": 14.499,
+        "J-H_2mass": 0.473,
+        "H-K_2mass": 0.001,
+        "W1-W2_wise": -0.098
+      },
+      {
+        "designation_2mass": "03324801+7910050",
+        "designation_wise": "J033248.05+791005.1",
+        "offset_arcsec": 0.12,
+        "J": 14.127,
+        "H": 13.801,
+        "K": 13.719,
+        "W1": 13.706,
+        "W2": 13.716,
+        "J-H_2mass": 0.326,
+        "H-K_2mass": 0.082,
+        "W1-W2_wise": -0.01
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0335+4555",
+      "ra": 53.819375,
+      "dec": 45.931528,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "03351603+4555503",
+        "designation_wise": "J033516.03+455550.2",
+        "offset_arcsec": 0.19,
+        "J": 15.265,
+        "H": 14.552,
+        "K": 14.384,
+        "W1": 14.45,
+        "W2": 14.464,
+        "J-H_2mass": 0.713,
+        "H-K_2mass": 0.168,
+        "W1-W2_wise": -0.014
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0343-3000",
+      "ra": 55.866417,
+      "dec": -30.007639,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "03432878-3000271",
+        "designation_wise": "J034328.82-300027.0",
+        "offset_arcsec": 0.44,
+        "J": 15.501,
+        "H": 14.9,
+        "K": 14.739,
+        "W1": 14.55,
+        "W2": 14.381,
+        "J-H_2mass": 0.601,
+        "H-K_2mass": 0.161,
+        "W1-W2_wise": 0.169
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0343+5312",
+      "ra": 55.80375,
+      "dec": 53.214833,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "03431374+5312565",
+        "designation_wise": "J034313.74+531256.7",
+        "offset_arcsec": 0.18,
+        "J": 15.431,
+        "H": 14.708,
+        "K": 14.372,
+        "W1": 14.314,
+        "W2": 14.334,
+        "J-H_2mass": 0.723,
+        "H-K_2mass": 0.336,
+        "W1-W2_wise": -0.02
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0357+5236",
+      "ra": 59.43675,
+      "dec": 52.616028,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "03574403+5237014",
+        "designation_wise": "J035744.04+523701.6",
+        "offset_arcsec": 0.21,
+        "J": 16.707,
+        "H": 16.303,
+        "K": 16.838,
+        "W1": 15.757,
+        "W2": 16.011,
+        "J-H_2mass": 0.404,
+        "H-K_2mass": -0.535,
+        "W1-W2_wise": -0.254
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0358+42",
+      "ra": 59.5,
+      "dec": 42.1,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "03575946+4205562",
+        "designation_wise": "J035759.47+420556.1",
+        "offset_arcsec": 0.12,
+        "J": 14.854,
+        "H": 14.378,
+        "K": 14.054,
+        "W1": 14.153,
+        "W2": 14.269,
+        "J-H_2mass": 0.476,
+        "H-K_2mass": 0.324,
+        "W1-W2_wise": -0.116
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0358+66",
+      "ra": 59.5,
+      "dec": 66.666667,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "03580088+6640018",
+        "designation_wise": "J035800.88+664001.8",
+        "offset_arcsec": 0.04,
+        "J": 13.503,
+        "H": 12.709,
+        "K": 12.495,
+        "W1": 12.343,
+        "W2": 12.362,
+        "J-H_2mass": 0.794,
+        "H-K_2mass": 0.214,
+        "W1-W2_wise": -0.019
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0406+6138",
+      "ra": 61.625333,
+      "dec": 61.644722,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "04063091+6138287",
+        "designation_wise": "J040630.92+613828.7",
+        "offset_arcsec": 0.09,
+        "J": 10.684,
+        "H": 10.413,
+        "K": 10.34,
+        "W1": 10.285,
+        "W2": 10.276,
+        "J-H_2mass": 0.271,
+        "H-K_2mass": 0.073,
+        "W1-W2_wise": 0.009
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0407+1607",
+      "ra": 61.978917,
+      "dec": 16.121222,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "04075483+1607241",
+        "designation_wise": "J040754.83+160724.0",
+        "offset_arcsec": 0.06,
+        "J": 14.715,
+        "H": 14.196,
+        "K": 13.964,
+        "W1": 13.95,
+        "W2": 13.964,
+        "J-H_2mass": 0.519,
+        "H-K_2mass": 0.232,
+        "W1-W2_wise": -0.014
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0417+61",
+      "ra": 64.25,
+      "dec": 61.133333,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "04165926+6107486",
+        "designation_wise": "J041659.27+610748.6",
+        "offset_arcsec": 0.1,
+        "J": 15.472,
+        "H": 14.717,
+        "K": 14.653,
+        "W1": 14.496,
+        "W2": 14.528,
+        "J-H_2mass": 0.755,
+        "H-K_2mass": 0.064,
+        "W1-W2_wise": -0.032
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0418+5732",
+      "ra": 64.641125,
+      "dec": 57.539694,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "04183222+5732242",
+        "designation_wise": "J041832.22+573224.0",
+        "offset_arcsec": 0.2,
+        "J": 15.934,
+        "H": 15.388,
+        "K": 15.111,
+        "W1": 15.222,
+        "W2": 15.613,
+        "J-H_2mass": 0.546,
+        "H-K_2mass": 0.277,
+        "W1-W2_wise": -0.391
+      },
+      {
+        "designation_2mass": "04183310+5732353",
+        "designation_wise": "J041833.10+573235.0",
+        "offset_arcsec": 0.32,
+        "J": 15.103,
+        "H": 14.461,
+        "K": 14.158,
+        "W1": 14.092,
+        "W2": 14.024,
+        "J-H_2mass": 0.642,
+        "H-K_2mass": 0.303,
+        "W1-W2_wise": 0.068
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0419+44",
+      "ra": 64.75,
+      "dec": 44.0,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "04185985+4359554",
+        "designation_wise": "J041859.91+435954.6",
+        "offset_arcsec": 0.99,
+        "J": 16.492,
+        "H": 15.974,
+        "K": 15.653,
+        "W1": 15.635,
+        "W2": 16.253,
+        "J-H_2mass": 0.518,
+        "H-K_2mass": 0.321,
+        "W1-W2_wise": -0.618
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0435+27",
+      "ra": 68.891667,
+      "dec": 27.733333,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "04353304+2743546",
+        "designation_wise": "J043533.04+274354.5",
+        "offset_arcsec": 0.1,
+        "J": 13.274,
+        "H": 12.51,
+        "K": 12.355,
+        "W1": 12.193,
+        "W2": 12.229,
+        "J-H_2mass": 0.764,
+        "H-K_2mass": 0.155,
+        "W1-W2_wise": -0.036
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0447-04",
+      "ra": 71.75,
+      "dec": -4.583333,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "04465971-0435021",
+        "designation_wise": "J044659.72-043502.2",
+        "offset_arcsec": 0.05,
+        "J": 14.407,
+        "H": 13.83,
+        "K": 13.775,
+        "W1": 13.756,
+        "W2": 13.755,
+        "J-H_2mass": 0.577,
+        "H-K_2mass": 0.055,
+        "W1-W2_wise": 0.001
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0449-7031",
+      "ra": 72.273625,
+      "dec": -70.525472,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "04490707-7031439",
+        "designation_wise": "J044907.08-703143.9",
+        "offset_arcsec": 0.05,
+        "J": 15.785,
+        "H": 15.433,
+        "K": 14.909,
+        "W1": 15.195,
+        "W2": 15.59,
+        "J-H_2mass": 0.352,
+        "H-K_2mass": 0.524,
+        "W1-W2_wise": -0.395
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0451-67",
+      "ra": 72.958333,
+      "dec": -67.3,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "04514805-6718050",
+        "designation_wise": "J045147.92-671805.5",
+        "offset_arcsec": 0.96,
+        "J": 16.377,
+        "H": 15.568,
+        "K": 15.687,
+        "W1": 15.516,
+        "W2": 15.629,
+        "J-H_2mass": 0.809,
+        "H-K_2mass": -0.119,
+        "W1-W2_wise": -0.113
+      },
+      {
+        "designation_2mass": "04515155-6718031",
+        "designation_wise": "J045151.58-671803.6",
+        "offset_arcsec": 0.48,
+        "J": 14.627,
+        "H": 14.402,
+        "K": 14.129,
+        "W1": 14.082,
+        "W2": 14.177,
+        "J-H_2mass": 0.225,
+        "H-K_2mass": 0.273,
+        "W1-W2_wise": -0.095
+      },
+      {
+        "designation_2mass": "04515099-6717474",
+        "designation_wise": "J045150.94-671748.0",
+        "offset_arcsec": 0.69,
+        "J": 16.179,
+        "H": 15.62,
+        "K": 15.36,
+        "W1": 15.593,
+        "W2": 16.176,
+        "J-H_2mass": 0.559,
+        "H-K_2mass": 0.26,
+        "W1-W2_wise": -0.583
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0455-6951",
+      "ra": 73.948125,
+      "dec": -69.859528,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "04554582-6951442",
+        "designation_wise": "J045545.89-695144.3",
+        "offset_arcsec": 0.37,
+        "J": 14.769,
+        "H": 13.961,
+        "K": 13.746,
+        "W1": 13.631,
+        "W2": 13.758,
+        "J-H_2mass": 0.808,
+        "H-K_2mass": 0.215,
+        "W1-W2_wise": -0.127
+      },
+      {
+        "designation_2mass": "04554831-6951341",
+        "designation_wise": "J045548.24-695134.4",
+        "offset_arcsec": 0.48,
+        "J": 13.453,
+        "H": 12.547,
+        "K": 12.355,
+        "W1": 12.378,
+        "W2": 12.512,
+        "J-H_2mass": 0.906,
+        "H-K_2mass": 0.192,
+        "W1-W2_wise": -0.134
+      },
+      {
+        "designation_2mass": "04554843-6951297",
+        "designation_wise": "J045548.38-695129.9",
+        "offset_arcsec": 0.28,
+        "J": 12.32,
+        "H": 11.983,
+        "K": 11.883,
+        "W1": 11.815,
+        "W2": 11.899,
+        "J-H_2mass": 0.337,
+        "H-K_2mass": 0.1,
+        "W1-W2_wise": -0.084
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0456-69",
+      "ra": 74.125,
+      "dec": -69.166667,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "04563195-6909526",
+        "designation_wise": "J045631.91-690952.5",
+        "offset_arcsec": 0.22,
+        "J": 15.786,
+        "H": 15.322,
+        "K": 15.208,
+        "W1": 15.324,
+        "W2": 15.554,
+        "J-H_2mass": 0.464,
+        "H-K_2mass": 0.114,
+        "W1-W2_wise": -0.23
+      },
+      {
+        "designation_2mass": "04563042-6910038",
+        "designation_wise": "J045630.41-691003.8",
+        "offset_arcsec": 0.04,
+        "J": 14.095,
+        "H": 13.231,
+        "K": 12.977,
+        "W1": 12.787,
+        "W2": 12.872,
+        "J-H_2mass": 0.864,
+        "H-K_2mass": 0.254,
+        "W1-W2_wise": -0.085
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0456-7031",
+      "ra": 74.010417,
+      "dec": -70.5185,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "04560333-7031107",
+        "designation_wise": "J045603.40-703111.4",
+        "offset_arcsec": 0.8,
+        "J": 15.922,
+        "H": 14.987,
+        "K": 14.789,
+        "W1": 14.955,
+        "W2": 15.47,
+        "J-H_2mass": 0.935,
+        "H-K_2mass": 0.198,
+        "W1-W2_wise": -0.515
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0457+23",
+      "ra": 74.275,
+      "dec": 23.566667,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "04570612+2334035",
+        "designation_wise": "J045706.10+233403.3",
+        "offset_arcsec": 0.27,
+        "J": 15.665,
+        "H": 15.203,
+        "K": 14.882,
+        "W1": 14.965,
+        "W2": 15.188,
+        "J-H_2mass": 0.462,
+        "H-K_2mass": 0.321,
+        "W1-W2_wise": -0.223
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0457-69",
+      "ra": 74.258333,
+      "dec": -69.766667,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "04565962-6945523",
+        "designation_wise": "J045659.71-694551.9",
+        "offset_arcsec": 0.62,
+        "J": 16.041,
+        "H": 15.49,
+        "K": 15.3,
+        "W1": 15.298,
+        "W2": 15.657,
+        "J-H_2mass": 0.551,
+        "H-K_2mass": 0.19,
+        "W1-W2_wise": -0.359
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0458-67",
+      "ra": 74.745833,
+      "dec": -67.716667,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "04585723-6743016",
+        "designation_wise": "J045857.27-674301.6",
+        "offset_arcsec": 0.26,
+        "J": 16.074,
+        "H": 15.299,
+        "K": 15.198,
+        "W1": 15.283,
+        "W2": 15.887,
+        "J-H_2mass": 0.775,
+        "H-K_2mass": 0.101,
+        "W1-W2_wise": -0.604
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0501+4516",
+      "ra": 75.278167,
+      "dec": 45.276083,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "05010624+4516246",
+        "designation_wise": "J050106.33+451625.6",
+        "offset_arcsec": 1.36,
+        "J": 14.822,
+        "H": 14.062,
+        "K": 13.845,
+        "W1": 13.24,
+        "W2": 13.281,
+        "J-H_2mass": 0.76,
+        "H-K_2mass": 0.217,
+        "W1-W2_wise": -0.041,
+        "proper_motion_masyr": 104.6,
+        "flags": [
+          "PM=105mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "05010648+4516274",
+        "designation_wise": "J050106.33+451625.6",
+        "offset_arcsec": 2.41,
+        "J": 14.407,
+        "H": 14.435,
+        "K": 13.643,
+        "W1": 13.24,
+        "W2": 13.281,
+        "J-H_2mass": -0.028,
+        "H-K_2mass": 0.792,
+        "W1-W2_wise": -0.041,
+        "proper_motion_masyr": 185.4,
+        "flags": [
+          "PM=185mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0502+4654",
+      "ra": 75.519,
+      "dec": 46.901694,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "05020434+4654192",
+        "designation_wise": "J050204.34+465418.8",
+        "offset_arcsec": 0.41,
+        "J": 17.059,
+        "H": 16.116,
+        "K": 15.858,
+        "W1": 15.986,
+        "W2": 16.503,
+        "J-H_2mass": 0.943,
+        "H-K_2mass": 0.258,
+        "W1-W2_wise": -0.517
+      },
+      {
+        "designation_2mass": "05020563+4654019",
+        "designation_wise": "J050205.60+465402.1",
+        "offset_arcsec": 0.39,
+        "J": 15.018,
+        "H": 14.409,
+        "K": 14.116,
+        "W1": 14.024,
+        "W2": 14.048,
+        "J-H_2mass": 0.609,
+        "H-K_2mass": 0.293,
+        "W1-W2_wise": -0.024
+      },
+      {
+        "designation_2mass": "05020397+4653551",
+        "designation_wise": "J050204.05+465355.1",
+        "offset_arcsec": 0.82,
+        "J": 16.508,
+        "H": 15.844,
+        "K": 15.532,
+        "W1": 15.566,
+        "W2": 15.748,
+        "J-H_2mass": 0.664,
+        "H-K_2mass": 0.312,
+        "W1-W2_wise": -0.182
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0509+08",
+      "ra": 77.35,
+      "dec": 8.95,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "05092466+0857100",
+        "designation_wise": "J050924.67+085710.0",
+        "offset_arcsec": 0.21,
+        "J": 15.615,
+        "H": 15.397,
+        "K": 15.168,
+        "W1": 15.185,
+        "W2": 15.318,
+        "J-H_2mass": 0.218,
+        "H-K_2mass": 0.229,
+        "W1-W2_wise": -0.133
+      },
+      {
+        "designation_2mass": "05092314+0856578",
+        "designation_wise": "J050923.14+085657.6",
+        "offset_arcsec": 0.15,
+        "J": 16.677,
+        "H": 15.659,
+        "K": 15.57,
+        "W1": 15.355,
+        "W2": 15.233,
+        "J-H_2mass": 1.018,
+        "H-K_2mass": 0.089,
+        "W1-W2_wise": 0.122
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0510+38",
+      "ra": 77.495833,
+      "dec": 38.2,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "05095959+3812048",
+        "designation_wise": "J050959.59+381204.7",
+        "offset_arcsec": 0.09,
+        "J": 16.81,
+        "H": 16.177,
+        "K": 15.595,
+        "W1": 15.939,
+        "W2": 16.457,
+        "J-H_2mass": 0.633,
+        "H-K_2mass": 0.582,
+        "W1-W2_wise": -0.518
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0517+22",
+      "ra": 79.291667,
+      "dec": 22.266667,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "05171006+2215557",
+        "designation_wise": "J051710.04+221556.0",
+        "offset_arcsec": 0.34,
+        "J": 16.221,
+        "H": 15.315,
+        "K": 15.577,
+        "W1": 15.201,
+        "W2": 15.233,
+        "J-H_2mass": 0.906,
+        "H-K_2mass": -0.262,
+        "W1-W2_wise": -0.032
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0519+44",
+      "ra": 79.75,
+      "dec": 44.0,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "05190034+4400098",
+        "designation_wise": "J051900.34+440009.9",
+        "offset_arcsec": 0.07,
+        "J": 15.061,
+        "H": 14.651,
+        "K": 14.387,
+        "W1": 14.303,
+        "W2": 14.34,
+        "J-H_2mass": 0.41,
+        "H-K_2mass": 0.264,
+        "W1-W2_wise": -0.037
+      },
+      {
+        "designation_2mass": "05185911+4359494",
+        "designation_wise": "J051859.11+435949.1",
+        "offset_arcsec": 0.3,
+        "J": 13.233,
+        "H": 12.745,
+        "K": 12.664,
+        "W1": 12.392,
+        "W2": 12.464,
+        "J-H_2mass": 0.488,
+        "H-K_2mass": 0.081,
+        "W1-W2_wise": -0.072
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0519+54",
+      "ra": 80.0,
+      "dec": 54.416667,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "05200096+5425105",
+        "designation_wise": "J052000.93+542510.3",
+        "offset_arcsec": 0.32,
+        "J": 16.988,
+        "H": 15.957,
+        "K": 15.869,
+        "W1": 16.028,
+        "W2": 16.672,
+        "J-H_2mass": 1.031,
+        "H-K_2mass": 0.088,
+        "W1-W2_wise": -0.644
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0519-6932",
+      "ra": 79.9455,
+      "dec": -69.539861,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "05194777-6932232",
+        "designation_wise": "J051947.69-693223.3",
+        "offset_arcsec": 0.39,
+        "J": 14.93,
+        "H": 14.137,
+        "K": 14.006,
+        "W1": 14.062,
+        "W2": 14.613,
+        "J-H_2mass": 0.793,
+        "H-K_2mass": 0.131,
+        "W1-W2_wise": -0.551
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0521-68",
+      "ra": 80.433333,
+      "dec": -68.583333,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "05214273-6835012",
+        "designation_wise": "J052142.73-683501.0",
+        "offset_arcsec": 0.12,
+        "J": 14.104,
+        "H": 13.172,
+        "K": 12.944,
+        "W1": 12.778,
+        "W2": 12.903,
+        "J-H_2mass": 0.932,
+        "H-K_2mass": 0.228,
+        "W1-W2_wise": -0.125
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0522-6847",
+      "ra": 80.596083,
+      "dec": -68.783944,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "05222514-6847017",
+        "designation_wise": "J052225.17-684701.9",
+        "offset_arcsec": 0.25,
+        "J": 11.123,
+        "H": 10.359,
+        "K": 10.106,
+        "W1": 9.867,
+        "W2": 10.036,
+        "J-H_2mass": 0.764,
+        "H-K_2mass": 0.253,
+        "W1-W2_wise": -0.169
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0532-6639",
+      "ra": 83.247958,
+      "dec": -66.660361,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "05325820-6639424",
+        "designation_wise": "J053258.14-663942.5",
+        "offset_arcsec": 0.34,
+        "J": 16.415,
+        "H": 15.949,
+        "K": 15.455,
+        "W1": 15.842,
+        "W2": 16.27,
+        "J-H_2mass": 0.466,
+        "H-K_2mass": 0.494,
+        "W1-W2_wise": -0.428
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0534+2200",
+      "ra": 83.633208,
+      "dec": 22.014472,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "05343113+2201005",
+        "designation_wise": "J053431.16+220101.6",
+        "offset_arcsec": 1.19,
+        "J": 13.951,
+        "H": 13.263,
+        "K": 14.013,
+        "W1": 9.963,
+        "W2": 9.14,
+        "J-H_2mass": 0.688,
+        "H-K_2mass": -0.75,
+        "W1-W2_wise": 0.823,
+        "proper_motion_masyr": 91.5,
+        "flags": [
+          "PM=92mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "05343124+2201020",
+        "designation_wise": "J053431.16+220101.6",
+        "offset_arcsec": 1.26,
+        "J": 15.341,
+        "H": 13.279,
+        "K": 12.584,
+        "W1": 9.963,
+        "W2": 9.14,
+        "J-H_2mass": 2.062,
+        "H-K_2mass": 0.695,
+        "W1-W2_wise": 0.823,
+        "proper_motion_masyr": 96.9,
+        "flags": [
+          "PM=97mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0535-66",
+      "ra": 83.916667,
+      "dec": -66.866667,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "05354058-6652062",
+        "designation_wise": "J053540.60-665206.1",
+        "offset_arcsec": 0.14,
+        "J": 13.714,
+        "H": 13.869,
+        "K": 13.835,
+        "W1": 13.892,
+        "W2": 14.001,
+        "J-H_2mass": -0.155,
+        "H-K_2mass": 0.034,
+        "W1-W2_wise": -0.109
+      },
+      {
+        "designation_2mass": "05354101-6651535",
+        "designation_wise": "J053541.04-665153.6",
+        "offset_arcsec": 0.22,
+        "J": 15.152,
+        "H": 15.099,
+        "K": 15.736,
+        "W1": 15.257,
+        "W2": 15.434,
+        "J-H_2mass": 0.053,
+        "H-K_2mass": -0.637,
+        "W1-W2_wise": -0.177
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0540-7125",
+      "ra": 85.128333,
+      "dec": -71.425389,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "05403254-7125347",
+        "designation_wise": "J054032.55-712534.6",
+        "offset_arcsec": 0.08,
+        "J": 15.914,
+        "H": 15.253,
+        "K": 15.056,
+        "W1": 15.189,
+        "W2": 15.697,
+        "J-H_2mass": 0.661,
+        "H-K_2mass": 0.197,
+        "W1-W2_wise": -0.508
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0543+2329",
+      "ra": 85.79025,
+      "dec": 23.484722,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "05431056+2329007",
+        "designation_wise": "J054310.54+232900.5",
+        "offset_arcsec": 0.24,
+        "J": 14.763,
+        "H": 13.995,
+        "K": 13.821,
+        "W1": 13.537,
+        "W2": 13.638,
+        "J-H_2mass": 0.768,
+        "H-K_2mass": 0.174,
+        "W1-W2_wise": -0.101
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0554+3107",
+      "ra": 88.520875,
+      "dec": 31.128056,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "05540593+3107411",
+        "designation_wise": "J055405.93+310741.1",
+        "offset_arcsec": 0.03,
+        "J": 13.075,
+        "H": 12.535,
+        "K": 12.372,
+        "W1": 12.298,
+        "W2": 12.326,
+        "J-H_2mass": 0.54,
+        "H-K_2mass": 0.163,
+        "W1-W2_wise": -0.028
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0557+1550",
+      "ra": 89.381042,
+      "dec": 15.835,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "05573213+1550033",
+        "designation_wise": "J055732.14+155003.3",
+        "offset_arcsec": 0.1,
+        "J": 12.454,
+        "H": 11.725,
+        "K": 11.563,
+        "W1": 11.406,
+        "W2": 11.47,
+        "J-H_2mass": 0.729,
+        "H-K_2mass": 0.162,
+        "W1-W2_wise": -0.064
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0611+30",
+      "ra": 92.816667,
+      "dec": 30.266667,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "06111529+3016072",
+        "designation_wise": "J061115.30+301607.2",
+        "offset_arcsec": 0.02,
+        "J": 16.515,
+        "H": 15.475,
+        "K": 15.092,
+        "W1": 13.692,
+        "W2": 12.508,
+        "J-H_2mass": 1.04,
+        "H-K_2mass": 0.383,
+        "W1-W2_wise": 1.184
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0613-0200",
+      "ra": 93.43325,
+      "dec": -2.013111,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "06134398-0200491",
+        "designation_wise": "J061343.98-020049.0",
+        "offset_arcsec": 0.11,
+        "J": 14.119,
+        "H": 13.817,
+        "K": 13.616,
+        "W1": 13.595,
+        "W2": 13.653,
+        "J-H_2mass": 0.302,
+        "H-K_2mass": 0.201,
+        "W1-W2_wise": -0.058
+      },
+      {
+        "designation_2mass": "06134417-0200357",
+        "designation_wise": "J061344.15-020036.4",
+        "offset_arcsec": 0.76,
+        "J": 16.871,
+        "H": 16.051,
+        "K": 16.008,
+        "W1": 16.05,
+        "W2": 16.812,
+        "J-H_2mass": 0.82,
+        "H-K_2mass": 0.043,
+        "W1-W2_wise": -0.762
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0614+2229",
+      "ra": 93.5715,
+      "dec": 22.51,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "06141717+2230282",
+        "designation_wise": "J061417.17+223028.2",
+        "offset_arcsec": 0.02,
+        "J": 13.387,
+        "H": 12.685,
+        "K": 12.452,
+        "W1": 12.27,
+        "W2": 12.32,
+        "J-H_2mass": 0.702,
+        "H-K_2mass": 0.233,
+        "W1-W2_wise": -0.05
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0621+1002",
+      "ra": 95.342125,
+      "dec": 10.044083,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "06212240+1002255",
+        "designation_wise": "J062122.39+100225.4",
+        "offset_arcsec": 0.2,
+        "J": 15.482,
+        "H": 15.322,
+        "K": 14.962,
+        "W1": 14.999,
+        "W2": 15.106,
+        "J-H_2mass": 0.16,
+        "H-K_2mass": 0.36,
+        "W1-W2_wise": -0.107
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0621+25",
+      "ra": 95.25,
+      "dec": 25.0,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "06210030+2500059",
+        "designation_wise": "J062100.30+250005.7",
+        "offset_arcsec": 0.23,
+        "J": 14.466,
+        "H": 14.119,
+        "K": 14.016,
+        "W1": 13.915,
+        "W2": 13.975,
+        "J-H_2mass": 0.347,
+        "H-K_2mass": 0.103,
+        "W1-W2_wise": -0.06
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0622+3749",
+      "ra": 95.543792,
+      "dec": 37.820444,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "06220947+3749099",
+        "designation_wise": "J062209.46+374909.8",
+        "offset_arcsec": 0.13,
+        "J": 16.464,
+        "H": 16.312,
+        "K": 15.728,
+        "W1": 15.929,
+        "W2": 16.461,
+        "J-H_2mass": 0.152,
+        "H-K_2mass": 0.584,
+        "W1-W2_wise": -0.532
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0623+0340",
+      "ra": 95.944833,
+      "dec": 3.668556,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "06234750+0340149",
+        "designation_wise": "J062347.50+034015.1",
+        "offset_arcsec": 0.13,
+        "J": 13.25,
+        "H": 12.764,
+        "K": 12.603,
+        "W1": 12.471,
+        "W2": 12.522,
+        "J-H_2mass": 0.486,
+        "H-K_2mass": 0.161,
+        "W1-W2_wise": -0.051
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0625+10",
+      "ra": 96.4375,
+      "dec": 10.266667,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "06254544+1015468",
+        "designation_wise": "J062545.45+101546.9",
+        "offset_arcsec": 0.19,
+        "J": 15.287,
+        "H": 14.827,
+        "K": 14.797,
+        "W1": 14.78,
+        "W2": 14.935,
+        "J-H_2mass": 0.46,
+        "H-K_2mass": 0.03,
+        "W1-W2_wise": -0.155
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0627+0649",
+      "ra": 96.973458,
+      "dec": 6.831694,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "06275406+0649496",
+        "designation_wise": "J062754.07+064949.3",
+        "offset_arcsec": 0.26,
+        "J": 15.283,
+        "H": 14.717,
+        "K": 14.921,
+        "W1": 14.343,
+        "W2": 14.421,
+        "J-H_2mass": 0.566,
+        "H-K_2mass": -0.204,
+        "W1-W2_wise": -0.078
+      },
+      {
+        "designation_2mass": "06275406+0649429",
+        "designation_wise": "J062754.09+064942.8",
+        "offset_arcsec": 0.5,
+        "J": 15.382,
+        "H": 15.016,
+        "K": 14.61,
+        "W1": 14.74,
+        "W2": 14.985,
+        "J-H_2mass": 0.366,
+        "H-K_2mass": 0.406,
+        "W1-W2_wise": -0.245
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0627+16",
+      "ra": 96.804167,
+      "dec": 16.2,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "06271263+1611489",
+        "designation_wise": "J062712.62+161148.8",
+        "offset_arcsec": 0.18,
+        "J": 15.559,
+        "H": 15.394,
+        "K": 15.558,
+        "W1": 15.141,
+        "W2": 15.333,
+        "J-H_2mass": 0.165,
+        "H-K_2mass": -0.164,
+        "W1-W2_wise": -0.192
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0628+0909",
+      "ra": 97.15075,
+      "dec": 9.153861,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "06283655+0909233",
+        "designation_wise": "J062836.55+090923.3",
+        "offset_arcsec": 0.14,
+        "J": 12.957,
+        "H": 12.637,
+        "K": 12.556,
+        "W1": 12.345,
+        "W2": 12.37,
+        "J-H_2mass": 0.32,
+        "H-K_2mass": 0.081,
+        "W1-W2_wise": -0.025
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0629+2415",
+      "ra": 97.273875,
+      "dec": 24.262028,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "06290533+2415542",
+        "designation_wise": "J062905.34+241555.2",
+        "offset_arcsec": 1.04,
+        "J": 16.316,
+        "H": 15.583,
+        "K": 15.628,
+        "W1": 15.749,
+        "W2": 16.083,
+        "J-H_2mass": 0.733,
+        "H-K_2mass": -0.045,
+        "W1-W2_wise": -0.334,
+        "proper_motion_masyr": 80.0,
+        "flags": [
+          "PM=80mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0633+0632",
+      "ra": 98.434208,
+      "dec": 6.543028,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "06334408+0632361",
+        "designation_wise": "J063344.09+063235.9",
+        "offset_arcsec": 0.28,
+        "J": 16.858,
+        "H": 16.247,
+        "K": 15.629,
+        "W1": 16.085,
+        "W2": 16.501,
+        "J-H_2mass": 0.611,
+        "H-K_2mass": 0.618,
+        "W1-W2_wise": -0.416
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0635+0533",
+      "ra": 98.825,
+      "dec": 5.553056,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "06351827+0533063",
+        "designation_wise": "J063518.28+053306.3",
+        "offset_arcsec": 0.07,
+        "J": 10.603,
+        "H": 10.239,
+        "K": 9.955,
+        "W1": 9.422,
+        "W2": 9.115,
+        "J-H_2mass": 0.364,
+        "H-K_2mass": 0.284,
+        "W1-W2_wise": 0.307
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0636-4549",
+      "ra": 99.140583,
+      "dec": -45.825722,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "06363278-4549322",
+        "designation_wise": "J063632.78-454932.2",
+        "offset_arcsec": 0.02,
+        "J": 15.41,
+        "H": 14.8,
+        "K": 14.949,
+        "W1": 14.941,
+        "W2": 15.013,
+        "J-H_2mass": 0.61,
+        "H-K_2mass": -0.149,
+        "W1-W2_wise": -0.072
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0646+0905",
+      "ra": 101.629125,
+      "dec": 9.097028,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "06463068+0905521",
+        "designation_wise": "J064630.68+090552.1",
+        "offset_arcsec": 0.12,
+        "J": 15.739,
+        "H": 15.168,
+        "K": 14.837,
+        "W1": 15.252,
+        "W2": 15.185,
+        "J-H_2mass": 0.571,
+        "H-K_2mass": 0.331,
+        "W1-W2_wise": 0.067
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0656-2228",
+      "ra": 104.125875,
+      "dec": -22.47375,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "06563063-2228303",
+        "designation_wise": "J065630.66-222830.9",
+        "offset_arcsec": 0.74,
+        "J": 16.851,
+        "H": 16.718,
+        "K": 15.949,
+        "W1": 16.603,
+        "W2": 16.731,
+        "J-H_2mass": 0.133,
+        "H-K_2mass": 0.769,
+        "W1-W2_wise": -0.128
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0659+1414",
+      "ra": 104.950542,
+      "dec": 14.239306,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "06594891+1414293",
+        "designation_wise": "J065948.89+141429.5",
+        "offset_arcsec": 0.36,
+        "J": 16.168,
+        "H": 15.766,
+        "K": 15.219,
+        "W1": 15.697,
+        "W2": 15.86,
+        "J-H_2mass": 0.402,
+        "H-K_2mass": 0.547,
+        "W1-W2_wise": -0.163
+      },
+      {
+        "designation_2mass": "06594760+1414253",
+        "designation_wise": "J065947.57+141425.2",
+        "offset_arcsec": 0.48,
+        "J": 16.373,
+        "H": 15.556,
+        "K": 15.132,
+        "W1": 15.458,
+        "W2": 15.549,
+        "J-H_2mass": 0.817,
+        "H-K_2mass": 0.424,
+        "W1-W2_wise": -0.091
+      },
+      {
+        "designation_2mass": "06594824+1414086",
+        "designation_wise": "J065948.25+141408.6",
+        "offset_arcsec": 0.11,
+        "J": 15.476,
+        "H": 14.566,
+        "K": 14.287,
+        "W1": 13.953,
+        "W2": 13.858,
+        "J-H_2mass": 0.91,
+        "H-K_2mass": 0.279,
+        "W1-W2_wise": 0.095
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0700+6418",
+      "ra": 105.1575,
+      "dec": 64.303111,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "07003579+6418160",
+        "designation_wise": "J070035.84+641815.8",
+        "offset_arcsec": 0.36,
+        "J": 15.797,
+        "H": 15.423,
+        "K": 15.022,
+        "W1": 15.081,
+        "W2": 15.116,
+        "J-H_2mass": 0.374,
+        "H-K_2mass": 0.401,
+        "W1-W2_wise": -0.035
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0711+0931",
+      "ra": 107.90075,
+      "dec": 9.523611,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "07113593+0931339",
+        "designation_wise": "J071135.94+093132.9",
+        "offset_arcsec": 1.06,
+        "J": 16.344,
+        "H": 16.069,
+        "K": 15.699,
+        "W1": 15.604,
+        "W2": 15.617,
+        "J-H_2mass": 0.275,
+        "H-K_2mass": 0.37,
+        "W1-W2_wise": -0.013,
+        "proper_motion_masyr": 81.5,
+        "flags": [
+          "PM=82mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0719-2545",
+      "ra": 109.78075,
+      "dec": -25.750056,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "07190817-2545027",
+        "designation_wise": "J071908.17-254503.0",
+        "offset_arcsec": 0.37,
+        "J": 16.227,
+        "H": 15.768,
+        "K": 15.531,
+        "W1": 15.42,
+        "W2": 15.517,
+        "J-H_2mass": 0.459,
+        "H-K_2mass": 0.237,
+        "W1-W2_wise": -0.097
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0720-3125",
+      "ra": 110.104,
+      "dec": -31.430583,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "07202611-3125501",
+        "designation_wise": "J072026.10-312550.2",
+        "offset_arcsec": 0.1,
+        "J": 14.626,
+        "H": 14.193,
+        "K": 14.133,
+        "W1": 14.062,
+        "W2": 14.07,
+        "J-H_2mass": 0.433,
+        "H-K_2mass": 0.06,
+        "W1-W2_wise": -0.008
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0721-2038",
+      "ra": 110.42875,
+      "dec": -20.635306,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "07214234-2037599",
+        "designation_wise": "J072142.36-203759.7",
+        "offset_arcsec": 0.25,
+        "J": 14.652,
+        "H": 14.448,
+        "K": 14.332,
+        "W1": 14.267,
+        "W2": 14.501,
+        "J-H_2mass": 0.204,
+        "H-K_2mass": 0.116,
+        "W1-W2_wise": -0.234
+      },
+      {
+        "designation_2mass": "07214335-2038164",
+        "designation_wise": "J072143.36-203815.8",
+        "offset_arcsec": 0.63,
+        "J": 15.625,
+        "H": 15.185,
+        "K": 15.198,
+        "W1": 15.101,
+        "W2": 15.095,
+        "J-H_2mass": 0.44,
+        "H-K_2mass": -0.013,
+        "W1-W2_wise": 0.006
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0725-1635",
+      "ra": 111.251667,
+      "dec": -16.596056,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "07250031-1635365",
+        "designation_wise": "J072500.29-163536.2",
+        "offset_arcsec": 0.47,
+        "J": 16.465,
+        "H": 16.009,
+        "K": 15.402,
+        "W1": 15.259,
+        "W2": 15.372,
+        "J-H_2mass": 0.456,
+        "H-K_2mass": 0.607,
+        "W1-W2_wise": -0.113
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0729-1448",
+      "ra": 112.318542,
+      "dec": -14.810222,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "07291658-1448448",
+        "designation_wise": "J072916.58-144844.7",
+        "offset_arcsec": 0.11,
+        "J": 11.432,
+        "H": 10.872,
+        "K": 10.742,
+        "W1": 10.596,
+        "W2": 10.685,
+        "J-H_2mass": 0.56,
+        "H-K_2mass": 0.13,
+        "W1-W2_wise": -0.089
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0729-1836",
+      "ra": 112.384792,
+      "dec": -18.611861,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "07293142-1836355",
+        "designation_wise": "J072931.43-183637.3",
+        "offset_arcsec": 1.82,
+        "J": 16.064,
+        "H": 15.342,
+        "K": 14.963,
+        "W1": 14.371,
+        "W2": 14.563,
+        "J-H_2mass": 0.722,
+        "H-K_2mass": 0.379,
+        "W1-W2_wise": -0.192,
+        "proper_motion_masyr": 140.0,
+        "flags": [
+          "PM=140mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "07293150-1836393",
+        "designation_wise": "J072931.43-183637.3",
+        "offset_arcsec": 2.2,
+        "J": 16.335,
+        "H": 15.56,
+        "K": 15.115,
+        "W1": 14.371,
+        "W2": 14.563,
+        "J-H_2mass": 0.775,
+        "H-K_2mass": 0.445,
+        "W1-W2_wise": -0.192,
+        "proper_motion_masyr": 169.2,
+        "flags": [
+          "PM=169mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "07293282-1836391",
+        "designation_wise": "J072932.70-183639.6",
+        "offset_arcsec": 1.73,
+        "J": 16.705,
+        "H": 16.153,
+        "K": 16.035,
+        "W1": 15.564,
+        "W2": 15.964,
+        "J-H_2mass": 0.552,
+        "H-K_2mass": 0.118,
+        "W1-W2_wise": -0.4,
+        "proper_motion_masyr": 133.1,
+        "flags": [
+          "PM=133mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0733-2345",
+      "ra": 113.3525,
+      "dec": -23.765611,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "07332458-2345469",
+        "designation_wise": "J073324.59-234546.9",
+        "offset_arcsec": 0.14,
+        "J": 16.304,
+        "H": 15.794,
+        "K": 15.375,
+        "W1": 15.618,
+        "W2": 15.901,
+        "J-H_2mass": 0.51,
+        "H-K_2mass": 0.419,
+        "W1-W2_wise": -0.283
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0734-1559",
+      "ra": 113.5,
+      "dec": -15.983333,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "07335951-1558521",
+        "designation_wise": "J073359.46-155851.7",
+        "offset_arcsec": 0.77,
+        "J": 14.982,
+        "H": 14.68,
+        "K": 14.466,
+        "W1": 14.433,
+        "W2": 14.519,
+        "J-H_2mass": 0.302,
+        "H-K_2mass": 0.214,
+        "W1-W2_wise": -0.086
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0737-2202",
+      "ra": 114.433625,
+      "dec": -22.034806,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "07374390-2202087",
+        "designation_wise": "J073743.88-220208.7",
+        "offset_arcsec": 0.3,
+        "J": 14.285,
+        "H": 13.956,
+        "K": 13.866,
+        "W1": 13.738,
+        "W2": 13.844,
+        "J-H_2mass": 0.329,
+        "H-K_2mass": 0.09,
+        "W1-W2_wise": -0.106
+      },
+      {
+        "designation_2mass": "07374331-2202157",
+        "designation_wise": "J073743.32-220213.7",
+        "offset_arcsec": 1.98,
+        "J": 16.016,
+        "H": 15.875,
+        "K": 15.149,
+        "W1": 15.472,
+        "W2": 15.92,
+        "J-H_2mass": 0.141,
+        "H-K_2mass": 0.726,
+        "W1-W2_wise": -0.448,
+        "proper_motion_masyr": 152.3,
+        "flags": [
+          "PM=152mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "07374430-2202190",
+        "designation_wise": "J073744.30-220219.0",
+        "offset_arcsec": 0.06,
+        "J": 15.326,
+        "H": 15.203,
+        "K": 14.836,
+        "W1": 15.065,
+        "W2": 15.287,
+        "J-H_2mass": 0.123,
+        "H-K_2mass": 0.367,
+        "W1-W2_wise": -0.222
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0737-3039A",
+      "ra": 114.463542,
+      "dec": -30.661306,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "07375148-3039395",
+        "designation_wise": "J073751.48-303939.5",
+        "offset_arcsec": 0.08,
+        "J": 12.819,
+        "H": 12.565,
+        "K": 12.501,
+        "W1": 12.36,
+        "W2": 12.398,
+        "J-H_2mass": 0.254,
+        "H-K_2mass": 0.064,
+        "W1-W2_wise": -0.038
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0737-3039B",
+      "ra": 114.463542,
+      "dec": -30.661306,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "07375148-3039395",
+        "designation_wise": "J073751.48-303939.5",
+        "offset_arcsec": 0.08,
+        "J": 12.819,
+        "H": 12.565,
+        "K": 12.501,
+        "W1": 12.36,
+        "W2": 12.398,
+        "J-H_2mass": 0.254,
+        "H-K_2mass": 0.064,
+        "W1-W2_wise": -0.038
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0746-4529",
+      "ra": 116.748,
+      "dec": -45.490722,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "07465972-4529405",
+        "designation_wise": "J074659.71-452940.4",
+        "offset_arcsec": 0.12,
+        "J": 15.702,
+        "H": 15.063,
+        "K": 15.083,
+        "W1": 15.265,
+        "W2": 15.274,
+        "J-H_2mass": 0.639,
+        "H-K_2mass": -0.02,
+        "W1-W2_wise": -0.009
+      },
+      {
+        "designation_2mass": "07465860-4529318",
+        "designation_wise": "J074658.59-452932.0",
+        "offset_arcsec": 0.16,
+        "J": 15.78,
+        "H": 15.118,
+        "K": 15.177,
+        "W1": 15.121,
+        "W2": 15.268,
+        "J-H_2mass": 0.662,
+        "H-K_2mass": -0.059,
+        "W1-W2_wise": -0.147
+      },
+      {
+        "designation_2mass": "07465856-4529192",
+        "designation_wise": "J074658.53-452919.2",
+        "offset_arcsec": 0.3,
+        "J": 16.757,
+        "H": 15.754,
+        "K": 15.401,
+        "W1": 16.079,
+        "W2": 17.366,
+        "J-H_2mass": 1.003,
+        "H-K_2mass": 0.353,
+        "W1-W2_wise": -1.287
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0749-4247",
+      "ra": 117.456958,
+      "dec": -42.795028,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "07494996-4247477",
+        "designation_wise": "J074949.94-424747.6",
+        "offset_arcsec": 0.18,
+        "J": 13.239,
+        "H": 12.589,
+        "K": 12.503,
+        "W1": 12.375,
+        "W2": 12.445,
+        "J-H_2mass": 0.65,
+        "H-K_2mass": 0.086,
+        "W1-W2_wise": -0.07
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0754+3231",
+      "ra": 118.669542,
+      "dec": 32.532278,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "07544132+3232020",
+        "designation_wise": "J075441.32+323202.0",
+        "offset_arcsec": 0.1,
+        "J": 15.047,
+        "H": 14.78,
+        "K": 14.729,
+        "W1": 14.673,
+        "W2": 14.654,
+        "J-H_2mass": 0.267,
+        "H-K_2mass": 0.051,
+        "W1-W2_wise": 0.019
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0804-3647",
+      "ra": 121.0925,
+      "dec": -36.793194,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08042223-3647482",
+        "designation_wise": "J080422.26-364748.8",
+        "offset_arcsec": 0.72,
+        "J": 16.714,
+        "H": 16.047,
+        "K": 15.885,
+        "W1": 16.057,
+        "W2": 16.792,
+        "J-H_2mass": 0.667,
+        "H-K_2mass": 0.162,
+        "W1-W2_wise": -0.735
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0806+08",
+      "ra": 121.520833,
+      "dec": 8.283333,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08060463+0817131",
+        "designation_wise": "J080604.66+081713.0",
+        "offset_arcsec": 0.56,
+        "J": 16.641,
+        "H": 16.018,
+        "K": 15.839,
+        "W1": 15.797,
+        "W2": 15.549,
+        "J-H_2mass": 0.623,
+        "H-K_2mass": 0.179,
+        "W1-W2_wise": 0.248
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0806-4123",
+      "ra": 121.5975,
+      "dec": -41.37525,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08062326-4122443",
+        "designation_wise": "J080623.28-412244.1",
+        "offset_arcsec": 0.3,
+        "J": 15.32,
+        "H": 14.815,
+        "K": 14.635,
+        "W1": 14.22,
+        "W2": 14.312,
+        "J-H_2mass": 0.505,
+        "H-K_2mass": 0.18,
+        "W1-W2_wise": -0.092
+      },
+      {
+        "designation_2mass": "08062407-4122231",
+        "designation_wise": "J080624.10-412225.3",
+        "offset_arcsec": 2.24,
+        "J": 16.694,
+        "H": 15.332,
+        "K": 15.571,
+        "W1": 15.343,
+        "W2": 15.633,
+        "J-H_2mass": 1.362,
+        "H-K_2mass": -0.239,
+        "W1-W2_wise": -0.29,
+        "proper_motion_masyr": 172.3,
+        "flags": [
+          "PM=172mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "08062261-4122225",
+        "designation_wise": "J080622.59-412222.6",
+        "offset_arcsec": 0.23,
+        "J": 12.464,
+        "H": 11.798,
+        "K": 11.618,
+        "W1": 11.511,
+        "W2": 11.561,
+        "J-H_2mass": 0.666,
+        "H-K_2mass": 0.18,
+        "W1-W2_wise": -0.05
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0808-3937",
+      "ra": 122.048458,
+      "dec": -39.631361,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08081240-3938038",
+        "designation_wise": "J080812.41-393803.7",
+        "offset_arcsec": 0.1,
+        "J": 14.54,
+        "H": 14.096,
+        "K": 14.001,
+        "W1": 13.99,
+        "W2": 14.192,
+        "J-H_2mass": 0.444,
+        "H-K_2mass": 0.095,
+        "W1-W2_wise": -0.202
+      },
+      {
+        "designation_2mass": "08081067-3937597",
+        "designation_wise": "J080810.79-393759.2",
+        "offset_arcsec": 1.41,
+        "J": 16.554,
+        "H": 15.875,
+        "K": 14.919,
+        "W1": 15.073,
+        "W2": 15.224,
+        "J-H_2mass": 0.679,
+        "H-K_2mass": 0.956,
+        "W1-W2_wise": -0.151,
+        "proper_motion_masyr": 108.5,
+        "flags": [
+          "PM=108mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "08081197-3937467",
+        "designation_wise": "J080811.97-393746.8",
+        "offset_arcsec": 0.1,
+        "J": 12.946,
+        "H": 12.702,
+        "K": 12.557,
+        "W1": 12.371,
+        "W2": 12.403,
+        "J-H_2mass": 0.244,
+        "H-K_2mass": 0.145,
+        "W1-W2_wise": -0.032
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0809-4753",
+      "ra": 122.432875,
+      "dec": -47.898639,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08094465-4753435",
+        "designation_wise": "J080944.65-475344.3",
+        "offset_arcsec": 0.76,
+        "J": 15.061,
+        "H": 14.698,
+        "K": 14.604,
+        "W1": 14.401,
+        "W2": 14.345,
+        "J-H_2mass": 0.363,
+        "H-K_2mass": 0.094,
+        "W1-W2_wise": 0.056
+      },
+      {
+        "designation_2mass": "08094378-4753599",
+        "designation_wise": "J080943.77-475359.7",
+        "offset_arcsec": 0.3,
+        "J": 10.006,
+        "H": 9.737,
+        "K": 9.663,
+        "W1": 9.64,
+        "W2": 9.668,
+        "J-H_2mass": 0.269,
+        "H-K_2mass": 0.074,
+        "W1-W2_wise": -0.028
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0812-3905",
+      "ra": 123.061667,
+      "dec": -39.096917,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08121352-3905504",
+        "designation_wise": "J081213.52-390550.2",
+        "offset_arcsec": 0.25,
+        "J": 15.679,
+        "H": 15.025,
+        "K": 14.983,
+        "W1": 14.763,
+        "W2": 15.176,
+        "J-H_2mass": 0.654,
+        "H-K_2mass": 0.042,
+        "W1-W2_wise": -0.413
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0818-3232",
+      "ra": 124.608042,
+      "dec": -32.541806,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08182561-3232400",
+        "designation_wise": "J081825.61-323240.1",
+        "offset_arcsec": 0.08,
+        "J": 14.414,
+        "H": 14.212,
+        "K": 14.086,
+        "W1": 14.146,
+        "W2": 14.31,
+        "J-H_2mass": 0.202,
+        "H-K_2mass": 0.126,
+        "W1-W2_wise": -0.164
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0820-3826",
+      "ra": 125.249708,
+      "dec": -38.44525,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08210081-3826474",
+        "designation_wise": "J082100.81-382646.5",
+        "offset_arcsec": 0.84,
+        "J": 15.047,
+        "H": 14.513,
+        "K": 14.378,
+        "W1": 14.29,
+        "W2": 14.502,
+        "J-H_2mass": 0.534,
+        "H-K_2mass": 0.135,
+        "W1-W2_wise": -0.212
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0820-3921",
+      "ra": 125.204625,
+      "dec": -39.365472,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08204883-3921578",
+        "designation_wise": "J082048.85-392157.7",
+        "offset_arcsec": 0.17,
+        "J": 15.282,
+        "H": 14.386,
+        "K": 14.004,
+        "W1": 13.943,
+        "W2": 14.01,
+        "J-H_2mass": 0.896,
+        "H-K_2mass": 0.382,
+        "W1-W2_wise": -0.067
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0820-4114",
+      "ra": 125.064375,
+      "dec": -41.243444,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08201487-4114408",
+        "designation_wise": "J082014.75-411440.4",
+        "offset_arcsec": 1.4,
+        "J": 16.896,
+        "H": 15.997,
+        "K": 15.427,
+        "W1": 15.541,
+        "W2": 16.133,
+        "J-H_2mass": 0.899,
+        "H-K_2mass": 0.57,
+        "W1-W2_wise": -0.592,
+        "proper_motion_masyr": 107.7,
+        "flags": [
+          "PM=108mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "08201538-4114250",
+        "designation_wise": "J082015.36-411425.0",
+        "offset_arcsec": 0.25,
+        "J": 13.587,
+        "H": 13.286,
+        "K": 13.061,
+        "W1": 12.887,
+        "W2": 12.898,
+        "J-H_2mass": 0.301,
+        "H-K_2mass": 0.225,
+        "W1-W2_wise": -0.011
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0821-4221",
+      "ra": 125.436,
+      "dec": -42.357083,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08214576-4221214",
+        "designation_wise": "J082145.82-422120.7",
+        "offset_arcsec": 0.92,
+        "J": 16.269,
+        "H": 15.413,
+        "K": 14.84,
+        "W1": 14.233,
+        "W2": 13.798,
+        "J-H_2mass": 0.856,
+        "H-K_2mass": 0.573,
+        "W1-W2_wise": 0.435
+      },
+      {
+        "designation_2mass": "08214492-4221136",
+        "designation_wise": "J082144.97-422113.8",
+        "offset_arcsec": 0.63,
+        "J": 16.209,
+        "H": 15.028,
+        "K": 15.256,
+        "W1": 14.855,
+        "W2": 14.968,
+        "J-H_2mass": 1.181,
+        "H-K_2mass": -0.228,
+        "W1-W2_wise": -0.113
+      },
+      {
+        "designation_2mass": "08214504-4221144",
+        "designation_wise": "J082144.97-422113.8",
+        "offset_arcsec": 0.98,
+        "J": 15.886,
+        "H": 15.417,
+        "K": 15.119,
+        "W1": 14.855,
+        "W2": 14.968,
+        "J-H_2mass": 0.469,
+        "H-K_2mass": 0.298,
+        "W1-W2_wise": -0.113
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0828-3417",
+      "ra": 127.069167,
+      "dec": -34.285278,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08281644-3416575",
+        "designation_wise": "J082816.45-341657.7",
+        "offset_arcsec": 0.17,
+        "J": 16.124,
+        "H": 15.621,
+        "K": 15.469,
+        "W1": 15.615,
+        "W2": 16.638,
+        "J-H_2mass": 0.503,
+        "H-K_2mass": 0.152,
+        "W1-W2_wise": -1.023
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0834-4159",
+      "ra": 128.567917,
+      "dec": -41.9975,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08341678-4159461",
+        "designation_wise": "J083416.76-415945.3",
+        "offset_arcsec": 0.87,
+        "J": 16.299,
+        "H": 15.123,
+        "K": 14.59,
+        "W1": 14.156,
+        "W2": 14.359,
+        "J-H_2mass": 1.176,
+        "H-K_2mass": 0.533,
+        "W1-W2_wise": -0.203
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0835-4510",
+      "ra": 128.835875,
+      "dec": -45.176361,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08351990-4510275",
+        "designation_wise": "J083519.93-451027.4",
+        "offset_arcsec": 0.36,
+        "J": 15.418,
+        "H": 14.957,
+        "K": 15.144,
+        "W1": 14.468,
+        "W2": 14.653,
+        "J-H_2mass": 0.461,
+        "H-K_2mass": -0.187,
+        "W1-W2_wise": -0.185
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0837-24",
+      "ra": 129.433333,
+      "dec": -24.796667,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08374358-2447595",
+        "designation_wise": "J083743.57-244759.5",
+        "offset_arcsec": 0.12,
+        "J": 14.36,
+        "H": 14.137,
+        "K": 14.055,
+        "W1": 14.033,
+        "W2": 14.147,
+        "J-H_2mass": 0.223,
+        "H-K_2mass": 0.082,
+        "W1-W2_wise": -0.114
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0837-4135",
+      "ra": 129.33825,
+      "dec": -41.587333,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08372212-4135065",
+        "designation_wise": "J083722.12-413506.5",
+        "offset_arcsec": 0.02,
+        "J": 14.038,
+        "H": 13.558,
+        "K": 13.397,
+        "W1": 13.445,
+        "W2": 13.726,
+        "J-H_2mass": 0.48,
+        "H-K_2mass": 0.161,
+        "W1-W2_wise": -0.281
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0838-2621",
+      "ra": 129.578333,
+      "dec": -26.358194,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08381814-2621192",
+        "designation_wise": "J083818.15-262118.3",
+        "offset_arcsec": 0.9,
+        "J": 16.534,
+        "H": 16.011,
+        "K": 16.412,
+        "W1": 15.836,
+        "W2": 16.425,
+        "J-H_2mass": 0.523,
+        "H-K_2mass": -0.401,
+        "W1-W2_wise": -0.589
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0843-5022",
+      "ra": 130.791167,
+      "dec": -50.378639,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08431100-5022412",
+        "designation_wise": "J084311.02-502242.1",
+        "offset_arcsec": 0.94,
+        "J": 15.843,
+        "H": 15.205,
+        "K": 15.016,
+        "W1": 14.675,
+        "W2": 14.673,
+        "J-H_2mass": 0.638,
+        "H-K_2mass": 0.189,
+        "W1-W2_wise": 0.002
+      },
+      {
+        "designation_2mass": "08431017-5022319",
+        "designation_wise": "J084310.14-502232.6",
+        "offset_arcsec": 0.82,
+        "J": 15.733,
+        "H": 14.746,
+        "K": 14.327,
+        "W1": 14.417,
+        "W2": 14.517,
+        "J-H_2mass": 0.987,
+        "H-K_2mass": 0.419,
+        "W1-W2_wise": -0.1
+      },
+      {
+        "designation_2mass": "08430936-5022503",
+        "designation_wise": "J084309.39-502250.4",
+        "offset_arcsec": 0.3,
+        "J": 16.383,
+        "H": 15.659,
+        "K": 15.018,
+        "W1": 15.372,
+        "W2": 15.611,
+        "J-H_2mass": 0.724,
+        "H-K_2mass": 0.641,
+        "W1-W2_wise": -0.239
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0846-3533",
+      "ra": 131.52525,
+      "dec": -35.561306,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08460571-3533508",
+        "designation_wise": "J084605.72-353349.9",
+        "offset_arcsec": 0.86,
+        "J": 16.816,
+        "H": 15.811,
+        "K": 15.223,
+        "W1": 15.557,
+        "W2": 16.393,
+        "J-H_2mass": 1.005,
+        "H-K_2mass": 0.588,
+        "W1-W2_wise": -0.836
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0847-4316",
+      "ra": 131.988875,
+      "dec": -43.282444,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08475714-4317064",
+        "designation_wise": "J084757.14-431706.5",
+        "offset_arcsec": 0.1,
+        "J": 14.924,
+        "H": 14.393,
+        "K": 14.311,
+        "W1": 14.233,
+        "W2": 14.441,
+        "J-H_2mass": 0.531,
+        "H-K_2mass": 0.082,
+        "W1-W2_wise": -0.208
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0849-6322",
+      "ra": 132.427458,
+      "dec": -63.376389,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08494198-6322395",
+        "designation_wise": "J084942.01-632239.4",
+        "offset_arcsec": 0.23,
+        "J": 14.468,
+        "H": 13.802,
+        "K": 13.532,
+        "W1": 13.251,
+        "W2": 13.163,
+        "J-H_2mass": 0.666,
+        "H-K_2mass": 0.27,
+        "W1-W2_wise": 0.088
+      },
+      {
+        "designation_2mass": "08494412-6322268",
+        "designation_wise": "J084944.10-632226.8",
+        "offset_arcsec": 0.13,
+        "J": 14.256,
+        "H": 13.869,
+        "K": 13.741,
+        "W1": 13.635,
+        "W2": 13.684,
+        "J-H_2mass": 0.387,
+        "H-K_2mass": 0.128,
+        "W1-W2_wise": -0.049
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0855-4658",
+      "ra": 133.831542,
+      "dec": -46.972944,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08551980-4658291",
+        "designation_wise": "J085519.71-465828.7",
+        "offset_arcsec": 0.98,
+        "J": 16.672,
+        "H": 15.943,
+        "K": 15.148,
+        "W1": 15.549,
+        "W2": 15.988,
+        "J-H_2mass": 0.729,
+        "H-K_2mass": 0.795,
+        "W1-W2_wise": -0.439
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0856-6137",
+      "ra": 134.247125,
+      "dec": -61.631472,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08565901-6138007",
+        "designation_wise": "J085659.01-613800.6",
+        "offset_arcsec": 0.1,
+        "J": 14.783,
+        "H": 14.152,
+        "K": 14.086,
+        "W1": 13.772,
+        "W2": 13.876,
+        "J-H_2mass": 0.631,
+        "H-K_2mass": 0.066,
+        "W1-W2_wise": -0.104
+      },
+      {
+        "designation_2mass": "08565893-6137417",
+        "designation_wise": "J085658.91-613741.8",
+        "offset_arcsec": 0.1,
+        "J": 14.515,
+        "H": 14.107,
+        "K": 14.166,
+        "W1": 14.083,
+        "W2": 14.208,
+        "J-H_2mass": 0.408,
+        "H-K_2mass": -0.059,
+        "W1-W2_wise": -0.125
+      },
+      {
+        "designation_2mass": "08565967-6138079",
+        "designation_wise": "J085659.90-613807.4",
+        "offset_arcsec": 1.72,
+        "J": 15.808,
+        "H": 15.531,
+        "K": 15.151,
+        "W1": 15.409,
+        "W2": 15.533,
+        "J-H_2mass": 0.277,
+        "H-K_2mass": 0.38,
+        "W1-W2_wise": -0.124,
+        "proper_motion_masyr": 132.3,
+        "flags": [
+          "PM=132mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0857-4424",
+      "ra": 134.479833,
+      "dec": -44.402861,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "08575587-4424105",
+        "designation_wise": "J085755.89-442410.5",
+        "offset_arcsec": 0.2,
+        "J": 14.484,
+        "H": 13.698,
+        "K": 13.275,
+        "W1": 13.048,
+        "W2": 13.004,
+        "J-H_2mass": 0.786,
+        "H-K_2mass": 0.423,
+        "W1-W2_wise": 0.044
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0900-3144",
+      "ra": 135.183125,
+      "dec": -31.741917,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09004401-3144452",
+        "designation_wise": "J090044.02-314445.3",
+        "offset_arcsec": 0.13,
+        "J": 14.948,
+        "H": 14.613,
+        "K": 14.363,
+        "W1": 14.417,
+        "W2": 14.488,
+        "J-H_2mass": 0.335,
+        "H-K_2mass": 0.25,
+        "W1-W2_wise": -0.071
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0901-4624",
+      "ra": 135.417167,
+      "dec": -46.413472,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09014009-4624355",
+        "designation_wise": "J090140.08-462435.5",
+        "offset_arcsec": 0.06,
+        "J": 13.199,
+        "H": 12.667,
+        "K": 12.526,
+        "W1": 12.358,
+        "W2": 12.376,
+        "J-H_2mass": 0.532,
+        "H-K_2mass": 0.141,
+        "W1-W2_wise": -0.018
+      },
+      {
+        "designation_2mass": "09014020-4624527",
+        "designation_wise": "J090140.19-462452.8",
+        "offset_arcsec": 0.13,
+        "J": 12.969,
+        "H": 12.548,
+        "K": 12.345,
+        "W1": 12.157,
+        "W2": 12.144,
+        "J-H_2mass": 0.421,
+        "H-K_2mass": 0.203,
+        "W1-W2_wise": 0.013
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0904-4246",
+      "ra": 136.246667,
+      "dec": -42.770556,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09045950-4246222",
+        "designation_wise": "J090459.47-424622.2",
+        "offset_arcsec": 0.27,
+        "J": 16.259,
+        "H": 15.611,
+        "K": 15.546,
+        "W1": 14.963,
+        "W2": 15.088,
+        "J-H_2mass": 0.648,
+        "H-K_2mass": 0.065,
+        "W1-W2_wise": -0.125
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0904-7459",
+      "ra": 136.045,
+      "dec": -74.995222,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09040994-7459526",
+        "designation_wise": "J090409.96-745952.7",
+        "offset_arcsec": 0.11,
+        "J": 13.8,
+        "H": 13.462,
+        "K": 13.306,
+        "W1": 13.299,
+        "W2": 13.299,
+        "J-H_2mass": 0.338,
+        "H-K_2mass": 0.156,
+        "W1-W2_wise": 0.0
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0905-4536",
+      "ra": 136.349583,
+      "dec": -45.614722,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09052404-4536406",
+        "designation_wise": "J090524.02-453641.6",
+        "offset_arcsec": 1.07,
+        "J": 16.665,
+        "H": 16.34,
+        "K": 15.497,
+        "W1": 15.549,
+        "W2": 15.861,
+        "J-H_2mass": 0.325,
+        "H-K_2mass": 0.843,
+        "W1-W2_wise": -0.312,
+        "proper_motion_masyr": 82.3,
+        "flags": [
+          "PM=82mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "09052427-4537041",
+        "designation_wise": "J090524.40-453704.3",
+        "offset_arcsec": 1.44,
+        "J": 16.093,
+        "H": 15.658,
+        "K": 14.676,
+        "W1": 14.879,
+        "W2": 15.2,
+        "J-H_2mass": 0.435,
+        "H-K_2mass": 0.982,
+        "W1-W2_wise": -0.321,
+        "proper_motion_masyr": 110.8,
+        "flags": [
+          "PM=111mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0907-5157",
+      "ra": 136.81625,
+      "dec": -51.966444,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09071629-5157558",
+        "designation_wise": "J090716.35-515756.3",
+        "offset_arcsec": 0.72,
+        "J": 16.104,
+        "H": 15.756,
+        "K": 15.248,
+        "W1": 15.245,
+        "W2": 16.189,
+        "J-H_2mass": 0.348,
+        "H-K_2mass": 0.508,
+        "W1-W2_wise": -0.944
+      },
+      {
+        "designation_2mass": "09071451-5158032",
+        "designation_wise": "J090714.53-515803.4",
+        "offset_arcsec": 0.36,
+        "J": 15.352,
+        "H": 14.627,
+        "K": 14.318,
+        "W1": 14.097,
+        "W2": 14.327,
+        "J-H_2mass": 0.725,
+        "H-K_2mass": 0.309,
+        "W1-W2_wise": -0.23
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0909-7212",
+      "ra": 137.4,
+      "dec": -72.202333,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09093666-7212146",
+        "designation_wise": "J090936.53-721213.9",
+        "offset_arcsec": 0.91,
+        "J": 16.772,
+        "H": 16.228,
+        "K": 16.088,
+        "W1": 15.99,
+        "W2": 15.893,
+        "J-H_2mass": 0.544,
+        "H-K_2mass": 0.14,
+        "W1-W2_wise": 0.097
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0912-3851",
+      "ra": 138.177917,
+      "dec": -38.850833,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09124247-3851027",
+        "designation_wise": "J091242.51-385102.7",
+        "offset_arcsec": 0.46,
+        "J": 16.456,
+        "H": 16.087,
+        "K": 16.75,
+        "W1": 15.997,
+        "W2": 17.208,
+        "J-H_2mass": 0.369,
+        "H-K_2mass": -0.663,
+        "W1-W2_wise": -1.211
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0919-6040",
+      "ra": 139.866125,
+      "dec": -60.680667,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09192885-6040504",
+        "designation_wise": "J091928.81-604050.4",
+        "offset_arcsec": 0.25,
+        "J": 11.53,
+        "H": 11.191,
+        "K": 11.134,
+        "W1": 11.072,
+        "W2": 11.129,
+        "J-H_2mass": 0.339,
+        "H-K_2mass": 0.057,
+        "W1-W2_wise": -0.057
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0922-4949",
+      "ra": 140.562333,
+      "dec": -49.820028,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09221450-4949086",
+        "designation_wise": "J092214.45-494908.7",
+        "offset_arcsec": 0.53,
+        "J": 15.186,
+        "H": 14.507,
+        "K": 14.292,
+        "W1": 14.104,
+        "W2": 14.303,
+        "J-H_2mass": 0.679,
+        "H-K_2mass": 0.215,
+        "W1-W2_wise": -0.199
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0922-52",
+      "ra": 140.5,
+      "dec": -52.0,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09215976-5200084",
+        "designation_wise": "J092159.67-520007.3",
+        "offset_arcsec": 1.35,
+        "J": 14.37,
+        "H": 13.953,
+        "K": 13.83,
+        "W1": 13.602,
+        "W2": 13.869,
+        "J-H_2mass": 0.417,
+        "H-K_2mass": 0.123,
+        "W1-W2_wise": -0.267,
+        "proper_motion_masyr": 103.8,
+        "flags": [
+          "PM=104mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0923-31",
+      "ra": 140.991667,
+      "dec": -31.95,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09235728-3156586",
+        "designation_wise": "J092357.28-315658.1",
+        "offset_arcsec": 0.57,
+        "J": 15.342,
+        "H": 14.947,
+        "K": 14.754,
+        "W1": 14.796,
+        "W2": 14.855,
+        "J-H_2mass": 0.395,
+        "H-K_2mass": 0.193,
+        "W1-W2_wise": -0.059
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0924-5302",
+      "ra": 141.036208,
+      "dec": -53.045611,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09240774-5302325",
+        "designation_wise": "J092407.73-530231.9",
+        "offset_arcsec": 0.63,
+        "J": 15.017,
+        "H": 14.666,
+        "K": 14.357,
+        "W1": 14.515,
+        "W2": 15.18,
+        "J-H_2mass": 0.351,
+        "H-K_2mass": 0.309,
+        "W1-W2_wise": -0.665
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0924-5814",
+      "ra": 141.129167,
+      "dec": -58.235111,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09242974-5814134",
+        "designation_wise": "J092429.74-581413.3",
+        "offset_arcsec": 0.1,
+        "J": 16.163,
+        "H": 15.981,
+        "K": 15.968,
+        "W1": 15.745,
+        "W2": 16.715,
+        "J-H_2mass": 0.182,
+        "H-K_2mass": 0.013,
+        "W1-W2_wise": -0.97
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0931-1902",
+      "ra": 142.829667,
+      "dec": -19.048611,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09311852-1902517",
+        "designation_wise": "J093118.51-190252.0",
+        "offset_arcsec": 0.27,
+        "J": 16.218,
+        "H": 15.375,
+        "K": 15.015,
+        "W1": 14.223,
+        "W2": 13.919,
+        "J-H_2mass": 0.843,
+        "H-K_2mass": 0.36,
+        "W1-W2_wise": 0.304
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0932-3217",
+      "ra": 143.163125,
+      "dec": -32.287278,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09323956-3217209",
+        "designation_wise": "J093239.54-321720.5",
+        "offset_arcsec": 0.47,
+        "J": 16.546,
+        "H": 15.75,
+        "K": 15.489,
+        "W1": 15.973,
+        "W2": 16.521,
+        "J-H_2mass": 0.796,
+        "H-K_2mass": 0.261,
+        "W1-W2_wise": -0.548
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0932-5327",
+      "ra": 143.09525,
+      "dec": -53.453056,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09322190-5327064",
+        "designation_wise": "J093221.91-532705.6",
+        "offset_arcsec": 0.83,
+        "J": 13.568,
+        "H": 13.246,
+        "K": 13.255,
+        "W1": 12.951,
+        "W2": 13.112,
+        "J-H_2mass": 0.322,
+        "H-K_2mass": -0.009,
+        "W1-W2_wise": -0.161
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0934-5249",
+      "ra": 143.617917,
+      "dec": -52.824222,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09342876-5249251",
+        "designation_wise": "J093428.78-524925.2",
+        "offset_arcsec": 0.21,
+        "J": 15.068,
+        "H": 14.421,
+        "K": 14.278,
+        "W1": 14.128,
+        "W2": 14.438,
+        "J-H_2mass": 0.647,
+        "H-K_2mass": 0.143,
+        "W1-W2_wise": -0.31
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0940-5428",
+      "ra": 145.242583,
+      "dec": -54.477944,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09405734-5428435",
+        "designation_wise": "J094057.33-542843.4",
+        "offset_arcsec": 0.15,
+        "J": 12.111,
+        "H": 11.12,
+        "K": 10.804,
+        "W1": 10.561,
+        "W2": 10.728,
+        "J-H_2mass": 0.991,
+        "H-K_2mass": 0.316,
+        "W1-W2_wise": -0.167
+      },
+      {
+        "designation_2mass": "09405730-5428305",
+        "designation_wise": "J094057.26-542831.0",
+        "offset_arcsec": 0.56,
+        "J": 15.17,
+        "H": 13.803,
+        "K": 13.175,
+        "W1": 12.768,
+        "W2": 12.831,
+        "J-H_2mass": 1.367,
+        "H-K_2mass": 0.628,
+        "W1-W2_wise": -0.063
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0941-39",
+      "ra": 145.408333,
+      "dec": -39.683333,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09413674-3941011",
+        "designation_wise": "J094136.76-394100.9",
+        "offset_arcsec": 0.34,
+        "J": 15.401,
+        "H": 15.051,
+        "K": 15.023,
+        "W1": 15.144,
+        "W2": 15.29,
+        "J-H_2mass": 0.35,
+        "H-K_2mass": 0.028,
+        "W1-W2_wise": -0.146
+      },
+      {
+        "designation_2mass": "09413698-3941066",
+        "designation_wise": "J094136.96-394106.5",
+        "offset_arcsec": 0.19,
+        "J": 14.287,
+        "H": 13.921,
+        "K": 13.85,
+        "W1": 13.795,
+        "W2": 13.865,
+        "J-H_2mass": 0.366,
+        "H-K_2mass": 0.071,
+        "W1-W2_wise": -0.07
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0941-5244",
+      "ra": 145.421458,
+      "dec": -52.734583,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09414132-5243589",
+        "designation_wise": "J094141.46-524358.4",
+        "offset_arcsec": 1.35,
+        "J": 16.226,
+        "H": 15.664,
+        "K": 15.428,
+        "W1": 14.743,
+        "W2": 14.958,
+        "J-H_2mass": 0.562,
+        "H-K_2mass": 0.236,
+        "W1-W2_wise": -0.215,
+        "proper_motion_masyr": 103.8,
+        "flags": [
+          "PM=104mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "09414176-5243575",
+        "designation_wise": "J094141.46-524358.4",
+        "offset_arcsec": 2.84,
+        "J": 16.279,
+        "H": 15.803,
+        "K": 14.926,
+        "W1": 14.743,
+        "W2": 14.958,
+        "J-H_2mass": 0.476,
+        "H-K_2mass": 0.877,
+        "W1-W2_wise": -0.215,
+        "proper_motion_masyr": 218.5,
+        "flags": [
+          "PM=218mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "09414061-5244153",
+        "designation_wise": "J094140.57-524415.0",
+        "offset_arcsec": 0.51,
+        "J": 15.784,
+        "H": 15.03,
+        "K": 14.939,
+        "W1": 14.644,
+        "W2": 15.011,
+        "J-H_2mass": 0.754,
+        "H-K_2mass": 0.091,
+        "W1-W2_wise": -0.367
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0942-5657",
+      "ra": 145.726917,
+      "dec": -56.962056,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09425468-5657417",
+        "designation_wise": "J094254.68-565741.8",
+        "offset_arcsec": 0.08,
+        "J": 14.325,
+        "H": 13.94,
+        "K": 13.826,
+        "W1": 13.916,
+        "W2": 14.184,
+        "J-H_2mass": 0.385,
+        "H-K_2mass": 0.114,
+        "W1-W2_wise": -0.268
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0943+1631",
+      "ra": 145.875417,
+      "dec": 16.526944,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09432988+1631362",
+        "designation_wise": "J094329.88+163136.0",
+        "offset_arcsec": 0.21,
+        "J": 16.084,
+        "H": 15.412,
+        "K": 15.074,
+        "W1": 15.232,
+        "W2": 15.532,
+        "J-H_2mass": 0.672,
+        "H-K_2mass": 0.338,
+        "W1-W2_wise": -0.3
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0945-4833",
+      "ra": 146.409375,
+      "dec": -48.554028,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09453919-4833144",
+        "designation_wise": "J094539.17-483314.3",
+        "offset_arcsec": 0.15,
+        "J": 15.521,
+        "H": 14.995,
+        "K": 14.945,
+        "W1": 15.05,
+        "W2": 15.32,
+        "J-H_2mass": 0.526,
+        "H-K_2mass": 0.05,
+        "W1-W2_wise": -0.27
+      },
+      {
+        "designation_2mass": "09453687-4833140",
+        "designation_wise": "J094536.87-483313.9",
+        "offset_arcsec": 0.18,
+        "J": 14.212,
+        "H": 13.76,
+        "K": 13.668,
+        "W1": 13.588,
+        "W2": 13.672,
+        "J-H_2mass": 0.452,
+        "H-K_2mass": 0.092,
+        "W1-W2_wise": -0.084
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0949-6902",
+      "ra": 147.335708,
+      "dec": -69.044889,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09491930-6902310",
+        "designation_wise": "J094919.29-690230.8",
+        "offset_arcsec": 0.14,
+        "J": 14.085,
+        "H": 13.766,
+        "K": 13.663,
+        "W1": 13.51,
+        "W2": 13.563,
+        "J-H_2mass": 0.319,
+        "H-K_2mass": 0.103,
+        "W1-W2_wise": -0.053
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0954-5430",
+      "ra": 148.525167,
+      "dec": -54.514861,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09540663-5430545",
+        "designation_wise": "J095406.63-543054.4",
+        "offset_arcsec": 0.09,
+        "J": 13.964,
+        "H": 13.051,
+        "K": 12.853,
+        "W1": 12.689,
+        "W2": 12.78,
+        "J-H_2mass": 0.913,
+        "H-K_2mass": 0.198,
+        "W1-W2_wise": -0.091
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0955-5304",
+      "ra": 148.872917,
+      "dec": -53.071306,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09552917-5304141",
+        "designation_wise": "J095529.22-530413.9",
+        "offset_arcsec": 0.49,
+        "J": 15.541,
+        "H": 15.112,
+        "K": 14.993,
+        "W1": 15.023,
+        "W2": 15.548,
+        "J-H_2mass": 0.429,
+        "H-K_2mass": 0.119,
+        "W1-W2_wise": -0.525
+      },
+      {
+        "designation_2mass": "09552881-5304228",
+        "designation_wise": "J095528.70-530422.3",
+        "offset_arcsec": 1.11,
+        "J": 15.819,
+        "H": 15.222,
+        "K": 15.123,
+        "W1": 14.721,
+        "W2": 15.128,
+        "J-H_2mass": 0.597,
+        "H-K_2mass": 0.099,
+        "W1-W2_wise": -0.407,
+        "proper_motion_masyr": 85.4,
+        "flags": [
+          "PM=85mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "09553011-5304245",
+        "designation_wise": "J095530.14-530423.6",
+        "offset_arcsec": 0.99,
+        "J": 15.904,
+        "H": 15.455,
+        "K": 15.096,
+        "W1": 14.954,
+        "W2": 15.179,
+        "J-H_2mass": 0.449,
+        "H-K_2mass": 0.359,
+        "W1-W2_wise": -0.225
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0955-61",
+      "ra": 148.75,
+      "dec": -61.8,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09550164-6148090",
+        "designation_wise": "J095501.67-614808.9",
+        "offset_arcsec": 0.26,
+        "J": 15.378,
+        "H": 14.776,
+        "K": 14.787,
+        "W1": 14.474,
+        "W2": 14.938,
+        "J-H_2mass": 0.602,
+        "H-K_2mass": -0.011,
+        "W1-W2_wise": -0.464
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0957-5432",
+      "ra": 149.483375,
+      "dec": -54.534417,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09575662-5432102",
+        "designation_wise": "J095756.61-543210.1",
+        "offset_arcsec": 0.16,
+        "J": 14.564,
+        "H": 14.24,
+        "K": 14.135,
+        "W1": 13.968,
+        "W2": 14.379,
+        "J-H_2mass": 0.324,
+        "H-K_2mass": 0.105,
+        "W1-W2_wise": -0.411
+      },
+      {
+        "designation_2mass": "09575529-5432166",
+        "designation_wise": "J095755.32-543216.6",
+        "offset_arcsec": 0.27,
+        "J": 13.572,
+        "H": 12.736,
+        "K": 12.538,
+        "W1": 12.334,
+        "W2": 12.483,
+        "J-H_2mass": 0.836,
+        "H-K_2mass": 0.198,
+        "W1-W2_wise": -0.149
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J0959-4809",
+      "ra": 149.859417,
+      "dec": -48.163194,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "09592625-4809445",
+        "designation_wise": "J095926.37-480944.4",
+        "offset_arcsec": 1.22,
+        "J": 16.91,
+        "H": 16.031,
+        "K": 15.253,
+        "W1": 14.752,
+        "W2": 14.52,
+        "J-H_2mass": 0.879,
+        "H-K_2mass": 0.778,
+        "W1-W2_wise": 0.232,
+        "proper_motion_masyr": 93.8,
+        "flags": [
+          "PM=94mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "09592663-4809584",
+        "designation_wise": "J095926.62-480958.4",
+        "offset_arcsec": 0.08,
+        "J": 13.105,
+        "H": 12.531,
+        "K": 12.354,
+        "W1": 12.271,
+        "W2": 12.334,
+        "J-H_2mass": 0.574,
+        "H-K_2mass": 0.177,
+        "W1-W2_wise": -0.063
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1000-5149",
+      "ra": 150.11725,
+      "dec": -51.832806,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10002753-5150061",
+        "designation_wise": "J100027.52-515007.3",
+        "offset_arcsec": 1.19,
+        "J": 16.1,
+        "H": 15.313,
+        "K": 14.953,
+        "W1": 15.16,
+        "W2": 15.645,
+        "J-H_2mass": 0.787,
+        "H-K_2mass": 0.36,
+        "W1-W2_wise": -0.485,
+        "proper_motion_masyr": 91.5,
+        "flags": [
+          "PM=92mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "10002822-5150040",
+        "designation_wise": "J100028.21-515003.9",
+        "offset_arcsec": 0.2,
+        "J": 15.325,
+        "H": 14.639,
+        "K": 14.571,
+        "W1": 14.444,
+        "W2": 14.8,
+        "J-H_2mass": 0.686,
+        "H-K_2mass": 0.068,
+        "W1-W2_wise": -0.356
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1001-5507",
+      "ra": 150.40825,
+      "dec": -55.118528,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10013773-5507191",
+        "designation_wise": "J100137.72-550718.9",
+        "offset_arcsec": 0.22,
+        "J": 13.568,
+        "H": 12.843,
+        "K": 12.558,
+        "W1": 12.099,
+        "W2": 12.229,
+        "J-H_2mass": 0.725,
+        "H-K_2mass": 0.285,
+        "W1-W2_wise": -0.13
+      },
+      {
+        "designation_2mass": "10013665-5507055",
+        "designation_wise": "J100136.80-550704.2",
+        "offset_arcsec": 1.85,
+        "J": 14.146,
+        "H": 13.939,
+        "K": 13.232,
+        "W1": 12.914,
+        "W2": 13.123,
+        "J-H_2mass": 0.207,
+        "H-K_2mass": 0.707,
+        "W1-W2_wise": -0.209,
+        "proper_motion_masyr": 142.3,
+        "flags": [
+          "PM=142mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1001-5559",
+      "ra": 150.285833,
+      "dec": -55.983389,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10010927-5558513",
+        "designation_wise": "J100109.21-555851.1",
+        "offset_arcsec": 0.54,
+        "J": 15.766,
+        "H": 15.318,
+        "K": 14.905,
+        "W1": 15.183,
+        "W2": 15.511,
+        "J-H_2mass": 0.448,
+        "H-K_2mass": 0.413,
+        "W1-W2_wise": -0.328
+      },
+      {
+        "designation_2mass": "10010772-5559062",
+        "designation_wise": "J100107.76-555905.7",
+        "offset_arcsec": 0.57,
+        "J": 16.061,
+        "H": 15.329,
+        "K": 15.191,
+        "W1": 15.481,
+        "W2": 16.343,
+        "J-H_2mass": 0.732,
+        "H-K_2mass": 0.138,
+        "W1-W2_wise": -0.862
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1001-5939",
+      "ra": 150.384292,
+      "dec": -59.654944,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10013196-5939051",
+        "designation_wise": "J100132.03-593905.3",
+        "offset_arcsec": 0.54,
+        "J": 14.781,
+        "H": 14.41,
+        "K": 14.324,
+        "W1": 13.95,
+        "W2": 14.268,
+        "J-H_2mass": 0.371,
+        "H-K_2mass": 0.086,
+        "W1-W2_wise": -0.318
+      },
+      {
+        "designation_2mass": "10013033-5939156",
+        "designation_wise": "J100130.33-593915.7",
+        "offset_arcsec": 0.14,
+        "J": 13.638,
+        "H": 13.148,
+        "K": 12.975,
+        "W1": 12.95,
+        "W2": 13.132,
+        "J-H_2mass": 0.49,
+        "H-K_2mass": 0.173,
+        "W1-W2_wise": -0.182
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1002-5559",
+      "ra": 150.74125,
+      "dec": -55.993611,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10025809-5559433",
+        "designation_wise": "J100257.99-555943.1",
+        "offset_arcsec": 0.85,
+        "J": 14.878,
+        "H": 14.355,
+        "K": 14.111,
+        "W1": 13.36,
+        "W2": 13.413,
+        "J-H_2mass": 0.523,
+        "H-K_2mass": 0.244,
+        "W1-W2_wise": -0.053
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1002-5919",
+      "ra": 150.585417,
+      "dec": -59.327,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10021924-5919469",
+        "designation_wise": "J100219.30-591946.2",
+        "offset_arcsec": 0.9,
+        "J": 13.974,
+        "H": 13.023,
+        "K": 12.735,
+        "W1": 12.169,
+        "W2": 12.242,
+        "J-H_2mass": 0.951,
+        "H-K_2mass": 0.288,
+        "W1-W2_wise": -0.073
+      },
+      {
+        "designation_2mass": "10022110-5919450",
+        "designation_wise": "J100221.06-591944.7",
+        "offset_arcsec": 0.37,
+        "J": 15.722,
+        "H": 15.013,
+        "K": 14.911,
+        "W1": 14.542,
+        "W2": 14.708,
+        "J-H_2mass": 0.709,
+        "H-K_2mass": 0.102,
+        "W1-W2_wise": -0.166
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1003-4747",
+      "ra": 150.839917,
+      "dec": -47.783889,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10032220-4746523",
+        "designation_wise": "J100322.21-474652.1",
+        "offset_arcsec": 0.27,
+        "J": 13.724,
+        "H": 13.553,
+        "K": 13.519,
+        "W1": 13.455,
+        "W2": 13.542,
+        "J-H_2mass": 0.171,
+        "H-K_2mass": 0.034,
+        "W1-W2_wise": -0.087
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1006-6311",
+      "ra": 151.6525,
+      "dec": -63.194778,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10063508-6311332",
+        "designation_wise": "J100635.07-631133.2",
+        "offset_arcsec": 0.1,
+        "J": 14.044,
+        "H": 13.477,
+        "K": 13.328,
+        "W1": 13.28,
+        "W2": 13.371,
+        "J-H_2mass": 0.567,
+        "H-K_2mass": 0.149,
+        "W1-W2_wise": -0.091
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1012-4235",
+      "ra": 153.029167,
+      "dec": -42.583333,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10120616-4235015",
+        "designation_wise": "J101206.18-423501.5",
+        "offset_arcsec": 0.22,
+        "J": 15.135,
+        "H": 14.735,
+        "K": 14.587,
+        "W1": 14.704,
+        "W2": 14.734,
+        "J-H_2mass": 0.4,
+        "H-K_2mass": 0.148,
+        "W1-W2_wise": -0.03
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1012-5830",
+      "ra": 153.22875,
+      "dec": -58.507111,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10125404-5830217",
+        "designation_wise": "J101254.09-583021.8",
+        "offset_arcsec": 0.42,
+        "J": 12.464,
+        "H": 12.149,
+        "K": 12.058,
+        "W1": 11.834,
+        "W2": 11.911,
+        "J-H_2mass": 0.315,
+        "H-K_2mass": 0.091,
+        "W1-W2_wise": -0.077
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1012-5857",
+      "ra": 153.202083,
+      "dec": -58.961111,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10124843-5857546",
+        "designation_wise": "J101248.39-585754.6",
+        "offset_arcsec": 0.29,
+        "J": 6.985,
+        "H": 6.168,
+        "K": 5.887,
+        "W1": 5.695,
+        "W2": 5.793,
+        "J-H_2mass": 0.817,
+        "H-K_2mass": 0.281,
+        "W1-W2_wise": -0.098
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1013-5934",
+      "ra": 153.382708,
+      "dec": -59.574083,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10132992-5934270",
+        "designation_wise": "J101329.94-593426.5",
+        "offset_arcsec": 0.57,
+        "J": 14.784,
+        "H": 14.424,
+        "K": 14.123,
+        "W1": 13.984,
+        "W2": 14.279,
+        "J-H_2mass": 0.36,
+        "H-K_2mass": 0.301,
+        "W1-W2_wise": -0.295
+      },
+      {
+        "designation_2mass": "10133163-5934216",
+        "designation_wise": "J101331.63-593421.7",
+        "offset_arcsec": 0.09,
+        "J": 15.002,
+        "H": 14.303,
+        "K": 14.008,
+        "W1": 13.821,
+        "W2": 13.902,
+        "J-H_2mass": 0.699,
+        "H-K_2mass": 0.295,
+        "W1-W2_wise": -0.081
+      },
+      {
+        "designation_2mass": "10133252-5934290",
+        "designation_wise": "J101332.48-593428.8",
+        "offset_arcsec": 0.4,
+        "J": 15.989,
+        "H": 15.297,
+        "K": 14.93,
+        "W1": 14.696,
+        "W2": 15.106,
+        "J-H_2mass": 0.692,
+        "H-K_2mass": 0.367,
+        "W1-W2_wise": -0.41
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1015-5719",
+      "ra": 153.908167,
+      "dec": -57.320222,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10153952-5719130",
+        "designation_wise": "J101539.53-571912.9",
+        "offset_arcsec": 0.08,
+        "J": 12.928,
+        "H": 12.454,
+        "K": 12.184,
+        "W1": 12.008,
+        "W2": 11.993,
+        "J-H_2mass": 0.474,
+        "H-K_2mass": 0.27,
+        "W1-W2_wise": 0.015
+      },
+      {
+        "designation_2mass": "10153800-5719150",
+        "designation_wise": "J101538.08-571915.1",
+        "offset_arcsec": 0.65,
+        "J": 14.642,
+        "H": 14.173,
+        "K": 14.158,
+        "W1": 14.212,
+        "W2": 14.535,
+        "J-H_2mass": 0.469,
+        "H-K_2mass": 0.015,
+        "W1-W2_wise": -0.323
+      },
+      {
+        "designation_2mass": "10153840-5719037",
+        "designation_wise": "J101538.46-571904.2",
+        "offset_arcsec": 0.64,
+        "J": 14.959,
+        "H": 14.385,
+        "K": 14.188,
+        "W1": 13.785,
+        "W2": 13.768,
+        "J-H_2mass": 0.574,
+        "H-K_2mass": 0.197,
+        "W1-W2_wise": 0.017
+      },
+      {
+        "designation_2mass": "10153656-5719127",
+        "designation_wise": "J101536.29-571913.9",
+        "offset_arcsec": 2.49,
+        "J": 16.381,
+        "H": 15.328,
+        "K": 15.1,
+        "W1": 14.343,
+        "W2": 14.603,
+        "J-H_2mass": 1.053,
+        "H-K_2mass": 0.228,
+        "W1-W2_wise": -0.26,
+        "proper_motion_masyr": 191.5,
+        "flags": [
+          "PM=192mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1016-5345",
+      "ra": 154.13,
+      "dec": -53.753833,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10163181-5345191",
+        "designation_wise": "J101631.80-534519.2",
+        "offset_arcsec": 0.17,
+        "J": 14.73,
+        "H": 14.044,
+        "K": 13.973,
+        "W1": 13.54,
+        "W2": 13.721,
+        "J-H_2mass": 0.686,
+        "H-K_2mass": 0.071,
+        "W1-W2_wise": -0.181
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1016-5819",
+      "ra": 154.050417,
+      "dec": -58.316972,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10161296-5819106",
+        "designation_wise": "J101612.97-581912.1",
+        "offset_arcsec": 1.5,
+        "J": 13.748,
+        "H": 12.749,
+        "K": 12.275,
+        "W1": 11.556,
+        "W2": 11.533,
+        "J-H_2mass": 0.999,
+        "H-K_2mass": 0.474,
+        "W1-W2_wise": 0.023,
+        "proper_motion_masyr": 115.4,
+        "flags": [
+          "PM=115mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "10161166-5818533",
+        "designation_wise": "J101611.67-581853.0",
+        "offset_arcsec": 0.37,
+        "J": 13.441,
+        "H": 12.979,
+        "K": 12.853,
+        "W1": 12.802,
+        "W2": 12.949,
+        "J-H_2mass": 0.462,
+        "H-K_2mass": 0.126,
+        "W1-W2_wise": -0.147
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1016-5857",
+      "ra": 154.088167,
+      "dec": -58.953361,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10162210-5857175",
+        "designation_wise": "J101622.05-585717.3",
+        "offset_arcsec": 0.48,
+        "J": 14.582,
+        "H": 13.612,
+        "K": 13.267,
+        "W1": 12.954,
+        "W2": 13.004,
+        "J-H_2mass": 0.97,
+        "H-K_2mass": 0.345,
+        "W1-W2_wise": -0.05
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1017-5621",
+      "ra": 154.303583,
+      "dec": -56.358528,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10171257-5621314",
+        "designation_wise": "J101712.55-562131.3",
+        "offset_arcsec": 0.18,
+        "J": 15.517,
+        "H": 14.94,
+        "K": 14.758,
+        "W1": 14.487,
+        "W2": 14.849,
+        "J-H_2mass": 0.577,
+        "H-K_2mass": 0.182,
+        "W1-W2_wise": -0.362
+      },
+      {
+        "designation_2mass": "10171252-5621236",
+        "designation_wise": "J101712.52-562123.5",
+        "offset_arcsec": 0.01,
+        "J": 15.94,
+        "H": 14.691,
+        "K": 14.231,
+        "W1": 13.804,
+        "W2": 13.772,
+        "J-H_2mass": 1.249,
+        "H-K_2mass": 0.46,
+        "W1-W2_wise": 0.032
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1019-5749",
+      "ra": 154.96725,
+      "dec": -57.818306,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10195183-5749125",
+        "designation_wise": "J101951.81-574912.7",
+        "offset_arcsec": 0.26,
+        "J": 10.105,
+        "H": 9.271,
+        "K": 9.006,
+        "W1": 8.876,
+        "W2": 8.94,
+        "J-H_2mass": 0.834,
+        "H-K_2mass": 0.265,
+        "W1-W2_wise": -0.064
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1020-5921",
+      "ra": 155.058458,
+      "dec": -59.359444,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10201450-5921399",
+        "designation_wise": "J102014.41-592140.8",
+        "offset_arcsec": 1.16,
+        "J": 14.653,
+        "H": 14.115,
+        "K": 14.035,
+        "W1": 13.83,
+        "W2": 14.039,
+        "J-H_2mass": 0.538,
+        "H-K_2mass": 0.08,
+        "W1-W2_wise": -0.209,
+        "proper_motion_masyr": 89.2,
+        "flags": [
+          "PM=89mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1020-6026",
+      "ra": 155.0475,
+      "dec": -60.435222,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10201020-6026031",
+        "designation_wise": "J102010.23-602603.4",
+        "offset_arcsec": 0.39,
+        "J": 13.579,
+        "H": 12.889,
+        "K": 12.58,
+        "W1": 11.724,
+        "W2": 11.569,
+        "J-H_2mass": 0.69,
+        "H-K_2mass": 0.309,
+        "W1-W2_wise": 0.155
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1021-5601",
+      "ra": 155.353417,
+      "dec": -56.030806,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10212488-5602014",
+        "designation_wise": "J102124.89-560201.2",
+        "offset_arcsec": 0.2,
+        "J": 15.769,
+        "H": 15.049,
+        "K": 14.873,
+        "W1": 14.788,
+        "W2": 14.871,
+        "J-H_2mass": 0.72,
+        "H-K_2mass": 0.176,
+        "W1-W2_wise": -0.083
+      },
+      {
+        "designation_2mass": "10212551-5601476",
+        "designation_wise": "J102125.52-560147.6",
+        "offset_arcsec": 0.11,
+        "J": 14.761,
+        "H": 14.318,
+        "K": 14.218,
+        "W1": 14.289,
+        "W2": 14.463,
+        "J-H_2mass": 0.443,
+        "H-K_2mass": 0.1,
+        "W1-W2_wise": -0.174
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1023+0038",
+      "ra": 155.948708,
+      "dec": 0.644667,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10234768+0038412",
+        "designation_wise": "J102347.69+003840.8",
+        "offset_arcsec": 0.4,
+        "J": 16.296,
+        "H": 15.693,
+        "K": 15.862,
+        "W1": 15.853,
+        "W2": 16.079,
+        "J-H_2mass": 0.603,
+        "H-K_2mass": -0.169,
+        "W1-W2_wise": -0.226
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1024-0719",
+      "ra": 156.161167,
+      "dec": -7.322056,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10243869-0719190",
+        "designation_wise": "J102438.67-071919.4",
+        "offset_arcsec": 0.46,
+        "J": 17.203,
+        "H": 16.115,
+        "K": 16.679,
+        "W1": 16.292,
+        "W2": 15.943,
+        "J-H_2mass": 1.088,
+        "H-K_2mass": -0.564,
+        "W1-W2_wise": 0.349
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1035-6345",
+      "ra": 158.762833,
+      "dec": -63.755111,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10350176-6345295",
+        "designation_wise": "J103501.75-634529.7",
+        "offset_arcsec": 0.16,
+        "J": 15.456,
+        "H": 14.771,
+        "K": 14.614,
+        "W1": 14.514,
+        "W2": 14.786,
+        "J-H_2mass": 0.685,
+        "H-K_2mass": 0.157,
+        "W1-W2_wise": -0.272
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1036-6559",
+      "ra": 159.0835,
+      "dec": -65.985917,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10361872-6559192",
+        "designation_wise": "J103618.73-655919.3",
+        "offset_arcsec": 0.1,
+        "J": 13.845,
+        "H": 13.125,
+        "K": 12.916,
+        "W1": 12.854,
+        "W2": 12.807,
+        "J-H_2mass": 0.72,
+        "H-K_2mass": 0.209,
+        "W1-W2_wise": 0.047
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1038-5831",
+      "ra": 159.582083,
+      "dec": -58.524222,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10381935-5831264",
+        "designation_wise": "J103819.33-583126.4",
+        "offset_arcsec": 0.16,
+        "J": 12.613,
+        "H": 11.905,
+        "K": 11.42,
+        "W1": 10.734,
+        "W2": 9.93,
+        "J-H_2mass": 0.708,
+        "H-K_2mass": 0.485,
+        "W1-W2_wise": 0.804
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1043-6116",
+      "ra": 160.980375,
+      "dec": -61.280778,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10435550-6116371",
+        "designation_wise": "J104355.49-611637.4",
+        "offset_arcsec": 0.29,
+        "J": 15.194,
+        "H": 14.321,
+        "K": 13.909,
+        "W1": 13.944,
+        "W2": 14.534,
+        "J-H_2mass": 0.873,
+        "H-K_2mass": 0.412,
+        "W1-W2_wise": -0.59
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1044-5737",
+      "ra": 161.136667,
+      "dec": -57.622028,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10443196-5737246",
+        "designation_wise": "J104431.99-573724.7",
+        "offset_arcsec": 0.27,
+        "J": 14.088,
+        "H": 13.872,
+        "K": 13.777,
+        "W1": 13.724,
+        "W2": 14.118,
+        "J-H_2mass": 0.216,
+        "H-K_2mass": 0.095,
+        "W1-W2_wise": -0.394
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1045-4509",
+      "ra": 161.459125,
+      "dec": -45.165028,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10455144-4509531",
+        "designation_wise": "J104551.43-450953.1",
+        "offset_arcsec": 0.06,
+        "J": 16.447,
+        "H": 15.563,
+        "K": 15.273,
+        "W1": 15.435,
+        "W2": 15.651,
+        "J-H_2mass": 0.884,
+        "H-K_2mass": 0.29,
+        "W1-W2_wise": -0.216
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1047-58",
+      "ra": 161.983333,
+      "dec": -58.683333,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10475615-5840517",
+        "designation_wise": "J104756.13-584051.6",
+        "offset_arcsec": 0.18,
+        "J": 12.351,
+        "H": 11.3,
+        "K": 10.974,
+        "W1": 10.759,
+        "W2": 10.855,
+        "J-H_2mass": 1.051,
+        "H-K_2mass": 0.326,
+        "W1-W2_wise": -0.096
+      },
+      {
+        "designation_2mass": "10475789-5840590",
+        "designation_wise": "J104757.88-584058.5",
+        "offset_arcsec": 0.49,
+        "J": 14.718,
+        "H": 13.584,
+        "K": 13.137,
+        "W1": 12.731,
+        "W2": 12.808,
+        "J-H_2mass": 1.134,
+        "H-K_2mass": 0.447,
+        "W1-W2_wise": -0.077
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1047-6709",
+      "ra": 161.867833,
+      "dec": -67.164194,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10472714-6709446",
+        "designation_wise": "J104727.13-670944.9",
+        "offset_arcsec": 0.3,
+        "J": 14.028,
+        "H": 13.418,
+        "K": 13.26,
+        "W1": 12.832,
+        "W2": 12.892,
+        "J-H_2mass": 0.61,
+        "H-K_2mass": 0.158,
+        "W1-W2_wise": -0.06
+      },
+      {
+        "designation_2mass": "10472878-6710040",
+        "designation_wise": "J104729.10-671003.5",
+        "offset_arcsec": 1.91,
+        "J": 17.043,
+        "H": 16.027,
+        "K": 14.819,
+        "W1": 14.762,
+        "W2": 14.425,
+        "J-H_2mass": 1.016,
+        "H-K_2mass": 1.208,
+        "W1-W2_wise": 0.337,
+        "proper_motion_masyr": 146.9,
+        "flags": [
+          "PM=147mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1050-5953",
+      "ra": 162.529667,
+      "dec": -59.889278,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10500729-5953182",
+        "designation_wise": "J105007.40-595316.1",
+        "offset_arcsec": 2.18,
+        "J": 16.089,
+        "H": 14.78,
+        "K": 14.051,
+        "W1": 13.581,
+        "W2": 14.007,
+        "J-H_2mass": 1.309,
+        "H-K_2mass": 0.729,
+        "W1-W2_wise": -0.426,
+        "proper_motion_masyr": 167.7,
+        "flags": [
+          "PM=168mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "10500566-5953266",
+        "designation_wise": "J105005.67-595326.8",
+        "offset_arcsec": 0.22,
+        "J": 14.165,
+        "H": 13.457,
+        "K": 13.331,
+        "W1": 13.416,
+        "W2": 13.927,
+        "J-H_2mass": 0.708,
+        "H-K_2mass": 0.126,
+        "W1-W2_wise": -0.511
+      },
+      {
+        "designation_2mass": "10500871-5953202",
+        "designation_wise": "J105008.75-595320.3",
+        "offset_arcsec": 0.33,
+        "J": 14.694,
+        "H": 13.697,
+        "K": 13.259,
+        "W1": 12.985,
+        "W2": 13.162,
+        "J-H_2mass": 0.997,
+        "H-K_2mass": 0.438,
+        "W1-W2_wise": -0.177
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1052-5954",
+      "ra": 163.158792,
+      "dec": -59.91225,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10523899-5954492",
+        "designation_wise": "J105239.06-595447.5",
+        "offset_arcsec": 1.74,
+        "J": 14.882,
+        "H": 14.568,
+        "K": 14.323,
+        "W1": 13.766,
+        "W2": 13.967,
+        "J-H_2mass": 0.314,
+        "H-K_2mass": 0.245,
+        "W1-W2_wise": -0.201,
+        "proper_motion_masyr": 133.8,
+        "flags": [
+          "PM=134mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1052-6348",
+      "ra": 163.222458,
+      "dec": -63.804611,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10525275-6348151",
+        "designation_wise": "J105252.78-634815.2",
+        "offset_arcsec": 0.22,
+        "J": 12.948,
+        "H": 12.265,
+        "K": 12.17,
+        "W1": 12.019,
+        "W2": 12.125,
+        "J-H_2mass": 0.683,
+        "H-K_2mass": 0.095,
+        "W1-W2_wise": -0.106
+      },
+      {
+        "designation_2mass": "10525498-6348259",
+        "designation_wise": "J105254.92-634825.1",
+        "offset_arcsec": 0.86,
+        "J": 14.601,
+        "H": 14.317,
+        "K": 14.19,
+        "W1": 13.727,
+        "W2": 13.879,
+        "J-H_2mass": 0.284,
+        "H-K_2mass": 0.127,
+        "W1-W2_wise": -0.152
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1054-5943",
+      "ra": 163.740625,
+      "dec": -59.720583,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10545773-5943125",
+        "designation_wise": "J105457.71-594312.6",
+        "offset_arcsec": 0.15,
+        "J": 12.608,
+        "H": 12.052,
+        "K": 11.947,
+        "W1": 11.872,
+        "W2": 11.919,
+        "J-H_2mass": 0.556,
+        "H-K_2mass": 0.105,
+        "W1-W2_wise": -0.047
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1055-6022",
+      "ra": 163.952083,
+      "dec": -60.381111,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10554673-6022451",
+        "designation_wise": "J105546.71-602244.9",
+        "offset_arcsec": 0.23,
+        "J": 13.233,
+        "H": 12.516,
+        "K": 12.185,
+        "W1": 12.023,
+        "W2": 12.182,
+        "J-H_2mass": 0.717,
+        "H-K_2mass": 0.331,
+        "W1-W2_wise": -0.159
+      },
+      {
+        "designation_2mass": "10554845-6022455",
+        "designation_wise": "J105548.59-602247.1",
+        "offset_arcsec": 1.91,
+        "J": 14.209,
+        "H": 14.095,
+        "K": 13.834,
+        "W1": 13.929,
+        "W2": 15.156,
+        "J-H_2mass": 0.114,
+        "H-K_2mass": 0.261,
+        "W1-W2_wise": -1.227,
+        "proper_motion_masyr": 146.9,
+        "flags": [
+          "PM=147mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1055-6236",
+      "ra": 163.977542,
+      "dec": -62.613417,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10555346-6236477",
+        "designation_wise": "J105553.45-623647.7",
+        "offset_arcsec": 0.06,
+        "J": 13.745,
+        "H": 13.111,
+        "K": 12.9,
+        "W1": 12.848,
+        "W2": 12.976,
+        "J-H_2mass": 0.634,
+        "H-K_2mass": 0.211,
+        "W1-W2_wise": -0.128
+      },
+      {
+        "designation_2mass": "10555555-6237011",
+        "designation_wise": "J105555.62-623659.8",
+        "offset_arcsec": 1.37,
+        "J": 14.256,
+        "H": 13.697,
+        "K": 13.502,
+        "W1": 13.074,
+        "W2": 13.234,
+        "J-H_2mass": 0.559,
+        "H-K_2mass": 0.195,
+        "W1-W2_wise": -0.16,
+        "proper_motion_masyr": 105.4,
+        "flags": [
+          "PM=105mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1056-6258",
+      "ra": 164.106458,
+      "dec": -62.979889,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10562448-6258473",
+        "designation_wise": "J105624.44-625847.8",
+        "offset_arcsec": 0.62,
+        "J": 14.751,
+        "H": 14.335,
+        "K": 14.402,
+        "W1": 13.867,
+        "W2": 16.368,
+        "J-H_2mass": 0.416,
+        "H-K_2mass": -0.067,
+        "W1-W2_wise": -2.501
+      },
+      {
+        "designation_2mass": "10562668-6258458",
+        "designation_wise": "J105626.76-625846.3",
+        "offset_arcsec": 0.8,
+        "J": 15.287,
+        "H": 14.314,
+        "K": 14.024,
+        "W1": 13.684,
+        "W2": 14.732,
+        "J-H_2mass": 0.973,
+        "H-K_2mass": 0.29,
+        "W1-W2_wise": -1.048
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1056-7117",
+      "ra": 164.191583,
+      "dec": -71.298167,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10564470-7117539",
+        "designation_wise": "J105644.72-711754.0",
+        "offset_arcsec": 0.16,
+        "J": 14.673,
+        "H": 14.292,
+        "K": 14.177,
+        "W1": 14.072,
+        "W2": 14.154,
+        "J-H_2mass": 0.381,
+        "H-K_2mass": 0.115,
+        "W1-W2_wise": -0.082
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1057-4754",
+      "ra": 164.471417,
+      "dec": -47.916,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10575290-4755079",
+        "designation_wise": "J105752.91-475507.9",
+        "offset_arcsec": 0.15,
+        "J": 16.48,
+        "H": 16.034,
+        "K": 15.408,
+        "W1": 15.854,
+        "W2": 16.267,
+        "J-H_2mass": 0.446,
+        "H-K_2mass": 0.626,
+        "W1-W2_wise": -0.413
+      },
+      {
+        "designation_2mass": "10575336-4754547",
+        "designation_wise": "J105753.35-475454.6",
+        "offset_arcsec": 0.15,
+        "J": 15.47,
+        "H": 15.04,
+        "K": 14.806,
+        "W1": 14.918,
+        "W2": 15.153,
+        "J-H_2mass": 0.43,
+        "H-K_2mass": 0.234,
+        "W1-W2_wise": -0.235
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1057-5226",
+      "ra": 164.495667,
+      "dec": -52.448972,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10575873-5226525",
+        "designation_wise": "J105758.67-522652.7",
+        "offset_arcsec": 0.62,
+        "J": 12.583,
+        "H": 12.303,
+        "K": 12.193,
+        "W1": 12.261,
+        "W2": 12.236,
+        "J-H_2mass": 0.28,
+        "H-K_2mass": 0.11,
+        "W1-W2_wise": 0.025
+      },
+      {
+        "designation_2mass": "10575735-5226550",
+        "designation_wise": "J105757.33-522655.0",
+        "offset_arcsec": 0.15,
+        "J": 11.462,
+        "H": 10.718,
+        "K": 10.562,
+        "W1": 10.42,
+        "W2": 10.538,
+        "J-H_2mass": 0.744,
+        "H-K_2mass": 0.156,
+        "W1-W2_wise": -0.118
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1058-5957",
+      "ra": 164.642708,
+      "dec": -59.960111,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "10583451-5957247",
+        "designation_wise": "J105834.54-595723.5",
+        "offset_arcsec": 1.17,
+        "J": 15.287,
+        "H": 14.584,
+        "K": 14.27,
+        "W1": 14.005,
+        "W2": 13.998,
+        "J-H_2mass": 0.703,
+        "H-K_2mass": 0.314,
+        "W1-W2_wise": 0.007,
+        "proper_motion_masyr": 90.0,
+        "flags": [
+          "PM=90mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1101-6101",
+      "ra": 165.437333,
+      "dec": -61.027667,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11014371-6101375",
+        "designation_wise": "J110143.72-610137.4",
+        "offset_arcsec": 0.16,
+        "J": 7.892,
+        "H": 6.783,
+        "K": 6.343,
+        "W1": 5.973,
+        "W2": 6.069,
+        "J-H_2mass": 1.109,
+        "H-K_2mass": 0.44,
+        "W1-W2_wise": -0.096
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1101-6424",
+      "ra": 165.404958,
+      "dec": -64.410917,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11013860-6424353",
+        "designation_wise": "J110138.62-642435.5",
+        "offset_arcsec": 0.23,
+        "J": 13.702,
+        "H": 13.275,
+        "K": 13.159,
+        "W1": 13.031,
+        "W2": 13.115,
+        "J-H_2mass": 0.427,
+        "H-K_2mass": 0.116,
+        "W1-W2_wise": -0.084
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1103-6025",
+      "ra": 165.881167,
+      "dec": -60.426778,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11033104-6025478",
+        "designation_wise": "J110331.06-602547.4",
+        "offset_arcsec": 0.39,
+        "J": 14.737,
+        "H": 13.537,
+        "K": 13.081,
+        "W1": 12.786,
+        "W2": 12.891,
+        "J-H_2mass": 1.2,
+        "H-K_2mass": 0.456,
+        "W1-W2_wise": -0.105
+      },
+      {
+        "designation_2mass": "11032978-6025342",
+        "designation_wise": "J110329.77-602534.3",
+        "offset_arcsec": 0.16,
+        "J": 14.028,
+        "H": 12.952,
+        "K": 12.579,
+        "W1": 12.313,
+        "W2": 12.414,
+        "J-H_2mass": 1.076,
+        "H-K_2mass": 0.373,
+        "W1-W2_wise": -0.101
+      },
+      {
+        "designation_2mass": "11033215-6025341",
+        "designation_wise": "J110332.16-602534.5",
+        "offset_arcsec": 0.36,
+        "J": 14.802,
+        "H": 14.131,
+        "K": 14.061,
+        "W1": 13.775,
+        "W2": 14.308,
+        "J-H_2mass": 0.671,
+        "H-K_2mass": 0.07,
+        "W1-W2_wise": -0.533
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1105-43",
+      "ra": 166.35,
+      "dec": -43.950278,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11052322-4357021",
+        "designation_wise": "J110523.22-435702.0",
+        "offset_arcsec": 0.08,
+        "J": 15.437,
+        "H": 14.924,
+        "K": 14.799,
+        "W1": 14.836,
+        "W2": 14.787,
+        "J-H_2mass": 0.513,
+        "H-K_2mass": 0.125,
+        "W1-W2_wise": 0.049
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1105-6107",
+      "ra": 166.359042,
+      "dec": -61.130944,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11052443-6107542",
+        "designation_wise": "J110524.45-610754.3",
+        "offset_arcsec": 0.2,
+        "J": 13.123,
+        "H": 12.886,
+        "K": 12.866,
+        "W1": 12.717,
+        "W2": 13.083,
+        "J-H_2mass": 0.237,
+        "H-K_2mass": 0.02,
+        "W1-W2_wise": -0.366
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1107-5907",
+      "ra": 166.893583,
+      "dec": -59.121861,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11073322-5907264",
+        "designation_wise": "J110733.21-590726.5",
+        "offset_arcsec": 0.06,
+        "J": 9.905,
+        "H": 8.934,
+        "K": 8.618,
+        "W1": 8.514,
+        "W2": 8.683,
+        "J-H_2mass": 0.971,
+        "H-K_2mass": 0.316,
+        "W1-W2_wise": -0.169
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1107-5947",
+      "ra": 166.994583,
+      "dec": -59.784444,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11075873-5947053",
+        "designation_wise": "J110758.67-594703.2",
+        "offset_arcsec": 2.19,
+        "J": 14.602,
+        "H": 13.696,
+        "K": 13.246,
+        "W1": 12.559,
+        "W2": 12.644,
+        "J-H_2mass": 0.906,
+        "H-K_2mass": 0.45,
+        "W1-W2_wise": -0.085,
+        "proper_motion_masyr": 168.5,
+        "flags": [
+          "PM=168mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1107-6143",
+      "ra": 166.80125,
+      "dec": -61.733056,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11071086-6143542",
+        "designation_wise": "J110710.55-614355.7",
+        "offset_arcsec": 2.64,
+        "J": 13.802,
+        "H": 13.112,
+        "K": 12.967,
+        "W1": 12.233,
+        "W2": 12.223,
+        "J-H_2mass": 0.69,
+        "H-K_2mass": 0.145,
+        "W1-W2_wise": 0.01,
+        "proper_motion_masyr": 203.1,
+        "flags": [
+          "PM=203mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "11071044-6143585",
+        "designation_wise": "J110710.55-614355.7",
+        "offset_arcsec": 2.88,
+        "J": 14.434,
+        "H": 13.486,
+        "K": 13.815,
+        "W1": 12.233,
+        "W2": 12.223,
+        "J-H_2mass": 0.948,
+        "H-K_2mass": -0.329,
+        "W1-W2_wise": 0.01,
+        "proper_motion_masyr": 221.5,
+        "flags": [
+          "PM=222mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1112-6103",
+      "ra": 168.061708,
+      "dec": -61.058639,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11121586-6103367",
+        "designation_wise": "J111215.88-610336.8",
+        "offset_arcsec": 0.15,
+        "J": 12.904,
+        "H": 11.455,
+        "K": 10.913,
+        "W1": 10.467,
+        "W2": 10.533,
+        "J-H_2mass": 1.449,
+        "H-K_2mass": 0.542,
+        "W1-W2_wise": -0.066
+      },
+      {
+        "designation_2mass": "11121600-6103208",
+        "designation_wise": "J111216.04-610321.2",
+        "offset_arcsec": 0.51,
+        "J": 15.099,
+        "H": 13.805,
+        "K": 13.314,
+        "W1": 12.604,
+        "W2": 12.519,
+        "J-H_2mass": 1.294,
+        "H-K_2mass": 0.491,
+        "W1-W2_wise": 0.085
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1112-6613",
+      "ra": 168.160542,
+      "dec": -66.218,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11123661-6613090",
+        "designation_wise": "J111236.49-661309.2",
+        "offset_arcsec": 0.72,
+        "J": 14.917,
+        "H": 14.451,
+        "K": 14.348,
+        "W1": 14.113,
+        "W2": 14.36,
+        "J-H_2mass": 0.466,
+        "H-K_2mass": 0.103,
+        "W1-W2_wise": -0.247
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1112-6926",
+      "ra": 168.2125,
+      "dec": -69.441944,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11125362-6926298",
+        "designation_wise": "J111253.66-692629.6",
+        "offset_arcsec": 0.22,
+        "J": 14.111,
+        "H": 13.662,
+        "K": 13.542,
+        "W1": 13.351,
+        "W2": 13.501,
+        "J-H_2mass": 0.449,
+        "H-K_2mass": 0.12,
+        "W1-W2_wise": -0.15
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1116-4122",
+      "ra": 169.179542,
+      "dec": -41.378889,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11164265-4122486",
+        "designation_wise": "J111642.62-412248.7",
+        "offset_arcsec": 0.37,
+        "J": 16.45,
+        "H": 16.134,
+        "K": 17.097,
+        "W1": 15.793,
+        "W2": 15.842,
+        "J-H_2mass": 0.316,
+        "H-K_2mass": -0.963,
+        "W1-W2_wise": -0.049
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1117-6154",
+      "ra": 169.349208,
+      "dec": -61.906111,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11172325-6154295",
+        "designation_wise": "J111723.21-615427.5",
+        "offset_arcsec": 1.96,
+        "J": 15.998,
+        "H": 15.421,
+        "K": 14.997,
+        "W1": 14.336,
+        "W2": 14.057,
+        "J-H_2mass": 0.577,
+        "H-K_2mass": 0.424,
+        "W1-W2_wise": 0.279,
+        "proper_motion_masyr": 150.8,
+        "flags": [
+          "PM=151mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "11172548-6154271",
+        "designation_wise": "J111725.48-615426.0",
+        "offset_arcsec": 1.11,
+        "J": 14.8,
+        "H": 14.357,
+        "K": 14.21,
+        "W1": 13.459,
+        "W2": 13.4,
+        "J-H_2mass": 0.443,
+        "H-K_2mass": 0.147,
+        "W1-W2_wise": 0.059,
+        "proper_motion_masyr": 85.4,
+        "flags": [
+          "PM=85mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1119-6127",
+      "ra": 169.809583,
+      "dec": -61.46375,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11191557-6127556",
+        "designation_wise": "J111915.82-612754.2",
+        "offset_arcsec": 2.27,
+        "J": 15.714,
+        "H": 14.283,
+        "K": 13.77,
+        "W1": 12.231,
+        "W2": 13.634,
+        "J-H_2mass": 1.431,
+        "H-K_2mass": 0.513,
+        "W1-W2_wise": -1.403,
+        "proper_motion_masyr": 174.6,
+        "flags": [
+          "PM=175mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "11191462-6127542",
+        "designation_wise": "J111915.03-612754.6",
+        "offset_arcsec": 2.93,
+        "J": 15.905,
+        "H": 15.621,
+        "K": 14.957,
+        "W1": 13.824,
+        "W2": 14.156,
+        "J-H_2mass": 0.284,
+        "H-K_2mass": 0.664,
+        "W1-W2_wise": -0.332,
+        "proper_motion_masyr": 225.4,
+        "flags": [
+          "PM=225mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "11191282-6127472",
+        "designation_wise": "J111913.03-612748.2",
+        "offset_arcsec": 1.85,
+        "J": 15.74,
+        "H": 15.105,
+        "K": 15.158,
+        "W1": 9.86,
+        "W2": 11.734,
+        "J-H_2mass": 0.635,
+        "H-K_2mass": -0.053,
+        "W1-W2_wise": -1.874,
+        "proper_motion_masyr": 142.3,
+        "flags": [
+          "PM=142mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1119-7936",
+      "ra": 169.92,
+      "dec": -79.608417,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11194265-7936257",
+        "designation_wise": "J111942.64-793625.8",
+        "offset_arcsec": 0.13,
+        "J": 14.06,
+        "H": 13.607,
+        "K": 13.554,
+        "W1": 13.442,
+        "W2": 13.434,
+        "J-H_2mass": 0.453,
+        "H-K_2mass": 0.053,
+        "W1-W2_wise": 0.008
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1121-5444",
+      "ra": 170.329958,
+      "dec": -54.734861,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11212032-5444039",
+        "designation_wise": "J112120.22-544403.7",
+        "offset_arcsec": 0.92,
+        "J": 16.398,
+        "H": 15.852,
+        "K": 15.256,
+        "W1": 15.975,
+        "W2": 17.32,
+        "J-H_2mass": 0.546,
+        "H-K_2mass": 0.596,
+        "W1-W2_wise": -1.345
+      },
+      {
+        "designation_2mass": "11211892-5443570",
+        "designation_wise": "J112118.95-544357.1",
+        "offset_arcsec": 0.27,
+        "J": 15.898,
+        "H": 15.254,
+        "K": 15.237,
+        "W1": 15.241,
+        "W2": 15.744,
+        "J-H_2mass": 0.644,
+        "H-K_2mass": 0.017,
+        "W1-W2_wise": -0.503
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1123-6259",
+      "ra": 170.981458,
+      "dec": -62.986306,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11235649-6259144",
+        "designation_wise": "J112356.50-625914.0",
+        "offset_arcsec": 0.36,
+        "J": 15.46,
+        "H": 14.021,
+        "K": 13.369,
+        "W1": 12.912,
+        "W2": 12.91,
+        "J-H_2mass": 1.439,
+        "H-K_2mass": 0.652,
+        "W1-W2_wise": 0.002
+      },
+      {
+        "designation_2mass": "11235403-6259083",
+        "designation_wise": "J112354.03-625908.5",
+        "offset_arcsec": 0.22,
+        "J": 12.7,
+        "H": 12.479,
+        "K": 12.47,
+        "W1": 12.432,
+        "W2": 12.518,
+        "J-H_2mass": 0.221,
+        "H-K_2mass": 0.009,
+        "W1-W2_wise": -0.086
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1124-5638",
+      "ra": 171.235292,
+      "dec": -56.644361,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11245627-5638473",
+        "designation_wise": "J112456.27-563847.1",
+        "offset_arcsec": 0.17,
+        "J": 13.993,
+        "H": 13.318,
+        "K": 13.213,
+        "W1": 13.025,
+        "W2": 13.079,
+        "J-H_2mass": 0.675,
+        "H-K_2mass": 0.105,
+        "W1-W2_wise": -0.054
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1124-5916",
+      "ra": 171.1625,
+      "dec": -59.271944,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11243925-5916276",
+        "designation_wise": "J112439.32-591627.4",
+        "offset_arcsec": 0.59,
+        "J": 14.637,
+        "H": 14.222,
+        "K": 14.114,
+        "W1": 14.174,
+        "W2": 14.449,
+        "J-H_2mass": 0.415,
+        "H-K_2mass": 0.108,
+        "W1-W2_wise": -0.275
+      },
+      {
+        "designation_2mass": "11244059-5916253",
+        "designation_wise": "J112440.53-591625.2",
+        "offset_arcsec": 0.5,
+        "J": 15.664,
+        "H": 14.935,
+        "K": 14.782,
+        "W1": 14.481,
+        "W2": 14.876,
+        "J-H_2mass": 0.729,
+        "H-K_2mass": 0.153,
+        "W1-W2_wise": -0.395
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1125-6014",
+      "ra": 171.480083,
+      "dec": -60.235167,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11255449-6014150",
+        "designation_wise": "J112554.62-601414.6",
+        "offset_arcsec": 1.09,
+        "J": 14.429,
+        "H": 13.737,
+        "K": 13.58,
+        "W1": 13.182,
+        "W2": 13.483,
+        "J-H_2mass": 0.692,
+        "H-K_2mass": 0.157,
+        "W1-W2_wise": -0.301,
+        "proper_motion_masyr": 83.8,
+        "flags": [
+          "PM=84mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1126-6054",
+      "ra": 171.719208,
+      "dec": -60.911111,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11265150-6054461",
+        "designation_wise": "J112651.51-605446.1",
+        "offset_arcsec": 0.12,
+        "J": 11.911,
+        "H": 11.151,
+        "K": 10.944,
+        "W1": 10.759,
+        "W2": 10.887,
+        "J-H_2mass": 0.76,
+        "H-K_2mass": 0.207,
+        "W1-W2_wise": -0.128
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1126-6942",
+      "ra": 171.590292,
+      "dec": -69.70425,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11262091-6942169",
+        "designation_wise": "J112620.93-694216.7",
+        "offset_arcsec": 0.27,
+        "J": 16.117,
+        "H": 15.502,
+        "K": 15.074,
+        "W1": 15.549,
+        "W2": 16.103,
+        "J-H_2mass": 0.615,
+        "H-K_2mass": 0.428,
+        "W1-W2_wise": -0.554
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1128-6219",
+      "ra": 172.194583,
+      "dec": -62.319167,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11284789-6219154",
+        "designation_wise": "J112847.90-621915.4",
+        "offset_arcsec": 0.13,
+        "J": 13.146,
+        "H": 12.21,
+        "K": 11.85,
+        "W1": 11.663,
+        "W2": 11.786,
+        "J-H_2mass": 0.936,
+        "H-K_2mass": 0.36,
+        "W1-W2_wise": -0.123
+      },
+      {
+        "designation_2mass": "11284602-6219047",
+        "designation_wise": "J112846.23-621903.9",
+        "offset_arcsec": 1.64,
+        "J": 13.358,
+        "H": 13.402,
+        "K": 13.321,
+        "W1": 12.885,
+        "W2": 13.151,
+        "J-H_2mass": -0.044,
+        "H-K_2mass": 0.081,
+        "W1-W2_wise": -0.266,
+        "proper_motion_masyr": 126.2,
+        "flags": [
+          "PM=126mas/yr"
+        ]
+      },
+      {
+        "designation_2mass": "11284651-6219027",
+        "designation_wise": "J112846.23-621903.9",
+        "offset_arcsec": 2.25,
+        "J": 13.966,
+        "H": 13.763,
+        "K": 14.208,
+        "W1": 12.885,
+        "W2": 13.151,
+        "J-H_2mass": 0.203,
+        "H-K_2mass": -0.445,
+        "W1-W2_wise": -0.266,
+        "proper_motion_masyr": 173.1,
+        "flags": [
+          "PM=173mas/yr"
+        ]
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1130-5826",
+      "ra": 172.568042,
+      "dec": -58.433972,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11301601-5825492",
+        "designation_wise": "J113016.06-582548.7",
+        "offset_arcsec": 0.67,
+        "J": 12.08,
+        "H": 11.849,
+        "K": 11.727,
+        "W1": 11.466,
+        "W2": 11.504,
+        "J-H_2mass": 0.231,
+        "H-K_2mass": 0.122,
+        "W1-W2_wise": -0.038
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1130-5925",
+      "ra": 172.5435,
+      "dec": -59.426139,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11300939-5925328",
+        "designation_wise": "J113009.37-592532.6",
+        "offset_arcsec": 0.23,
+        "J": 12.565,
+        "H": 11.884,
+        "K": 11.677,
+        "W1": 11.447,
+        "W2": 11.521,
+        "J-H_2mass": 0.681,
+        "H-K_2mass": 0.207,
+        "W1-W2_wise": -0.074
+      },
+      {
+        "designation_2mass": "11301189-5925340",
+        "designation_wise": "J113011.90-592533.7",
+        "offset_arcsec": 0.33,
+        "J": 15.755,
+        "H": 14.965,
+        "K": 14.519,
+        "W1": 14.488,
+        "W2": 14.722,
+        "J-H_2mass": 0.79,
+        "H-K_2mass": 0.446,
+        "W1-W2_wise": -0.234
+      }
+    ]
+  },
+  {
+    "anchor": {
+      "name": "J1130-6807",
+      "ra": 172.632958,
+      "dec": -68.124583,
+      "type": "pulsar"
+    },
+    "variability": [
+      {
+        "designation_2mass": "11303212-6807284",
+        "designation_wise": "J113032.07-680728.1",
+        "offset_arcsec": 0.42,
+        "J": 15.49,
+        "H": 14.942,
+        "K": 14.725,
+        "W1": 14.693,
+        "W2": 14.791,
+        "J-H_2mass": 0.548,
+        "H-K_2mass": 0.217,
+        "W1-W2_wise": -0.098
+      },
+      {
+        "designation_2mass": "11303067-6807410",
+        "designation_wise": "J113030.64-680741.1",
+        "offset_arcsec": 0.2,
+        "J": 15.157,
+        "H": 14.658,
+        "K": 14.472,
+        "W1": 14.422,
+        "W2": 14.636,
+        "J-H_2mass": 0.499,
+        "H-K_2mass": 0.186,
+        "W1-W2_wise": -0.214
+      },
+      {
+        "designation_2mass": "11302998-6807266",
+        "designation_wise": "J113030.07-680726.4",
+        "offset_arcsec": 0.55,
+        "J": 14.98,
+        "H": 14.298,
+        "K": 14.154,
+        "W1": 13.826,
+        "W2": 13.999,
+        "J-H_2mass": 0.682,
+        "H-K_2mass": 0.144,
+        "W1-W2_wise": -0.173
+      },
+      {
+        "designation_2mass": "11303273-6807167",
+        "designation_wise": "J113032.76-680716.5",
+        "offset_arcsec": 0.25,
+        "J": 14.813,
+        "H": 14.116,
+        "K": 13.9,
+        "W1": 13.743,
+        "W2": 13.919,
+        "J-H_2mass": 0.697,
+        "H-K_2mass": 0.216,
+        "W1-W2_wise": -0.176
+      }
+    ]
+  }
+]

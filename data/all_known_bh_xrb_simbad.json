@@ -1,0 +1,14 @@
+{
+  "metadata": {
+    "source": "Simbad query_criteria",
+    "otypes": [
+      "BH*",
+      "HXB",
+      "LXB",
+      "XB*"
+    ],
+    "query_date": "2026-05-23",
+    "total_unique": 0
+  },
+  "records": []
+}

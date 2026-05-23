@@ -1,0 +1,118 @@
+[
+  {
+    "rank": 1,
+    "name": "J1840-0643",
+    "score": 12.717999800000001,
+    "simbad_status": "FOUND_NO_INDICATOR",
+    "is_known": true,
+    "object_types": [
+      "Coordinatequery",
+      "dist(asec)",
+      "43.47"
+    ]
+  },
+  {
+    "rank": 2,
+    "name": "J1855+0307",
+    "score": 6.945999600000002,
+    "simbad_status": "FOUND_NO_INDICATOR",
+    "is_known": true,
+    "object_types": [
+      "Coordinatequery",
+      "dist(asec)",
+      "42.09"
+    ]
+  },
+  {
+    "rank": 3,
+    "name": "J1852+0031",
+    "score": 5.962000070000001,
+    "simbad_status": "NOT_FOUND",
+    "is_known": false,
+    "object_type": null
+  },
+  {
+    "rank": 4,
+    "name": "J1901+0459",
+    "score": 5.099999700000001,
+    "simbad_status": "FOUND_NO_INDICATOR",
+    "is_known": true,
+    "object_types": [
+      "Coordinatequery",
+      "dist(asec)",
+      "89.75"
+    ]
+  },
+  {
+    "rank": 5,
+    "name": "J1843-0355",
+    "score": 5.0369999000000005,
+    "simbad_status": "FOUND_NO_INDICATOR",
+    "is_known": true,
+    "object_types": [
+      "Coordinatequery",
+      "dist(asec)",
+      "32.62"
+    ]
+  },
+  {
+    "rank": 6,
+    "name": "J1856+0113",
+    "score": 4.45,
+    "simbad_status": "FOUND_NO_INDICATOR",
+    "is_known": true,
+    "object_types": [
+      "Coordinatequery",
+      "dist(asec)",
+      "12.18"
+    ]
+  },
+  {
+    "rank": 7,
+    "name": "J1843-0408",
+    "score": 4.427000200000001,
+    "simbad_status": "FOUND_NO_INDICATOR",
+    "is_known": true,
+    "object_types": [
+      "Coordinatequery",
+      "dist(asec)",
+      "16.16"
+    ]
+  },
+  {
+    "rank": 8,
+    "name": "J1856+0245",
+    "score": 4.40900006,
+    "simbad_status": "FOUND_NO_INDICATOR",
+    "is_known": true,
+    "object_types": [
+      "Coordinatequery",
+      "dist(asec)",
+      "1.52"
+    ]
+  },
+  {
+    "rank": 9,
+    "name": "J1901+0459",
+    "score": 4.4039995,
+    "simbad_status": "FOUND_NO_INDICATOR",
+    "is_known": true,
+    "object_types": [
+      "Coordinatequery",
+      "dist(asec)",
+      "89.75"
+    ]
+  },
+  {
+    "rank": 10,
+    "name": "J1858+0215",
+    "score": 4.285999400000001,
+    "simbad_status": "FOUND_NO_INDICATOR",
+    "is_known": true,
+    "object_types": [
+      "Coordinatequery",
+      "dist(asec)",
+      "43.73"
+    ]
+  }
+]

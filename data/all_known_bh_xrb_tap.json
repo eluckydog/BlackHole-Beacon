@@ -1,0 +1,7009 @@
+{
+  "metadata": {
+    "source": "Simbad TAP (HXB+LXB)",
+    "query_date": "2026-05-23",
+    "total_unique": 1000
+  },
+  "records": [
+    {
+      "main_id": "CXO J121409.6+543136",
+      "ra": 183.54017,
+      "dec": 54.5267,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J132939.0+471104",
+      "ra": 202.41254166666667,
+      "dec": 47.18433333333333,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J112103.3+530938",
+      "ra": 170.26401,
+      "dec": 53.16061,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140447.8+533901",
+      "ra": 211.1993,
+      "dec": 53.65031,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J120150.6-185223",
+      "ra": 180.46114,
+      "dec": -18.87318,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[TG2007] NGC  278U",
+      "ra": 13.018333333333333,
+      "dec": 47.551111111111105,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SBH2012] 13",
+      "ra": 90.28679166666667,
+      "dec": -23.662658333333333,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J123038.8+413810",
+      "ra": 187.66166666666666,
+      "dec": 41.63611111111111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J235759.5-323312",
+      "ra": 359.49814,
+      "dec": -32.55367,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "OGLE LMC135.1      36",
+      "ra": 73.312635,
+      "dec": -69.544907,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SSS2004] 10",
+      "ra": 204.9632083333333,
+      "dec": -31.64466666666667,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J073624.9+653915",
+      "ra": 114.10383,
+      "dec": 65.65428,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J095548.9+694010",
+      "ra": 148.95398,
+      "dec": 69.66954,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140303.8+541447",
+      "ra": 210.76583,
+      "dec": 54.24658,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[PCV2006] ULX 23",
+      "ra": 180.47612500000002,
+      "dec": -18.867194444444447,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SP2003] 39",
+      "ra": 114.13374999999999,
+      "dec": 65.50861111111111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140240.2+541857",
+      "ra": 210.66753,
+      "dec": 54.31599,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140207.0+541709",
+      "ra": 210.52843,
+      "dec": 54.28572,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[WCI2003] 50",
+      "ra": 167.908875,
+      "dec": 55.67197222222222,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J100159.5+554048",
+      "ra": 150.49804,
+      "dec": 55.68005,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[JBC2011] 26",
+      "ra": 71.47216666666665,
+      "dec": -59.25775,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "EV* N2403 V0038",
+      "ra": 114.29263831542,
+      "dec": 65.55309793352,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J073618.6+653801",
+      "ra": 114.07779,
+      "dec": 65.63343,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J140323.2+542451",
+      "ra": 210.84692,
+      "dec": 54.41436,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J103847.2+533027",
+      "ra": 159.69695,
+      "dec": 53.50773,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J121539.1+361931",
+      "ra": 183.91314,
+      "dec": 36.32505,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J073648.4+654107",
+      "ra": 114.20239,
+      "dec": 65.68557,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J120150.3-185214",
+      "ra": 180.45982,
+      "dec": -18.87077,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140240.3+542653",
+      "ra": 210.6681,
+      "dec": 54.44859,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J100156.2+554032",
+      "ra": 150.48428,
+      "dec": 55.67561,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J043054.0+645043",
+      "ra": 67.72554166666666,
+      "dec": 64.84541666666665,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140231.2+542726",
+      "ra": 210.63073,
+      "dec": 54.45701,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SBH2012] 11",
+      "ra": 90.28645833333333,
+      "dec": -23.671511111111116,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J120149.6-185206",
+      "ra": 180.45695,
+      "dec": -18.86854,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J005203.8+473309",
+      "ra": 13.01596,
+      "dec": 47.55265,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J073804.2+653227",
+      "ra": 114.51766,
+      "dec": 65.54111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J112103.0+531013",
+      "ra": 170.26249,
+      "dec": 53.17042,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J112059.4+530938",
+      "ra": 170.24763,
+      "dec": 53.16057,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[TW2004] NGC 5194 74",
+      "ra": 202.50900000000001,
+      "dec": 47.150277777777774,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J120156.8-185214",
+      "ra": 180.4867,
+      "dec": -18.87069,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J235807.8-323614",
+      "ra": 359.53249999999997,
+      "dec": -32.604,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J100205.0+553930",
+      "ra": 150.52083333333331,
+      "dec": 55.65833333333333,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J112053.6+531037",
+      "ra": 170.22348,
+      "dec": 53.17708,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J120153.3-185235",
+      "ra": 180.47211,
+      "dec": -18.8766,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[MCG2004] D09",
+      "ra": 180.48054166666668,
+      "dec": -18.88025,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J132952.1+471212",
+      "ra": 202.4671,
+      "dec": 47.20356,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J073759.3+653609",
+      "ra": 114.49732,
+      "dec": 65.60262,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140354.5+543246",
+      "ra": 210.97691,
+      "dec": 54.54603,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOM51 J133011.0+471041",
+      "ra": 202.54591666666664,
+      "dec": 47.17805555555555,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J133657.2-295339",
+      "ra": 204.238625,
+      "dec": -29.894277777777777,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J100203.1+553940",
+      "ra": 150.51291666666665,
+      "dec": 55.66111111111111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J133651.6-295335",
+      "ra": 204.21520833333332,
+      "dec": -29.893027777777778,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140158.6+542041",
+      "ra": 210.49388,
+      "dec": 54.34502,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[HSS2004] 12",
+      "ra": 183.914125,
+      "dec": 36.34872222222222,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140351.2+541849",
+      "ra": 210.9638,
+      "dec": 54.31371,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J100158.8+554044",
+      "ra": 150.49535,
+      "dec": 55.67898,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J044541.9-591445",
+      "ra": 71.42499,
+      "dec": -59.24607,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J140244.8+542344",
+      "ra": 210.68666666666664,
+      "dec": 54.395555555555546,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CW2009] N1569-11",
+      "ra": 67.69391666666665,
+      "dec": 64.84822222222222,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J132957.4+471037",
+      "ra": 202.4895,
+      "dec": 47.17702777777778,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J112108.9+530941",
+      "ra": 170.28741,
+      "dec": 53.1615,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[HSS2004]  5",
+      "ra": 183.89325,
+      "dec": 36.37222222222222,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J005205.5+473249",
+      "ra": 13.02299,
+      "dec": 47.54716,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J034012.4-353740",
+      "ra": 55.05188,
+      "dec": -35.62792,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J121409.2+543145",
+      "ra": 183.53854,
+      "dec": 54.52919,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140317.5+542705",
+      "ra": 210.82331,
+      "dec": 54.45152,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J005205.8+473302",
+      "ra": 13.02457,
+      "dec": 47.55056,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[GWA2003] 21",
+      "ra": 9.427083333333336,
+      "dec": -33.71791666666667,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140213.9+542200",
+      "ra": 210.55827,
+      "dec": 54.36683,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J140301.6+541822",
+      "ra": 210.75684,
+      "dec": 54.30636,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J073740.5+653139",
+      "ra": 114.41873,
+      "dec": 65.52753,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J034006.7-353644",
+      "ra": 55.02801,
+      "dec": -35.61247,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2XMM J073709.1+653544",
+      "ra": 114.28791666666667,
+      "dec": 65.59555555555555,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC   55  38",
+      "ra": 3.726711,
+      "dec": -39.212464,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC   55  40",
+      "ra": 3.681709,
+      "dec": -39.211124,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC   55  66",
+      "ra": 3.764297,
+      "dec": -39.210987,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC   55  71",
+      "ra": 3.758571,
+      "dec": -39.195986,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC 2403   8",
+      "ra": 114.25702,
+      "dec": 65.543435,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC 2403  44",
+      "ra": 114.19066,
+      "dec": 65.597128,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SP2003]  7",
+      "ra": 114.13541666666664,
+      "dec": 65.6388888888889,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC 2403 134",
+      "ra": 114.44595,
+      "dec": 65.608402,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC 2403 172",
+      "ra": 114.3598,
+      "dec": 65.535209,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SP2003] 22",
+      "ra": 114.28916666666667,
+      "dec": 65.58361111111111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC 4214   7",
+      "ra": 183.89728,
+      "dec": 36.297805,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC 4214  15",
+      "ra": 183.88957,
+      "dec": 36.3108,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC 4214  51",
+      "ra": 183.90529,
+      "dec": 36.341678,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC 4214  97",
+      "ra": 183.92346,
+      "dec": 36.319284,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J123025.3+413924",
+      "ra": 187.60499999999996,
+      "dec": 41.656666666666666,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140244.2+542326",
+      "ra": 210.6842,
+      "dec": 54.39084,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[HSS2004] 20",
+      "ra": 183.95516666666666,
+      "dec": 36.36269444444445,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[JBC2011] 17",
+      "ra": 71.42762499999999,
+      "dec": -59.252694444444444,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SBH2012] 15",
+      "ra": 90.29325000000001,
+      "dec": -23.676275,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J140252.7+542628",
+      "ra": 210.71985,
+      "dec": 54.44129,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J112100.5+530839",
+      "ra": 170.25221,
+      "dec": 53.1442,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J133952.0-313859",
+      "ra": 204.96695833333334,
+      "dec": -31.64991666666667,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SG2005] LMC 26",
+      "ra": 81.88125,
+      "dec": -65.34277777777777,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140247.4+542123",
+      "ra": 210.69795,
+      "dec": 54.35647,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140254.0+542712",
+      "ra": 210.72538,
+      "dec": 54.45367,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[R2005b] 11",
+      "ra": 21.146624999999997,
+      "dec": 3.7920555555555553,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[TW2004] NGC 5194 19",
+      "ra": 202.4480833333333,
+      "dec": 47.216944444444444,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J100158.0+553945",
+      "ra": 150.4916666666667,
+      "dec": 55.6625,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J123027.6+413941",
+      "ra": 187.61499999999998,
+      "dec": 41.66138888888889,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J103845.8+533011",
+      "ra": 159.69107,
+      "dec": 53.50333,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J124150.8+323153",
+      "ra": 190.46166666666667,
+      "dec": 32.5313888888889,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236 152",
+      "ra": 204.23491666666666,
+      "dec": -29.80491666666667,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236 176",
+      "ra": 204.24308333333335,
+      "dec": -29.85763888888889,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZFR2002] 13",
+      "ra": 180.46508333333333,
+      "dec": -18.87552777777778,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J005202.1+473316",
+      "ra": 13.00896,
+      "dec": 47.55446,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J235809.6-323617",
+      "ra": 359.53999999999996,
+      "dec": -32.60472222222222,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "RX J133704-29539",
+      "ra": 204.26783333333333,
+      "dec": -29.900999999999996,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140349.8+541810",
+      "ra": 210.95708,
+      "dec": 54.30293,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[GSG2009] 46",
+      "ra": 223.50400000000002,
+      "dec": 3.5248416666666667,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J031823.7-662834",
+      "ra": 49.59902,
+      "dec": -66.47625,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J132954.6+471317",
+      "ra": 202.4775833333333,
+      "dec": 47.221444444444444,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J235743.2-323356",
+      "ra": 359.43018,
+      "dec": -32.56559,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J123035.2+413846",
+      "ra": 187.64624999999998,
+      "dec": 41.64638888888888,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J112050.0+530959",
+      "ra": 170.20835,
+      "dec": 53.16661,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J140251.3+542136",
+      "ra": 210.71411,
+      "dec": 54.36004,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[TW2004] NGC 5194 29",
+      "ra": 202.46587499999998,
+      "dec": 47.19783333333333,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[MEE95] R2",
+      "ra": 202.518,
+      "dec": 47.22244444444444,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOM51 J132947.0+471104",
+      "ra": 202.44599999999997,
+      "dec": 47.18458333333333,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J073700.7+653606",
+      "ra": 114.25291666666669,
+      "dec": 65.60166666666666,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[PCV2006] ULX 24",
+      "ra": 180.47645833333337,
+      "dec": -18.869527777777776,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J100159.6+553758",
+      "ra": 150.49833333333333,
+      "dec": 55.632777777777775,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SSS2004] 26",
+      "ra": 205.009125,
+      "dec": -31.621972222222222,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZFR2002] 20",
+      "ra": 180.46958333333336,
+      "dec": -18.858333333333334,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWC2008] U15",
+      "ra": 159.69166666666666,
+      "dec": 53.50111111111111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140332.3+541534",
+      "ra": 210.88501,
+      "dec": 54.25966,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140243.3+542624",
+      "ra": 210.68066,
+      "dec": 54.44041,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[DK2003] M51-14",
+      "ra": 202.43374999999997,
+      "dec": 47.19902777777778,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J111130.0+554011",
+      "ra": 167.87520833333332,
+      "dec": 55.669888888888885,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J103850.2+532925",
+      "ra": 159.70919,
+      "dec": 53.49043,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J133957.5-313811",
+      "ra": 204.98994,
+      "dec": -31.636589999999998,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J133956.0-313824",
+      "ra": 204.9835,
+      "dec": -31.640222222222224,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J073655.4+653608",
+      "ra": 114.23083333333332,
+      "dec": 65.60222222222221,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J120153.9-185309",
+      "ra": 180.4746,
+      "dec": -18.88591,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J112103.0+531006",
+      "ra": 170.26247,
+      "dec": 53.16875,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J112101.3+531032",
+      "ra": 170.25545,
+      "dec": 53.17577,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140242.6+542919",
+      "ra": 210.67775,
+      "dec": 54.48892,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J073725.8+653215",
+      "ra": 114.35739,
+      "dec": 65.53761,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J213627.5-543312",
+      "ra": 324.115,
+      "dec": -54.55362,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[TW2004] NGC 5194 33",
+      "ra": 202.46970833333333,
+      "dec": 47.18097222222222,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J124235.1+323337",
+      "ra": 190.64641666666668,
+      "dec": 32.561499999999995,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[GSG2009] 30",
+      "ra": 223.48685,
+      "dec": 3.544688333333333,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[GSG2009] 24",
+      "ra": 223.48233333333332,
+      "dec": 3.5578055555555554,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J231438.8+043204",
+      "ra": 348.661875,
+      "dec": 4.534472222222222,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J124157.4+323202",
+      "ra": 190.48923,
+      "dec": 32.53416,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[GSG2009] 21",
+      "ra": 223.478125,
+      "dec": 3.561293333333333,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J124156.1+323210",
+      "ra": 190.48375,
+      "dec": 32.53611111111111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J132949.6+470910",
+      "ra": 202.45666666666665,
+      "dec": 47.152861111111115,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[TW2004] NGC 5194 12",
+      "ra": 202.4357083333333,
+      "dec": 47.23244444444445,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "AX J0048.2-7309",
+      "ra": 12.05860660549,
+      "dec": -73.16088281084,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[MA93] 1867",
+      "ra": 19.91255404798,
+      "dec": -73.50321823513,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J073538.2+653719",
+      "ra": 113.9102,
+      "dec": 65.62262,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J073646.1+653613",
+      "ra": 114.19208333333333,
+      "dec": 65.60388888888889,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J140252.2+542557",
+      "ra": 210.7175,
+      "dec": 54.43258,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J235756.2-323632",
+      "ra": 359.48416,
+      "dec": -32.60906,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME NGC 5728 X-1",
+      "ra": 220.5995833333333,
+      "dec": -17.251472222222223,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME NGC 5728 X-2",
+      "ra": 220.60124999999994,
+      "dec": -17.252444444444446,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC 2403 169",
+      "ra": 114.34092,
+      "dec": 65.55481,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SG2005] SMC 41",
+      "ra": 13.67125,
+      "dec": -72.28888888888889,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "RX J0032.9-7348",
+      "ra": 8.233749999999999,
+      "dec": -73.80527777777777,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "RX J0057.9-7156",
+      "ra": 14.4925,
+      "dec": -71.94055555555556,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SG2005] SMC 38",
+      "ra": 14.078556,
+      "dec": -72.467419,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J140251.4+541908",
+      "ra": 210.71454,
+      "dec": 54.31904,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J123038.9+413822",
+      "ra": 187.66208333333333,
+      "dec": 41.63944444444444,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J140240.3+542243",
+      "ra": 210.66794,
+      "dec": 54.37888,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2XMM J073641.9+653652",
+      "ra": 114.17516666666667,
+      "dec": 65.61433333333333,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[WCI2003] 56",
+      "ra": 167.918,
+      "dec": 55.67375,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[WCI2003] 36",
+      "ra": 167.88058333333333,
+      "dec": 55.678888888888885,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J111124.7+554041",
+      "ra": 167.85291666666666,
+      "dec": 55.67827777777777,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[WCI2003] 17",
+      "ra": 167.82375,
+      "dec": 55.66941666666666,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LB2005] NGC  5194 X10",
+      "ra": 202.52695833333334,
+      "dec": 47.142944444444446,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[GG2021] 20",
+      "ra": 204.24425,
+      "dec": -29.86578888888889,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZFR2002] 38",
+      "ra": 180.47975000000002,
+      "dec": -18.86225,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J120152.6-185134",
+      "ra": 180.4691666666667,
+      "dec": -18.859805555555557,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140231.7+542618",
+      "ra": 210.63212,
+      "dec": 54.43863,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[JBC2011] 7",
+      "ra": 71.39616666666666,
+      "dec": -59.236805555555556,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SST2011] J095554.56+694100.4",
+      "ra": 148.97729166666667,
+      "dec": 69.68344444444445,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J121410.0+543127",
+      "ra": 183.54177,
+      "dec": 54.52417,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J112103.6+530953",
+      "ra": 170.26517,
+      "dec": 53.16476,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J095550.1+694034",
+      "ra": 148.9589,
+      "dec": 69.67614,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J095600.7+694107",
+      "ra": 149.00408333333334,
+      "dec": 69.68513888888889,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[WCI2003] 11",
+      "ra": 167.80641666666665,
+      "dec": 55.67111111111111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J120151.6-185334",
+      "ra": 180.46538,
+      "dec": -18.8929,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J140323.2+542324",
+      "ra": 210.84688,
+      "dec": 54.39015,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2MASS J04453671-5914277",
+      "ra": 71.40296478614,
+      "dec": -59.24111894191999,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOAnt J120155.5-185235.9",
+      "ra": 180.4811666666667,
+      "dec": -18.87663888888889,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2E   161",
+      "ra": 10.93534,
+      "dec": 41.40266,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "RX J004244.7+411136",
+      "ra": 10.68685,
+      "dec": 41.193822222222224,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J103846.5+533038",
+      "ra": 159.69405,
+      "dec": 53.51058,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J112102.2+531019",
+      "ra": 170.25953,
+      "dec": 53.17211,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J133702.0-295518",
+      "ra": 204.25837500000003,
+      "dec": -29.921638888888893,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J095546.5+694040",
+      "ra": 148.94354166666668,
+      "dec": 69.67786111111111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J112105.9+531057",
+      "ra": 170.27483,
+      "dec": 53.18278,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J103847.0+533015",
+      "ra": 159.69589,
+      "dec": 53.50443,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J134003.4-313644",
+      "ra": 205.01456,
+      "dec": -31.61226,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[TG2007] NGC  278L",
+      "ra": 13.018333333333333,
+      "dec": 47.54944444444444,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J073706.4+653451",
+      "ra": 114.27666666666667,
+      "dec": 65.58111111111111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[GSG2009] 35",
+      "ra": 223.490075,
+      "dec": 3.544958333333333,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[JBC2011] 1",
+      "ra": 71.36862500000001,
+      "dec": -59.24261111111111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SST2011] J111141.42+554057.8",
+      "ra": 167.92245833333334,
+      "dec": 55.682694444444444,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CW2009] N4214-19",
+      "ra": 183.92445833333332,
+      "dec": 36.320916666666676,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SST2011] J111126.05+554016.8",
+      "ra": 167.85845833333332,
+      "dec": 55.67129444444444,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J043052.7+645038",
+      "ra": 67.71999999999998,
+      "dec": 64.84416666666667,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[DK2003] M51-59",
+      "ra": 202.51704166666667,
+      "dec": 47.16766666666666,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SSS2004] 29",
+      "ra": 205.017875,
+      "dec": -31.625083333333333,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J031818.8-663001",
+      "ra": 49.57878,
+      "dec": -66.50042,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J123034.3+413805",
+      "ra": 187.64249999999998,
+      "dec": 41.63472222222222,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140241.4+542843",
+      "ra": 210.67254,
+      "dec": 54.47897,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SP2003]  8",
+      "ra": 114.15791666666667,
+      "dec": 65.62694444444443,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "MACHO  44.1741.17",
+      "ra": 72.77833333333332,
+      "dec": -69.80088888888889,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140203.5+541829",
+      "ra": 210.51463,
+      "dec": 54.30822,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140236.8+543023",
+      "ra": 210.65331,
+      "dec": 54.50672,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J124207.4+323234",
+      "ra": 190.53083333333333,
+      "dec": 32.54277777777778,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHG2008] C2-18",
+      "ra": 3.7179999999999995,
+      "dec": -39.20161111111111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J140241.2+542235",
+      "ra": 210.67166666666662,
+      "dec": 54.37638888888889,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC 2403  72",
+      "ra": 114.10583,
+      "dec": 65.64493,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J095554.1+694039",
+      "ra": 148.97576,
+      "dec": 69.67766,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J095550.5+694056",
+      "ra": 148.96052,
+      "dec": 69.68241,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J112103.8+531138",
+      "ra": 170.26587,
+      "dec": 53.19413,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J120155.0-185215",
+      "ra": 180.47949,
+      "dec": -18.871,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[WCI2003] 66",
+      "ra": 167.95408333333333,
+      "dec": 55.67344444444444,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140228.7+542632",
+      "ra": 210.61988,
+      "dec": 54.44196,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140357.6+541418",
+      "ra": 210.98983,
+      "dec": 54.23858,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J120153.0-185204",
+      "ra": 180.47041666666667,
+      "dec": -18.867555555555555,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J140321.7+541920",
+      "ra": 210.84041666666664,
+      "dec": 54.32222222222222,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140354.3+541411",
+      "ra": 210.97655,
+      "dec": 54.23652,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2XMM J140341.5+543139",
+      "ra": 210.9234333333333,
+      "dec": 54.52761666666666,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J140252.8+542112",
+      "ra": 210.71999999999997,
+      "dec": 54.353333333333325,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J140218.6+541832",
+      "ra": 210.57779,
+      "dec": 54.30915,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140314.8+542110",
+      "ra": 210.81203353999996,
+      "dec": 54.35288294,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140314.8+542123",
+      "ra": 210.81177559,
+      "dec": 54.35640599,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140313.6+542009",
+      "ra": 210.806875,
+      "dec": 54.33594166666667,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140308.0+542123",
+      "ra": 210.78339349,
+      "dec": 54.35642577,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140313.6+542146",
+      "ra": 210.80707692999997,
+      "dec": 54.36301871,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140322.6+542038",
+      "ra": 210.84444158,
+      "dec": 54.3440715,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140307.4+541937",
+      "ra": 210.78086831999997,
+      "dec": 54.32721238,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140302.6+542120",
+      "ra": 210.76094601999998,
+      "dec": 54.35570284,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140306.6+542228",
+      "ra": 210.77750087999996,
+      "dec": 54.37454735,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140300.5+542002",
+      "ra": 210.75209971,
+      "dec": 54.3339649,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J140249.9+542113",
+      "ra": 210.70814,
+      "dec": 54.35361,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J073732.0+653044",
+      "ra": 114.38411,
+      "dec": 65.51225,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZFR2002] 22",
+      "ra": 180.47037500000002,
+      "dec": -18.869444444444444,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[WCI2003] 53",
+      "ra": 167.91245833333335,
+      "dec": 55.68402777777778,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[WCI2003] 21",
+      "ra": 167.8359166666667,
+      "dec": 55.684194444444444,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140326.1+541950",
+      "ra": 210.85909281,
+      "dec": 54.33075178,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140321.6+542245",
+      "ra": 210.84008322,
+      "dec": 54.37935524,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140328.7+542112",
+      "ra": 210.86986355,
+      "dec": 54.35357395,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140327.9+542004",
+      "ra": 210.86625431,
+      "dec": 54.33456839,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140317.7+541835",
+      "ra": 210.82389077,
+      "dec": 54.30995829999999,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140328.9+542149",
+      "ra": 210.87078104999998,
+      "dec": 54.36364921,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140256.3+541947",
+      "ra": 210.73475044999998,
+      "dec": 54.32977803,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140316.0+541819",
+      "ra": 210.81683349999997,
+      "dec": 54.30540505,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140315.3+542337",
+      "ra": 210.81385375,
+      "dec": 54.39361678,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140322.9+541822",
+      "ra": 210.84573878,
+      "dec": 54.3061266,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140330.7+542221",
+      "ra": 210.87806504999998,
+      "dec": 54.37267451,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140312.4+541753",
+      "ra": 210.80193386999997,
+      "dec": 54.29825264,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140251.6+542052",
+      "ra": 210.71509138,
+      "dec": 54.34796645,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140327.7+541847",
+      "ra": 210.86581628999997,
+      "dec": 54.31305995999999,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140251.0+542041",
+      "ra": 210.71280907999997,
+      "dec": 54.34491676,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140327.1+541831",
+      "ra": 210.86323647,
+      "dec": 54.30868588,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140257.5+541833",
+      "ra": 210.73980025999998,
+      "dec": 54.30943856,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140305.2+541752",
+      "ra": 210.77176773999997,
+      "dec": 54.29781155,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140254.1+541902",
+      "ra": 210.72580554,
+      "dec": 54.317233089999995,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2MASS J14025336+5418560",
+      "ra": 210.72220988356997,
+      "dec": 54.31555536783,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140251.3+542231",
+      "ra": 210.71410311,
+      "dec": 54.37542647,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140251.2+541918",
+      "ra": 210.71391666666662,
+      "dec": 54.32173333333335,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140303.3+541736",
+      "ra": 210.76405311999997,
+      "dec": 54.29357106,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140318.6+542429",
+      "ra": 210.82776932999997,
+      "dec": 54.40821669999999,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140337.8+542038",
+      "ra": 210.90759381999996,
+      "dec": 54.34406218,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140333.5+542307",
+      "ra": 210.88962958999997,
+      "dec": 54.38531463,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140316.4+541707",
+      "ra": 210.81864085,
+      "dec": 54.28550109,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140315.4+541703",
+      "ra": 210.81466666666665,
+      "dec": 54.284391666666664,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140259.7+542425",
+      "ra": 210.7491488,
+      "dec": 54.40709003,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140249.1+541841",
+      "ra": 210.70463774999996,
+      "dec": 54.31164367,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140321.4+541702",
+      "ra": 210.83945838999998,
+      "dec": 54.28409742,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140308.4+542459",
+      "ra": 210.78502514999997,
+      "dec": 54.41639559,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140244.1+542034",
+      "ra": 210.68400125999997,
+      "dec": 54.34297283000001,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140243.8+542005",
+      "ra": 210.68270015999997,
+      "dec": 54.33491545,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140248.3+541828",
+      "ra": 210.70125189999996,
+      "dec": 54.3079834,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140332.2+542413",
+      "ra": 210.88443087999997,
+      "dec": 54.40386885,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140251.3+541748",
+      "ra": 210.71414650999998,
+      "dec": 54.29676623,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140242.7+542016",
+      "ra": 210.67816566,
+      "dec": 54.33781145,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140326.6+541655",
+      "ra": 210.86123571999997,
+      "dec": 54.28215899,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140335.7+542400",
+      "ra": 210.89894819999998,
+      "dec": 54.40025523,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140305.1+542522",
+      "ra": 210.77128172999997,
+      "dec": 54.42285314,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140339.3+541827",
+      "ra": 210.91389097999996,
+      "dec": 54.30764095999999,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140309.7+541615",
+      "ra": 210.79072504999996,
+      "dec": 54.27101538,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140338.8+541655",
+      "ra": 210.91189135,
+      "dec": 54.28195928,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140336.7+541614",
+      "ra": 210.90295807999996,
+      "dec": 54.27075074,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[WCI2003] 57",
+      "ra": 167.9186666666667,
+      "dec": 55.670138888888886,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140246.7+541455",
+      "ra": 210.69458333333333,
+      "dec": 54.248333333333335,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "RX J0045.6-7313",
+      "ra": 11.407916666666667,
+      "dec": -73.23166666666667,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J100154.5+554009",
+      "ra": 150.47708333333335,
+      "dec": 55.66916666666666,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140328.6+542201",
+      "ra": 210.86926347,
+      "dec": 54.36719895,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140319.2+542149",
+      "ra": 210.83026118,
+      "dec": 54.36368372,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140335.9+542202",
+      "ra": 210.89962087,
+      "dec": 54.3673889,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "RX J100202.8+553903",
+      "ra": 150.51204166666668,
+      "dec": 55.64966666666666,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J031821.2-662858",
+      "ra": 49.58867,
+      "dec": -66.48286,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J034007.7-353654",
+      "ra": 55.03216,
+      "dec": -35.61504,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J073753.0+653407",
+      "ra": 114.47023,
+      "dec": 65.56883,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J073624.8+654229",
+      "ra": 114.10237,
+      "dec": 65.70794,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J095550.7+694039",
+      "ra": 148.96164,
+      "dec": 69.67763,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[MKH2002] 14",
+      "ra": 67.69541666666667,
+      "dec": 64.85188888888888,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J124230.1+323349",
+      "ra": 190.62591666666665,
+      "dec": 32.56333333333333,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140429.2+542352",
+      "ra": 211.12166666666667,
+      "dec": 54.397777777777776,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[GSG2009] 31",
+      "ra": 223.48705,
+      "dec": 3.549328333333333,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SG2005] SMC 36",
+      "ra": 13.634166666666667,
+      "dec": -72.3025,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[YIT2003]  38",
+      "ra": 12.855833333333331,
+      "dec": -72.45805555555556,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J073714.6+653202",
+      "ra": 114.31186,
+      "dec": 65.53392,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J120154.6-185207",
+      "ra": 180.47759,
+      "dec": -18.86888,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J120154.2-185144",
+      "ra": 180.47599,
+      "dec": -18.86246,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140248.2+542027",
+      "ra": 210.70108100999997,
+      "dec": 54.34093576,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140255.2+542329",
+      "ra": 210.73032978999998,
+      "dec": 54.39161623,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J120149.0-185105",
+      "ra": 180.4542,
+      "dec": -18.85143,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J235759.9-323320",
+      "ra": 359.4998,
+      "dec": -32.5557,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J095549.8+693934",
+      "ra": 148.95749999999998,
+      "dec": 69.65944444444445,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J031805.4-663014",
+      "ra": 49.52287,
+      "dec": -66.50414,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J140331.2+542114",
+      "ra": 210.88025,
+      "dec": 54.35402,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140307.1+542436",
+      "ra": 210.77981648999997,
+      "dec": 54.41015113,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SBH2012] 1",
+      "ra": 90.27091666666666,
+      "dec": -23.668544444444443,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J140309.4+542237",
+      "ra": 210.78928,
+      "dec": 54.37721,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140336.2+541814",
+      "ra": 210.90106592,
+      "dec": 54.30408902,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J140400.5+542532",
+      "ra": 211.0020833333333,
+      "dec": 54.42555555555556,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J100158.6+553958",
+      "ra": 150.49454,
+      "dec": 55.66632,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[JBC2011] 18",
+      "ra": 71.42795833333334,
+      "dec": -59.24863888888889,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SBH2012] 9",
+      "ra": 90.28254166666667,
+      "dec": -23.672641666666667,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J112103.9+531012",
+      "ra": 170.26643,
+      "dec": 53.17022,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J235748.2-323657",
+      "ra": 359.45091,
+      "dec": -32.61606,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J231446.9+043154",
+      "ra": 348.6957,
+      "dec": 4.53169,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J140233.5+542451",
+      "ra": 210.63984,
+      "dec": 54.41439,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140247.9+541036",
+      "ra": 210.69844,
+      "dec": 54.17674,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J140310.1+542509",
+      "ra": 210.79249,
+      "dec": 54.41937,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J140241.9+542346",
+      "ra": 210.6745833333333,
+      "dec": 54.39611111111111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J140252.9+542718",
+      "ra": 210.72041666666664,
+      "dec": 54.455,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "JCMTSE J123034.5+413856",
+      "ra": 187.64208333333332,
+      "dec": 41.64972222222223,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140231.4+542400",
+      "ra": 210.63041666666663,
+      "dec": 54.400277777777774,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[JBC2011] 10",
+      "ra": 71.41825,
+      "dec": -59.243750000000006,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SBH2012] 6",
+      "ra": 90.27875,
+      "dec": -23.68170277777778,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J140344.8+542659",
+      "ra": 210.93666666666667,
+      "dec": 54.44972222222222,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[TW2004] NGC 5194 24",
+      "ra": 202.45874999999998,
+      "dec": 47.19427777777777,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140325.2+542342",
+      "ra": 210.85526953999997,
+      "dec": 54.39523338,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140324.0+542336",
+      "ra": 210.85014184999997,
+      "dec": 54.39360325,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2XMM J140210.6+543010",
+      "ra": 210.54398516315996,
+      "dec": 54.5030715807,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140452.1+533922",
+      "ra": 211.2175,
+      "dec": 53.65638,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140219.0+542352",
+      "ra": 210.57967,
+      "dec": 54.39756,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140311.1+541725",
+      "ra": 210.79642294999996,
+      "dec": 54.29039124,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140330.6+542249",
+      "ra": 210.8777021,
+      "dec": 54.38045196,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140327.7+542400",
+      "ra": 210.86553267,
+      "dec": 54.40002228,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[MA93] 1640",
+      "ra": 16.930923907739995,
+      "dec": -71.99831849864,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "SXP 95.2",
+      "ra": 13.36,
+      "dec": -72.82111111111111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236  86",
+      "ra": 204.21829166666666,
+      "dec": -29.881,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236 226",
+      "ra": 204.25183333333334,
+      "dec": -29.86961111111111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J133700.5-295156",
+      "ra": 204.252,
+      "dec": -29.865527777777782,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236 230",
+      "ra": 204.25229166666668,
+      "dec": -29.866444444444447,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236 315",
+      "ra": 204.27191666666667,
+      "dec": -29.856055555555557,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236 323",
+      "ra": 204.27433333333335,
+      "dec": -29.806083333333333,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J133718.8-295014",
+      "ra": 204.32870833333337,
+      "dec": -29.83713888888889,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140305.3+541453",
+      "ra": 210.77228,
+      "dec": 54.24815,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SSS2004]  9",
+      "ra": 204.96108333333336,
+      "dec": -31.65575,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[R2005b] 20",
+      "ra": 21.133166666666664,
+      "dec": 3.7845555555555555,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[VFT93] 0034-3349B",
+      "ra": 9.218558333333334,
+      "dec": -33.55465833333333,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[PCV2006] ULX  1",
+      "ra": 13.011333333333333,
+      "dec": 47.55213888888889,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[R2005b]  7",
+      "ra": 21.15758333333333,
+      "dec": 3.773861111111111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J100156.2+554033",
+      "ra": 150.48455,
+      "dec": 55.676050000000004,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J112056.5+530943",
+      "ra": 170.23551,
+      "dec": 53.16217,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J095615.1+693951",
+      "ra": 149.06208333333333,
+      "dec": 69.66416666666667,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J124210.4+323235",
+      "ra": 190.54333333333335,
+      "dec": 32.543055555555554,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[TW2004] NGC 5194 36",
+      "ra": 202.46991666666668,
+      "dec": 47.21244444444444,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J120153.9-185251",
+      "ra": 180.47459,
+      "dec": -18.88102,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2MASS J12153725+3622190",
+      "ra": 183.90520868619998,
+      "dec": 36.37196698917,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J140333.0+542211",
+      "ra": 210.88763,
+      "dec": 54.36982,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J103847.6+533015",
+      "ra": 159.6987,
+      "dec": 53.50436,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SG2005] LMC 28",
+      "ra": 81.26500000000001,
+      "dec": -70.13777777777779,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SPH2003] 15a",
+      "ra": 15.407375000000002,
+      "dec": -72.07280555555555,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J095608.0+694139",
+      "ra": 149.03357,
+      "dec": 69.6943,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[JBC2011] 3",
+      "ra": 71.37433333333334,
+      "dec": -59.251916666666666,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SP2003] 32",
+      "ra": 114.29000000000002,
+      "dec": 65.55138888888888,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J095527.1+693923",
+      "ra": 148.86311,
+      "dec": 69.65656,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "AX 0048.2-7309",
+      "ra": 12.5,
+      "dec": -72.88333333333334,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J095553.2+694052",
+      "ra": 148.97177,
+      "dec": 69.68131,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J112103.8+531058",
+      "ra": 170.26591,
+      "dec": 53.18294,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J231442.4+043203",
+      "ra": 348.67683,
+      "dec": 4.5342400000000005,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J005206.0+473347",
+      "ra": 13.0254,
+      "dec": 47.5632,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140304.7+541534",
+      "ra": 210.76982219,
+      "dec": 54.25950349,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[R2005b]  9",
+      "ra": 21.148666666666664,
+      "dec": 3.791583333333333,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140346.3+543206",
+      "ra": 210.94326,
+      "dec": 54.535,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J120151.4-185148",
+      "ra": 180.46417,
+      "dec": -18.86361,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J133701.6-295128",
+      "ra": 204.25679166666666,
+      "dec": -29.857833333333335,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140249.6+541959",
+      "ra": 210.70688228,
+      "dec": 54.3332337,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J133653.9-295114",
+      "ra": 204.22466666666668,
+      "dec": -29.854055555555554,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J140239.0+542229",
+      "ra": 210.6625,
+      "dec": 54.374722222222225,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[TW2004] NGC 5194 27",
+      "ra": 202.46179166666667,
+      "dec": 47.17541666666666,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J124200.1+323159",
+      "ra": 190.50041666666664,
+      "dec": 32.533055555555556,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[GWA2003] 10",
+      "ra": 9.413416666666667,
+      "dec": -33.714055555555554,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140208.8+541545",
+      "ra": 210.53556,
+      "dec": 54.26265,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "OGLE BRIGHT-LMC-MISC-414",
+      "ra": 74.40397624394,
+      "dec": -69.45764270547,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J005204.6+473305",
+      "ra": 13.01957,
+      "dec": 47.55146,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J034008.4-353743",
+      "ra": 55.03526,
+      "dec": -35.62882,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J112113.1+531047",
+      "ra": 170.30473,
+      "dec": 53.17983,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[WCI2003]  8",
+      "ra": 167.79070833333333,
+      "dec": 55.666583333333335,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[HSS2004] 14",
+      "ra": 183.92025,
+      "dec": 36.32775,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J124202.7+323139",
+      "ra": 190.51124999999996,
+      "dec": 32.527499999999996,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J123045.6+413639",
+      "ra": 187.6895833333333,
+      "dec": 41.611111111111114,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC 4214  59",
+      "ra": 183.91674999999995,
+      "dec": 36.326527777777784,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BLF2016] 16.94795-17.50711",
+      "ra": 16.94795,
+      "dec": -17.50711,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J073621.2+654228",
+      "ra": 114.08839,
+      "dec": 65.708,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J095527.2+694050",
+      "ra": 148.8635,
+      "dec": 69.68056,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZFR2002] 36",
+      "ra": 180.47833333333335,
+      "dec": -18.87086111111111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140351.9+542149",
+      "ra": 210.96636760999996,
+      "dec": 54.3637697,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J120156.1-185239",
+      "ra": 180.48405,
+      "dec": -18.8777,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[DK2003] M51-41",
+      "ra": 202.47979166666664,
+      "dec": 47.17847222222222,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J120151.5-185205",
+      "ra": 180.46485,
+      "dec": -18.868290000000002,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2XMM J140406.7+541225",
+      "ra": 211.02825765170996,
+      "dec": 54.20674187811,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[GSG2009] 22",
+      "ra": 223.479775,
+      "dec": 3.546065,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[GSG2009] 20",
+      "ra": 223.47635,
+      "dec": 3.5638566666666662,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140238.8+541756",
+      "ra": 210.66204185,
+      "dec": 54.29893782,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140336.2+542847",
+      "ra": 210.90105,
+      "dec": 54.48005,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2XMM J140353.8+540939",
+      "ra": 210.97453509686,
+      "dec": 54.16083321766,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[TW2004] NGC 5194 38",
+      "ra": 202.47312499999998,
+      "dec": 47.19252777777778,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J132952.7+471121",
+      "ra": 202.46979166666665,
+      "dec": 47.18936111111111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J095534.5+693823",
+      "ra": 148.89402,
+      "dec": 69.63981,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[TW2004] NGC 5194  1",
+      "ra": 202.39891666666665,
+      "dec": 47.20027777777778,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J120151.4-185142",
+      "ra": 180.46457,
+      "dec": -18.86179,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J123031.1+413837",
+      "ra": 187.62916666666666,
+      "dec": 41.64388888888889,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J140248.0+542717",
+      "ra": 210.7004,
+      "dec": 54.45481,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[TW2004] NGC 5194 43",
+      "ra": 202.474875,
+      "dec": 47.17538888888888,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "1H 0749-600",
+      "ra": 117.55833333333332,
+      "dec": -60.196666666666665,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOAnt J120156.6-185200.9",
+      "ra": 180.48600000000002,
+      "dec": -18.86691666666667,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J120155.0-185315",
+      "ra": 180.4790416666667,
+      "dec": -18.887527777777777,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZFR2002] 19",
+      "ra": 180.46841666666668,
+      "dec": -18.887277777777776,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J121537.9+362222",
+      "ra": 183.90792,
+      "dec": 36.37297,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SP2003] 33",
+      "ra": 114.22625,
+      "dec": 65.53527777777778,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J123035.9+413832",
+      "ra": 187.64916666666664,
+      "dec": 41.64222222222222,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOM51 J132955.0+471102",
+      "ra": 202.47904166666666,
+      "dec": 47.184,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[WIP99] H42",
+      "ra": 210.98258333333334,
+      "dec": 54.3495,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SPH2003] 13a",
+      "ra": 15.266124999999999,
+      "dec": -72.11733333333332,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[DK2003] M51-37",
+      "ra": 202.47662499999998,
+      "dec": 47.18933333333333,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J140218.2+542237",
+      "ra": 210.57619,
+      "dec": 54.37704,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J213624.2-543339",
+      "ra": 324.10083,
+      "dec": -54.5611,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J103843.9+533001",
+      "ra": 159.68319,
+      "dec": 53.50029,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J112103.1+531118",
+      "ra": 170.26335,
+      "dec": 53.1885,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140226.3+541413",
+      "ra": 210.61044,
+      "dec": 54.23721,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140214.0+542042",
+      "ra": 210.55818,
+      "dec": 54.34546,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140457.7+533929",
+      "ra": 211.24058,
+      "dec": 53.65826,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2XMM J073650.1+653604",
+      "ra": 114.20833333333333,
+      "dec": 65.60083333333333,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J095555.1+694027",
+      "ra": 148.97967,
+      "dec": 69.67436,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J100154.2+554216",
+      "ra": 150.47597,
+      "dec": 55.70471,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J120149.8-185107",
+      "ra": 180.45763,
+      "dec": -18.85201,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J140311.7+542139",
+      "ra": 210.79881,
+      "dec": 54.361,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J095547.4+694059",
+      "ra": 148.94875,
+      "dec": 69.68333333333334,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "RX J0051.3-7250",
+      "ra": 12.828875,
+      "dec": -72.84347222222222,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J132954.1+471130",
+      "ra": 202.47616666666664,
+      "dec": 47.19163888888889,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[WCI2003] 31",
+      "ra": 167.86791666666664,
+      "dec": 55.672555555555554,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[GSG2009] 43",
+      "ra": 223.49897499999997,
+      "dec": 3.5278566666666666,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LPS2002] 17",
+      "ra": 202.46824999999998,
+      "dec": 47.195611111111106,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140337.2+543241",
+      "ra": 210.90505,
+      "dec": 54.54455,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J235751.0-323726",
+      "ra": 359.46253,
+      "dec": -32.62412,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140331.8+541521",
+      "ra": 210.88399,
+      "dec": 54.25595,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J140320.6+541520",
+      "ra": 210.83619,
+      "dec": 54.25581,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J112110.2+531012",
+      "ra": 170.29288,
+      "dec": 53.17,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SP2003] 19",
+      "ra": 114.29125000000002,
+      "dec": 65.59638888888888,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SP2003] 35",
+      "ra": 114.27125000000001,
+      "dec": 65.52972222222222,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J073711.1+652825",
+      "ra": 114.29628,
+      "dec": 65.47447,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOM51 J132938.0+471613",
+      "ra": 202.40870833333332,
+      "dec": 47.2705,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140455.3+533934",
+      "ra": 211.23057,
+      "dec": 53.65955,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J003737.6-334255",
+      "ra": 9.40668,
+      "dec": -33.71535,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140313.0+541402",
+      "ra": 210.80462,
+      "dec": 54.23392,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140446.7+533919",
+      "ra": 211.19492,
+      "dec": 53.65542,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J235748.2-323419",
+      "ra": 359.45118,
+      "dec": -32.57215,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[TW2004] NGC 5194 81",
+      "ra": 202.52620833333333,
+      "dec": 47.171416666666666,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140350.4+542413",
+      "ra": 210.9604,
+      "dec": 54.40385,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J103231.5+542411",
+      "ra": 158.13128,
+      "dec": 54.40325,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J003738.7-334316",
+      "ra": 9.41136,
+      "dec": -33.72119,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J103845.0+533010",
+      "ra": 159.68783,
+      "dec": 53.50287,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "Ginga 1839-04",
+      "ra": 280.45,
+      "dec": -4.5,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J231442.2+043140",
+      "ra": 348.67588,
+      "dec": 4.52781,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[HSS2004] 19",
+      "ra": 183.94774999999998,
+      "dec": 36.357055555555554,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[DK2003] M51-45",
+      "ra": 202.48375,
+      "dec": 47.230777777777774,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140429.7+542235",
+      "ra": 211.12329,
+      "dec": 54.37646,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[TW2004] NGC 5194 78",
+      "ra": 202.519375,
+      "dec": 47.23811111111111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J073712.8+653139",
+      "ra": 114.30348,
+      "dec": 65.5277,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SSS2004] 25",
+      "ra": 204.99695833333334,
+      "dec": -31.63061111111111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J073652.0+653641",
+      "ra": 114.21666666666667,
+      "dec": 65.61138888888888,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZFR2002] 26",
+      "ra": 180.471375,
+      "dec": -18.868194444444445,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J132952.2+471154",
+      "ra": 202.46774,
+      "dec": 47.19849,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J103234.4+542357",
+      "ra": 158.1436,
+      "dec": 54.39932,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J231442.6+043215",
+      "ra": 348.67763,
+      "dec": 4.53779,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J140222.5+542532",
+      "ra": 210.59377,
+      "dec": 54.42605,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J123028.8+413756",
+      "ra": 187.6195833333333,
+      "dec": 41.63249999999999,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J132952.0+471127",
+      "ra": 202.46704166666666,
+      "dec": 47.19086111111111,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[R2005b] 12",
+      "ra": 21.145374999999998,
+      "dec": 3.7915277777777776,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2XMM J073727.3+653103",
+      "ra": 114.36375000000001,
+      "dec": 65.51722222222222,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[TW2004] NGC 5195  6",
+      "ra": 202.49466666666666,
+      "dec": 47.27388888888889,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2XMM J140228.4+541245",
+      "ra": 210.61860935708998,
+      "dec": 54.21243770939,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J103851.2+532927",
+      "ra": 159.71352,
+      "dec": 53.49095,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "RX J0041.2-7306",
+      "ra": 10.318333333333333,
+      "dec": -73.11138888888888,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "RX J0105.7-7226",
+      "ra": 16.437916666666663,
+      "dec": -72.43583333333333,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BLF2016] 16.94472-17.50776",
+      "ra": 16.94472,
+      "dec": -17.50776,
+      "otype": "HXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 154",
+      "ra": 185.01037499999998,
+      "dec": 29.273499999999995,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 176",
+      "ra": 185.03495833333332,
+      "dec": 29.288027777777778,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J124830.8-054837",
+      "ra": 192.1284583333333,
+      "dec": -5.810249999999999,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "4U 0042+32",
+      "ra": 11.209999999999997,
+      "dec": 33.02138888888888,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 193",
+      "ra": 151.28625000000002,
+      "dec": -7.745555555555557,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 9",
+      "ra": 263.35025,
+      "dec": -33.387833333333326,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 151",
+      "ra": 185.02183333333332,
+      "dec": 29.26708333333333,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "1E 1742.2-2857",
+      "ra": 266.3608333333333,
+      "dec": -28.983333333333334,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 82",
+      "ra": 151.3075,
+      "dec": -7.714444444444445,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 120",
+      "ra": 192.14917431676,
+      "dec": -5.77790435824,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 89",
+      "ra": 151.30708333333334,
+      "dec": -7.713055555555556,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 200",
+      "ra": 151.275,
+      "dec": -7.741111111111109,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ISB2000]  4",
+      "ra": 192.1360887479067,
+      "dec": -5.8141947885857,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOGlb J173618.1-444359",
+      "ra": 264.0757666666667,
+      "dec": -44.733202777777784,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J124827.0-054926",
+      "ra": 192.11262499999998,
+      "dec": -5.8236944444444445,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J132539.9-430502",
+      "ra": 201.41620833333332,
+      "dec": -43.0839,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[PLV2002] CX10",
+      "ra": 267.2203083333333,
+      "dec": -20.358697222222226,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 17",
+      "ra": 151.30125,
+      "dec": -7.724444444444445,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J133700.6-295146",
+      "ra": 204.2525,
+      "dec": -29.86302777777778,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 106",
+      "ra": 151.289961,
+      "dec": -7.700147,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 181",
+      "ra": 185.02841666666663,
+      "dec": 29.276861111111117,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "4U 0836-42",
+      "ra": 129.34833333333336,
+      "dec": -42.900555555555556,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "4U 0513-40",
+      "ra": 78.52745833333334,
+      "dec": -40.04361111111111,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2009] 194",
+      "ra": 185.0143333333333,
+      "dec": 29.277666666666665,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 173",
+      "ra": 185.017125,
+      "dec": 29.27091666666666,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC   55  59",
+      "ra": 3.670063,
+      "dec": -39.160525,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2XMM J001457.0-391138",
+      "ra": 3.73761,
+      "dec": -39.19409,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC   55  65",
+      "ra": 3.757318,
+      "dec": -39.204846,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2XMM J001534.2-391424",
+      "ra": 3.8928700000000003,
+      "dec": -39.24026,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SPZ2011] 151",
+      "ra": 148.993925,
+      "dec": 69.090575,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 107",
+      "ra": 151.30083333333334,
+      "dec": -7.698055555555554,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 285",
+      "ra": 151.33677,
+      "dec": -7.694492,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 85",
+      "ra": 151.31000000000003,
+      "dec": -7.713888888888891,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SIB2001] 46",
+      "ra": 192.13273865873998,
+      "dec": -5.810662724360001,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "Cl* NGC 6652    SAW V11",
+      "ra": 278.9356291666666,
+      "dec": -32.993994444444446,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 180",
+      "ra": 151.28291666666667,
+      "dec": -7.759444444444442,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 112",
+      "ra": 192.14904515607,
+      "dec": -5.79489165938,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 104",
+      "ra": 151.31875000000002,
+      "dec": -7.70222222222222,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J124826.1-054730",
+      "ra": 192.10899999999998,
+      "dec": -5.791527777777778,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "4U 1711-34",
+      "ra": 258.58241666666663,
+      "dec": -34.046472222222214,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 174",
+      "ra": 185.03362499999997,
+      "dec": 29.278777777777776,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 96",
+      "ra": 39.10845833333333,
+      "dec": 59.651916666666665,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 110",
+      "ra": 192.1443333333333,
+      "dec": -5.791,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 153",
+      "ra": 185.01474999999996,
+      "dec": 29.271527777777777,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 122",
+      "ra": 192.15404166666667,
+      "dec": -5.792391666666666,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[RTB2002] J174852.41-202132.2",
+      "ra": 267.2184125,
+      "dec": -20.35888888888889,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 31",
+      "ra": 151.31083333333336,
+      "dec": -7.720555555555555,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 99",
+      "ra": 151.31875000000002,
+      "dec": -7.708333333333332,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2MASS J09555496+6900557",
+      "ra": 148.9788746692,
+      "dec": 69.01557768744,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 97",
+      "ra": 39.15208333333333,
+      "dec": 59.64499999999999,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 144",
+      "ra": 192.138375,
+      "dec": -5.794972222222222,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "Cl* NGC 6652    SAW V10",
+      "ra": 278.9329,
+      "dec": -32.9882,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 160",
+      "ra": 185.02637499999997,
+      "dec": 29.286138888888892,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 62",
+      "ra": 201.367,
+      "dec": -43.067194444444446,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 165",
+      "ra": 185.00833333333333,
+      "dec": 29.29161111111112,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 95",
+      "ra": 151.32750000000001,
+      "dec": -7.710555555555556,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J104751.1+123549",
+      "ra": 161.96276184291,
+      "dec": 12.59699868036,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 192",
+      "ra": 151.29083333333332,
+      "dec": -7.7458333333333345,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2009] 174",
+      "ra": 185.01913339493998,
+      "dec": 29.270934872499996,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 175",
+      "ra": 185.03686248072998,
+      "dec": 29.291380043149996,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[KKF2001]  36",
+      "ra": 201.29399999999998,
+      "dec": -43.10669444444445,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 52",
+      "ra": 201.34199999999998,
+      "dec": -43.04588888888889,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 163",
+      "ra": 185.00770833333328,
+      "dec": 29.29952777777778,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 149",
+      "ra": 185.01236069817998,
+      "dec": 29.30405102715,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 103",
+      "ra": 151.316001,
+      "dec": -7.703997,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J124835.9-054552",
+      "ra": 192.1497916666667,
+      "dec": -5.76438888888889,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 25",
+      "ra": 151.31958333333336,
+      "dec": -7.7216666666666685,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 179",
+      "ra": 185.02479166666663,
+      "dec": 29.28580555555556,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[KGP2002] r2-71",
+      "ra": 10.639166666666664,
+      "dec": 41.28413888888889,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[KKF2001] 126",
+      "ra": 201.38499999999996,
+      "dec": -43.07788888888889,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 356",
+      "ra": 151.358335,
+      "dec": -7.645063,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 2",
+      "ra": 151.29250000000002,
+      "dec": -7.736944444444442,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 99",
+      "ra": 161.96487499999998,
+      "dec": 12.593333333333335,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BGM2013] BHC  4",
+      "ra": 10.608541666666666,
+      "dec": 41.32077777777778,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 68",
+      "ra": 151.30708333333334,
+      "dec": -7.7169444444444455,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140313.1+542052",
+      "ra": 210.80459478,
+      "dec": 54.34798659,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140326.6+542220",
+      "ra": 210.86117856,
+      "dec": 54.37245444,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140348.2+542117",
+      "ra": 210.95110139,
+      "dec": 54.35478793,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J140346.7+542408",
+      "ra": 210.94461876,
+      "dec": 54.40242372,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SIB2001] 35",
+      "ra": 192.161125,
+      "dec": -5.7963611111111115,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 114",
+      "ra": 151.307269,
+      "dec": -7.737115,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 199",
+      "ra": 151.378692,
+      "dec": -7.742112,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[HGH2004] 201.39711-43.09140",
+      "ra": 201.39729166666666,
+      "dec": -43.09149166666667,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2009] 146",
+      "ra": 185.025125,
+      "dec": 29.280111111111108,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2008] 74",
+      "ra": 161.95749999999998,
+      "dec": 12.581944444444444,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 162",
+      "ra": 185.00113961762997,
+      "dec": 29.30339163731,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 56",
+      "ra": 201.41,
+      "dec": -42.95550000000001,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 121",
+      "ra": 151.295166,
+      "dec": -7.728785,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "EV* N2403 V0069",
+      "ra": 114.30858333333335,
+      "dec": 65.52530555555553,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SIB2001] 70",
+      "ra": 192.1939583333333,
+      "dec": -5.803333333333334,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236 204",
+      "ra": 204.24862499999998,
+      "dec": -29.852444444444448,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J133701.2-295201",
+      "ra": 204.25525,
+      "dec": -29.867305555555554,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236 268",
+      "ra": 204.25916666666666,
+      "dec": -29.86225,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236 281",
+      "ra": 204.261125,
+      "dec": -29.80677777777778,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J133706.0-295159",
+      "ra": 204.27495833333333,
+      "dec": -29.86641666666667,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236 432",
+      "ra": 204.33795833333335,
+      "dec": -29.8785,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J095549.7+690531",
+      "ra": 148.95746569624,
+      "dec": 69.09221207711,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 105",
+      "ra": 161.959125,
+      "dec": 12.582027777777775,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 472",
+      "ra": 151.30375,
+      "dec": -7.729166666666667,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J124831.0-054829",
+      "ra": 192.12960174422,
+      "dec": -5.80796687384,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2009] 185",
+      "ra": 185.01762499999998,
+      "dec": 29.280972222222218,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 5",
+      "ra": 267.68975,
+      "dec": -31.292361111111116,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SIB2001] 42",
+      "ra": 192.16407139433,
+      "dec": -5.791754425350001,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SIB2001] 33",
+      "ra": 192.14148228396996,
+      "dec": -5.809554163789999,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "INTREF   837",
+      "ra": 266.5404166666667,
+      "dec": -28.851111111111113,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 89",
+      "ra": 148.84180858223,
+      "dec": 69.08857812869,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 101",
+      "ra": 151.30458333333334,
+      "dec": -7.704722222222222,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 10",
+      "ra": 151.304038,
+      "dec": -7.727669,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 22",
+      "ra": 151.293864,
+      "dec": -7.7219560000000005,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 76",
+      "ra": 151.314057,
+      "dec": -7.715612,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 188",
+      "ra": 151.2975,
+      "dec": -7.750000000000002,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 191",
+      "ra": 151.29291666666666,
+      "dec": -7.747222222222223,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 214",
+      "ra": 151.273479,
+      "dec": -7.7173110000000005,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J132505.0-430133",
+      "ra": 201.27092046952,
+      "dec": -43.02595195905,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 98",
+      "ra": 161.96029166666668,
+      "dec": 12.573083333333331,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 100",
+      "ra": 151.32166666666666,
+      "dec": -7.704999999999997,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 1",
+      "ra": 151.30708333333334,
+      "dec": -7.7380555555555555,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 223",
+      "ra": 151.33958333333334,
+      "dec": -7.694444444444443,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 212",
+      "ra": 151.36416,
+      "dec": -7.721148,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 135",
+      "ra": 151.318542,
+      "dec": -7.716348,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "RX J1735.9-2726",
+      "ra": 264.00833,
+      "dec": -27.42819,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J104750.5+123437",
+      "ra": 161.96022572233,
+      "dec": 12.57692891018,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "INTREF   814",
+      "ra": 265.6833333333333,
+      "dec": -30.514166666666668,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SIB2001] 47",
+      "ra": 192.13220833333335,
+      "dec": -5.812972222222221,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "4U 2129+12",
+      "ra": 322.49296833333335,
+      "dec": 12.167408333333332,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 164",
+      "ra": 185.02183333333332,
+      "dec": 29.281333333333333,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 54",
+      "ra": 151.30583333333334,
+      "dec": -7.725,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 53",
+      "ra": 201.37615422751998,
+      "dec": -42.992991770029995,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 113",
+      "ra": 192.1566666666667,
+      "dec": -5.797166666666667,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 171",
+      "ra": 151.319939,
+      "dec": -7.779643,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 113",
+      "ra": 151.304743,
+      "dec": -7.739659,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 170",
+      "ra": 185.0157083333333,
+      "dec": 29.26936111111111,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "XTE J1818-245",
+      "ra": 274.60179166666666,
+      "dec": -24.538322222222227,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "4U 1701-407",
+      "ra": 255.43469999999996,
+      "dec": -40.8582,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 6",
+      "ra": 267.2322083333333,
+      "dec": -24.894472222222223,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOGlb J214022.1-231045",
+      "ra": 325.0923375,
+      "dec": -23.179458333333336,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME GC X-4",
+      "ra": 265.9458333333333,
+      "dec": -29.433333333333334,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "1H 1715-321",
+      "ra": 259.6975,
+      "dec": -32.17777777777778,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 178",
+      "ra": 185.03390833333333,
+      "dec": 29.288083333333336,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 115",
+      "ra": 192.15483333333333,
+      "dec": -5.808416666666666,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 78",
+      "ra": 151.3141666666667,
+      "dec": -7.715000000000001,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2008] 41",
+      "ra": 161.96985399084,
+      "dec": 12.58570023103,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2E  1831",
+      "ra": 114.25970833333335,
+      "dec": 65.65972222222223,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOGlb J173617.5-444357",
+      "ra": 264.073,
+      "dec": -44.73253611111111,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 116",
+      "ra": 192.1168333333333,
+      "dec": -5.809083333333333,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "4U 1722-30",
+      "ra": 261.88854166666664,
+      "dec": -30.802055555555548,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 126",
+      "ra": 192.13831418188,
+      "dec": -5.8202498018,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "4U 2316+61",
+      "ra": 350.14221428355,
+      "dec": 62.292705769890006,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 92",
+      "ra": 151.32679166666668,
+      "dec": -7.712138888888892,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "4U 1246-58",
+      "ra": 192.414,
+      "dec": -59.0871,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 171",
+      "ra": 185.0335,
+      "dec": 29.278361111111114,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2009] 96",
+      "ra": 185.0323333333333,
+      "dec": 29.289027777777775,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 159",
+      "ra": 185.02112499999996,
+      "dec": 29.287638888888885,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2009] 139",
+      "ra": 185.02590833333335,
+      "dec": 29.282638888888886,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 161",
+      "ra": 185.0339166666667,
+      "dec": 29.283277777777784,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 158",
+      "ra": 185.04144637513997,
+      "dec": 29.294585388619996,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 181",
+      "ra": 151.29166666666669,
+      "dec": -7.758333333333334,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "Ginga 1741.6-2849",
+      "ra": 266.1058333333333,
+      "dec": -29.0125,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "XTE J1752-223",
+      "ra": 268.062875,
+      "dec": -22.342322222222222,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 73",
+      "ra": 151.30875,
+      "dec": -7.7158333333333315,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 97",
+      "ra": 151.30916666666667,
+      "dec": -7.7094444444444425,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 5",
+      "ra": 151.28583333333336,
+      "dec": -7.733611111111113,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "MXB 1743-29",
+      "ra": 266.4458333333333,
+      "dec": -29.28666666666667,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHM2006] Candidate 1b",
+      "ra": 267.40849583333335,
+      "dec": -28.354861111111113,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "INTREF   709",
+      "ra": 249.1166666666667,
+      "dec": -47.82694444444445,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2CXO J001451.9-391045",
+      "ra": 3.71684,
+      "dec": -39.17904,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2XMM J001444.6-391135",
+      "ra": 3.68603,
+      "dec": -39.19321,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2MASS J17455993-2854498",
+      "ra": 266.49975,
+      "dec": -28.913833333333333,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 358",
+      "ra": 151.324278,
+      "dec": -7.626166,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 23",
+      "ra": 151.32125,
+      "dec": -7.721944444444446,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 57",
+      "ra": 151.307341,
+      "dec": -7.718508,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 69",
+      "ra": 151.309647,
+      "dec": -7.716807,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 88",
+      "ra": 151.311723,
+      "dec": -7.713023,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 117",
+      "ra": 151.317273,
+      "dec": -7.732398,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 123",
+      "ra": 151.303518,
+      "dec": -7.727751,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 137",
+      "ra": 151.29913,
+      "dec": -7.716206,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 142",
+      "ra": 151.307915,
+      "dec": -7.707322,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 148",
+      "ra": 151.296424,
+      "dec": -7.701697,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 152",
+      "ra": 151.319432,
+      "dec": -7.69831,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2MASS J12483692-0548007",
+      "ra": 192.15408115327,
+      "dec": -5.8002806304500005,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SIB2001] 48",
+      "ra": 192.15779166666664,
+      "dec": -5.7813333333333325,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J133702.1-295505",
+      "ra": 204.25895833333334,
+      "dec": -29.918333333333333,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "4U 1745-203",
+      "ra": 267.22249999999997,
+      "dec": -20.361944444444447,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "INTREF   866",
+      "ra": 268.8691666666667,
+      "dec": -32.4775,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "KS 1741-293",
+      "ra": 266.21514,
+      "dec": -29.34522,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J133701.3-295136",
+      "ra": 204.25541666666666,
+      "dec": -29.86013888888889,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "IGR J17177-3656",
+      "ra": 259.4125,
+      "dec": -36.93805555555555,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 12",
+      "ra": 151.30541666666664,
+      "dec": -7.726944444444446,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 1",
+      "ra": 263.9485,
+      "dec": -30.48213888888889,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 3",
+      "ra": 267.2230833333333,
+      "dec": -20.36722222222222,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[RTB2002] J174852.64-202140.6",
+      "ra": 267.2192708333333,
+      "dec": -20.361250000000002,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[RTB2002] J174853.12-202127.0",
+      "ra": 267.2213458333333,
+      "dec": -20.357508333333335,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 169",
+      "ra": 185.00133333333332,
+      "dec": 29.284750000000003,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOGlb J173617.6-444416",
+      "ra": 264.0736791666667,
+      "dec": -44.737994444444446,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOGlb J173616.9-444409",
+      "ra": 264.0705875,
+      "dec": -44.73608333333333,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 70",
+      "ra": 151.326171,
+      "dec": -7.716179,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 332",
+      "ra": 151.241016,
+      "dec": -7.764256,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2E 1742.5-2858",
+      "ra": 266.4206541666667,
+      "dec": -29.003933333333332,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "1E 1742.7-2902",
+      "ra": 266.47041666666667,
+      "dec": -29.05611111111111,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "1E 1742.5-2845",
+      "ra": 266.42875000000004,
+      "dec": -28.781388888888888,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "4U 1735-28",
+      "ra": 264.64166666666665,
+      "dec": -28.47833333333333,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 91",
+      "ra": 148.94583333333333,
+      "dec": 69.09752777777777,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "1E 1742.9-2852",
+      "ra": 266.52,
+      "dec": -28.886944444444445,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2XMM J122022.4+291536",
+      "ra": 185.09399583333328,
+      "dec": 29.25995,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 232",
+      "ra": 151.34750000000003,
+      "dec": -7.674166666666668,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2XMM J174716.1-281047",
+      "ra": 266.81737499999997,
+      "dec": -28.180055555555555,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 86",
+      "ra": 151.30458333333334,
+      "dec": -7.713611111111111,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "SWIFT J1843.5-0343",
+      "ra": 280.8947916666666,
+      "dec": -3.715722222222223,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXO J162912.8-460250",
+      "ra": 247.3125,
+      "dec": -46.076666666666675,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 3",
+      "ra": 151.29666666666665,
+      "dec": -7.7361111111111125,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "RX J1749.8-3312",
+      "ra": 267.45391666666666,
+      "dec": -33.20322222222222,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 180",
+      "ra": 185.03212499999998,
+      "dec": 29.27891666666667,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2XMM J164143.6+362758",
+      "ra": 250.43233750000002,
+      "dec": 36.46606666666666,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 9",
+      "ra": 151.311043,
+      "dec": -7.728675,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 64",
+      "ra": 151.308,
+      "dec": -7.71776,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 48",
+      "ra": 151.30771,
+      "dec": -7.71913,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 61",
+      "ra": 151.308685,
+      "dec": -7.718184,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 52",
+      "ra": 151.305825,
+      "dec": -7.718794,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 87",
+      "ra": 151.311381,
+      "dec": -7.713361,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 81",
+      "ra": 151.30892,
+      "dec": -7.714424,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 83",
+      "ra": 151.315144,
+      "dec": -7.714331,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 112",
+      "ra": 151.285986,
+      "dec": -7.740049,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 91",
+      "ra": 151.310732,
+      "dec": -7.712538,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 75",
+      "ra": 151.318389,
+      "dec": -7.715743,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 98",
+      "ra": 151.314477,
+      "dec": -7.708983,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 126",
+      "ra": 151.303003,
+      "dec": -7.723534,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 127",
+      "ra": 151.305907,
+      "dec": -7.721595,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 133",
+      "ra": 151.309806,
+      "dec": -7.717217,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 138",
+      "ra": 151.303738,
+      "dec": -7.716178,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 131",
+      "ra": 151.30888,
+      "dec": -7.719819,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 134",
+      "ra": 151.312239,
+      "dec": -7.716618,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 144",
+      "ra": 151.330784,
+      "dec": -7.705935,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 151",
+      "ra": 151.333435,
+      "dec": -7.698349,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 155",
+      "ra": 151.31522,
+      "dec": -7.737492,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 156",
+      "ra": 151.289277,
+      "dec": -7.737056,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 159",
+      "ra": 151.289071,
+      "dec": -7.724777,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 162",
+      "ra": 151.31366,
+      "dec": -7.695538,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 190",
+      "ra": 151.274706,
+      "dec": -7.7477599999999995,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 198",
+      "ra": 151.278252,
+      "dec": -7.742774,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 215",
+      "ra": 151.288539,
+      "dec": -7.717029,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 272",
+      "ra": 151.287012,
+      "dec": -7.746355,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 481",
+      "ra": 151.305587,
+      "dec": -7.719981,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 482",
+      "ra": 151.305239,
+      "dec": -7.719399,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 11",
+      "ra": 151.30416666666667,
+      "dec": -7.727222222222222,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BSP2003] 26",
+      "ra": 276.13675416666666,
+      "dec": -24.868961111111112,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 451",
+      "ra": 151.264827,
+      "dec": -7.546602,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "SWIFT J1539.2-6227",
+      "ra": 234.79984583333334,
+      "dec": -62.46730555555556,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2E  3944",
+      "ra": 266.5879,
+      "dec": -28.7274,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "V* V4722 Sgr",
+      "ra": 272.6852916666666,
+      "dec": -26.150333333333336,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[KRL2007b] 294",
+      "ra": 268.5608333333333,
+      "dec": -27.909527777777775,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[RTB2002] J174852.87-202142.5",
+      "ra": 267.2203083333333,
+      "dec": -20.361836111111113,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[RTB2002] J174853.17-202138.7",
+      "ra": 267.2215875,
+      "dec": -20.360772222222224,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "4U 1857+01",
+      "ra": 287.112375,
+      "dec": 0.16880555555555554,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BSP2003] 24",
+      "ra": 276.1359583333333,
+      "dec": -24.872694444444445,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[RTB2002] J174851.87-202133.9",
+      "ra": 267.21612500000003,
+      "dec": -20.359402777777778,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 8",
+      "ra": 151.321916,
+      "dec": -7.731245,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "INTEGRAL1 113",
+      "ra": 289.72083333333336,
+      "dec": -5.253333333333333,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[KRL2007b] 238",
+      "ra": 261.35779999999994,
+      "dec": -32.9537,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "INTREF   989",
+      "ra": 295.6583333333333,
+      "dec": -3.9,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2MAXI J1922-171",
+      "ra": 290.65416666666664,
+      "dec": -17.284166666666668,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[FLM96] M 13 Ga",
+      "ra": 250.43341666666666,
+      "dec": 36.46602777777778,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J133704.6-295120",
+      "ra": 204.26935549980996,
+      "dec": -29.855672553759995,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2XMM J174502.1-285450",
+      "ra": 266.2598,
+      "dec": -28.911499999999997,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[KKF2001]  41",
+      "ra": 201.29988869890997,
+      "dec": -42.95368423176,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 153",
+      "ra": 151.333992,
+      "dec": -7.695488,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 69",
+      "ra": 201.32709138412,
+      "dec": -43.02113240223,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 50",
+      "ra": 201.24200000000002,
+      "dec": -42.93619444444445,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 138",
+      "ra": 192.14987500000004,
+      "dec": -5.7990555555555545,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J132503.0-425625",
+      "ra": 201.26249999999996,
+      "dec": -42.940277777777766,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 39",
+      "ra": 201.42399999999998,
+      "dec": -42.95,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "RX J132502.8-430242",
+      "ra": 201.26099999999997,
+      "dec": -43.04530555555556,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[KKF2001]  22",
+      "ra": 201.2739583333333,
+      "dec": -43.175419444444444,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 95",
+      "ra": 39.12850000000001,
+      "dec": 59.659638888888885,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "AX J1747.4-3000",
+      "ra": 266.8584,
+      "dec": -30.0006,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 72",
+      "ra": 201.33299999999997,
+      "dec": -43.052694444444434,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 42",
+      "ra": 201.312,
+      "dec": -43.01361111111111,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 129",
+      "ra": 151.290832,
+      "dec": -7.720559,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J104750.3+123506",
+      "ra": 161.95970833333334,
+      "dec": 12.585166666666668,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SIB2001] 15",
+      "ra": 192.1539583333333,
+      "dec": -5.803,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J132531.6-430003",
+      "ra": 201.3817083333333,
+      "dec": -43.00085,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC 2403  67",
+      "ra": 114.22533,
+      "dec": 65.608582,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC 4214  10",
+      "ra": 183.90029,
+      "dec": 36.31316,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 325",
+      "ra": 151.20087,
+      "dec": -7.796992,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 148",
+      "ra": 185.01958333333332,
+      "dec": 29.268749999999997,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 136",
+      "ra": 151.310046,
+      "dec": -7.716273,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 55",
+      "ra": 151.308002,
+      "dec": -7.7185880000000004,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 58",
+      "ra": 151.308214,
+      "dec": -7.718375,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 49",
+      "ra": 151.308041,
+      "dec": -7.71901,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 56",
+      "ra": 151.307754,
+      "dec": -7.718617,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 34",
+      "ra": 151.306986,
+      "dec": -7.720251,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 16",
+      "ra": 151.306925,
+      "dec": -7.718823,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 20",
+      "ra": 151.30294,
+      "dec": -7.722269,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 13",
+      "ra": 151.299002,
+      "dec": -7.7260539999999995,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 30",
+      "ra": 151.309871,
+      "dec": -7.720501,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 40",
+      "ra": 151.309331,
+      "dec": -7.719802,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 27",
+      "ra": 151.305514,
+      "dec": -7.721068,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 37",
+      "ra": 151.305286,
+      "dec": -7.720035,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 43",
+      "ra": 151.307512,
+      "dec": -7.719304,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 46",
+      "ra": 151.305701,
+      "dec": -7.719231,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 51",
+      "ra": 151.307361,
+      "dec": -7.718872,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 60",
+      "ra": 151.307306,
+      "dec": -7.718216,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 67",
+      "ra": 151.330032,
+      "dec": -7.716995,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 7",
+      "ra": 151.299998,
+      "dec": -7.732404,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 18",
+      "ra": 151.302506,
+      "dec": -7.723363,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 15",
+      "ra": 151.30444,
+      "dec": -7.7248339999999995,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 28",
+      "ra": 151.309501,
+      "dec": -7.720955,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 33",
+      "ra": 151.306844,
+      "dec": -7.720393,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 36",
+      "ra": 151.307899,
+      "dec": -7.720199,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 39",
+      "ra": 151.306695,
+      "dec": -7.719825,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 21",
+      "ra": 151.30564,
+      "dec": -7.722114,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 6",
+      "ra": 151.313785,
+      "dec": -7.733483,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 38",
+      "ra": 151.30752,
+      "dec": -7.719888,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 29",
+      "ra": 151.297084,
+      "dec": -7.720876,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 26",
+      "ra": 151.308441,
+      "dec": -7.721442,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 35",
+      "ra": 151.315905,
+      "dec": -7.720238,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 44",
+      "ra": 151.309489,
+      "dec": -7.719264,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 41",
+      "ra": 151.303668,
+      "dec": -7.7197189999999996,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 47",
+      "ra": 151.308387,
+      "dec": -7.719184,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 50",
+      "ra": 151.308552,
+      "dec": -7.71887,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 53",
+      "ra": 151.311389,
+      "dec": -7.718786,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 59",
+      "ra": 151.310792,
+      "dec": -7.718205,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 62",
+      "ra": 151.307736,
+      "dec": -7.718001,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 90",
+      "ra": 151.316592,
+      "dec": -7.712616,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 93",
+      "ra": 151.318982,
+      "dec": -7.710737,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 111",
+      "ra": 151.30329,
+      "dec": -7.741544,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 66",
+      "ra": 151.309354,
+      "dec": -7.717032,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 124",
+      "ra": 151.300062,
+      "dec": -7.7256409999999995,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 125",
+      "ra": 151.308507,
+      "dec": -7.723859,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 128",
+      "ra": 151.314876,
+      "dec": -7.720651,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 139",
+      "ra": 151.319786,
+      "dec": -7.715654,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 149",
+      "ra": 151.319091,
+      "dec": -7.69904,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 157",
+      "ra": 151.294868,
+      "dec": -7.729681,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 160",
+      "ra": 151.304798,
+      "dec": -7.716592,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 195",
+      "ra": 151.277432,
+      "dec": -7.744679,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 282",
+      "ra": 151.289717,
+      "dec": -7.716784,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 86",
+      "ra": 149.02252139312,
+      "dec": 69.11194436242,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 94",
+      "ra": 39.15525000000001,
+      "dec": 59.65430555555556,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 111",
+      "ra": 192.1105,
+      "dec": -5.79025,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 108",
+      "ra": 192.140125,
+      "dec": -5.813666666666668,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "1RXS J175229.0-282951",
+      "ra": 268.06666666666666,
+      "dec": -28.50611111111111,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 177",
+      "ra": 185.02375341006996,
+      "dec": 29.28054298397,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "SAX J0835.9+5118",
+      "ra": 128.98333333333335,
+      "dec": 51.30999999999999,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC   55  32",
+      "ra": 3.71719,
+      "dec": -39.226208,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC   55  30",
+      "ra": 3.719053,
+      "dec": -39.226115,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC   55  27",
+      "ra": 3.726228,
+      "dec": -39.225607,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC   55  47",
+      "ra": 3.738195,
+      "dec": -39.207715,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC   55  49",
+      "ra": 3.5516680000000003,
+      "dec": -39.171618,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC   55 109",
+      "ra": 3.835839,
+      "dec": -39.20543,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC   55 116",
+      "ra": 3.776893,
+      "dec": -39.2128,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC   55 123",
+      "ra": 3.809273,
+      "dec": -39.222397,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC   55 124",
+      "ra": 3.858207,
+      "dec": -39.235155,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC 2403   5",
+      "ra": 114.27966,
+      "dec": 65.587735,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC 2403  75",
+      "ra": 114.26068,
+      "dec": 65.603798,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 74",
+      "ra": 151.30916666666667,
+      "dec": -7.7158333333333315,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2MASS J13255272-4305464",
+      "ra": 201.46969421295998,
+      "dec": -43.09625049496,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 78",
+      "ra": 201.2927375955,
+      "dec": -42.89250490773001,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 76",
+      "ra": 201.39787432189,
+      "dec": -42.99311346513001,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 65",
+      "ra": 151.30916666666667,
+      "dec": -7.717777777777778,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236  52",
+      "ra": 204.20495833333334,
+      "dec": -29.856944444444444,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236  57",
+      "ra": 204.20808333333332,
+      "dec": -29.920194444444448,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J133653.1-295430",
+      "ra": 204.22142629617,
+      "dec": -29.90845926457,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 179",
+      "ra": 151.295447,
+      "dec": -7.759294,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236 177",
+      "ra": 204.24322499999997,
+      "dec": -29.863191000000004,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236 198",
+      "ra": 204.24756199999996,
+      "dec": -29.863971000000003,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236 247",
+      "ra": 204.254595,
+      "dec": -29.840873999999996,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J133701.0-295245",
+      "ra": 204.25441666666666,
+      "dec": -29.879305555555554,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236 252",
+      "ra": 204.255506,
+      "dec": -29.860879000000004,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "RX J133701-29534",
+      "ra": 204.25616666666667,
+      "dec": -29.890694444444442,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236 270",
+      "ra": 204.259442,
+      "dec": -29.808981999999997,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236 284",
+      "ra": 204.262218,
+      "dec": -29.850328,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236 305",
+      "ra": 204.26937500000003,
+      "dec": -29.84847222222222,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "SWIFT J174510.8-262411",
+      "ra": 266.2952041666667,
+      "dec": -26.403499999999998,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2009] 21",
+      "ra": 185.06466666666668,
+      "dec": 29.26461111111111,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2009] 184",
+      "ra": 185.01804166666668,
+      "dec": 29.293333333333337,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2009] 31",
+      "ra": 185.05304166666667,
+      "dec": 29.27275,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "RX J0043.2+4125",
+      "ra": 10.810416666666667,
+      "dec": 41.42055555555556,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 167",
+      "ra": 185.0298333333333,
+      "dec": 29.294083333333337,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 172",
+      "ra": 185.03812499999998,
+      "dec": 29.299444444444443,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 85",
+      "ra": 201.42499999999998,
+      "dec": -43.17819444444445,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2008] 70",
+      "ra": 161.95833333333334,
+      "dec": 12.582472222222222,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2008] 81",
+      "ra": 161.95666666666665,
+      "dec": 12.581638888888888,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2009] 13",
+      "ra": 185.07395833333334,
+      "dec": 29.2395,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 80",
+      "ra": 151.31166666666667,
+      "dec": -7.714444444444443,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[HAC2010] NGC 6440 X-2",
+      "ra": 267.2198333333333,
+      "dec": -20.35666666666667,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 119",
+      "ra": 192.157125,
+      "dec": -5.791472222222223,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2009] 228",
+      "ra": 184.99045833333332,
+      "dec": 29.287388888888888,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 146",
+      "ra": 185.01895833333336,
+      "dec": 29.305361111111118,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J073646.8+653558",
+      "ra": 114.19500000000001,
+      "dec": 65.59944444444444,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 150",
+      "ra": 185.0015416666667,
+      "dec": 29.289472222222223,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 182",
+      "ra": 185.02183333333332,
+      "dec": 29.27777777777777,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 4",
+      "ra": 278.9333333333333,
+      "dec": -32.982055555555554,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOGlb J173617.3-444408",
+      "ra": 264.07221666666663,
+      "dec": -44.73565555555556,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 63",
+      "ra": 151.30458333333334,
+      "dec": -7.718055555555557,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOGBS J174633.4-262314",
+      "ra": 266.63934805981995,
+      "dec": -26.3872272234,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[SGM2003] 127",
+      "ra": 148.90525,
+      "dec": 69.03543611111112,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "RX J1709.5-2639",
+      "ra": 257.377,
+      "dec": -26.6571,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOU J133659.4-294959",
+      "ra": 204.24770833333332,
+      "dec": -29.833055555555557,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 322",
+      "ra": 151.244903,
+      "dec": -7.811663,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 145",
+      "ra": 151.283575,
+      "dec": -7.704578,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 24",
+      "ra": 151.31000000000003,
+      "dec": -7.721944444444446,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 183",
+      "ra": 151.292939,
+      "dec": -7.757438,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 84",
+      "ra": 151.310318,
+      "dec": -7.714159,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 42",
+      "ra": 151.306456,
+      "dec": -7.719336,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 45",
+      "ra": 151.306216,
+      "dec": -7.719234,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 120",
+      "ra": 151.296239,
+      "dec": -7.729598,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 143",
+      "ra": 151.283822,
+      "dec": -7.737928,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 146",
+      "ra": 151.300396,
+      "dec": -7.703566,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 163",
+      "ra": 151.302376,
+      "dec": -7.695159,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 270",
+      "ra": 151.302576,
+      "dec": -7.748267,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 335",
+      "ra": 151.30523,
+      "dec": -7.715634,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CGKB B",
+      "ra": 265.1727833333333,
+      "dec": -53.667897222222216,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 156",
+      "ra": 185.00449999999998,
+      "dec": 29.289861111111115,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 107",
+      "ra": 192.13725000000002,
+      "dec": -5.7844444444444445,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 118",
+      "ra": 192.17358333333334,
+      "dec": -5.813055555555556,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOM31 J004256.0+421218",
+      "ra": 10.733491666666666,
+      "dec": 41.2051388888889,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2008] 82",
+      "ra": 161.95625,
+      "dec": 12.583305555555555,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2008] 77",
+      "ra": 161.95708333333332,
+      "dec": 12.582749999999999,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2008] 102",
+      "ra": 161.94583333333333,
+      "dec": 12.577416666666666,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2008] 103",
+      "ra": 161.945,
+      "dec": 12.574277777777779,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2009] 42",
+      "ra": 185.0450416666667,
+      "dec": 29.31963888888889,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2008] 75",
+      "ra": 161.95749999999998,
+      "dec": 12.581111111111111,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2009] 158",
+      "ra": 185.022875,
+      "dec": 29.278000000000002,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2008] 86",
+      "ra": 161.95458333333332,
+      "dec": 12.580222222222222,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2009] 137",
+      "ra": 185.02616666666668,
+      "dec": 29.282249999999998,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BFK2009] 41",
+      "ra": 185.04533333333336,
+      "dec": 29.274444444444445,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236 321",
+      "ra": 204.274,
+      "dec": -29.82311111111111,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[LET2019] NGC 5236 421",
+      "ra": 204.32675000000003,
+      "dec": -29.855138888888888,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC   55 138",
+      "ra": 3.781776,
+      "dec": -39.223207,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "INTREF   948",
+      "ra": 284.17883333333333,
+      "dec": 5.309527777777777,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CHP2004] J132605.4-425632",
+      "ra": 201.5224583333333,
+      "dec": -42.94228333333333,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 122",
+      "ra": 151.30291666666668,
+      "dec": -7.73027777777778,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "SAX J1752.3-3138",
+      "ra": 268.1,
+      "dec": -31.628333333333334,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "MXB 1742-29",
+      "ra": 269.0,
+      "dec": -29.6,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "INTREF   782",
+      "ra": 261.91375,
+      "dec": -35.73444444444444,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "INTREF   806",
+      "ra": 264.9833333333333,
+      "dec": -30.983333333333334,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[CFS78] GC X-2",
+      "ra": 266.40416666666664,
+      "dec": -29.45333333333333,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "1ES 1735-26.9",
+      "ra": 264.5735,
+      "dec": -26.994099999999996,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "INTREF   776",
+      "ra": 260.91125,
+      "dec": -37.66166666666666,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[KRL2007b] 297",
+      "ra": 269.94041666666664,
+      "dec": -22.027500000000003,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "1RXS J174725.6-300241",
+      "ra": 266.8592,
+      "dec": -30.045799999999996,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "RX J1739.4-2942",
+      "ra": 264.8744583333333,
+      "dec": -29.702972222222222,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME [LIW2015] 187",
+      "ra": 151.299997,
+      "dec": -7.752391,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "4U 1918+15",
+      "ra": 290.0708333333333,
+      "dec": 14.704999999999998,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "GPS 1742-326",
+      "ra": 266.37083333333334,
+      "dec": -32.69333333333333,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "4U 1746-370",
+      "ra": 267.5583333333333,
+      "dec": -37.04666666666667,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 114",
+      "ra": 192.1445,
+      "dec": -5.80411111111111,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 48",
+      "ra": 201.365,
+      "dec": -43.09019444444444,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[ZGV2011] 166",
+      "ra": 185.01554166666665,
+      "dec": 29.274944444444444,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "AX J1538.3-5541",
+      "ra": 234.55830000000003,
+      "dec": -55.705200000000005,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "1RXS J142959.9-671447",
+      "ra": 217.4954,
+      "dec": -67.2439,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "4U 1708-40",
+      "ra": 258.0982,
+      "dec": -40.843199999999996,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2E 1746.7-3225",
+      "ra": 267.51589999999993,
+      "dec": -32.4295,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[KRL2007b] 228",
+      "ra": 258.1541,
+      "dec": -37.64509999999999,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "4U 1823-00",
+      "ra": 276.3431,
+      "dec": -0.011299999999999998,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "IGR J17480-2446",
+      "ra": 267.02012916666666,
+      "dec": -24.780241666666665,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2E  3943",
+      "ra": 266.52199999999993,
+      "dec": -29.51449999999999,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC   55  37",
+      "ra": 3.626684,
+      "dec": -39.216057,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC   55  41",
+      "ra": 3.756297,
+      "dec": -39.211989,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BWE2015] NGC   55 106",
+      "ra": 3.867398,
+      "dec": -39.197567,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "X Sgr X-3",
+      "ra": 270.3859,
+      "dec": -20.5292,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "1RXS J180408.9-342058",
+      "ra": 271.03708333333327,
+      "dec": -34.349444444444444,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "EXO 1846-031",
+      "ra": 282.32125,
+      "dec": -3.062222222222222,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "V* V1228 Sco",
+      "ra": 259.99579166666666,
+      "dec": -31.750308333333333,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "V* MM Ser",
+      "ra": 279.991,
+      "dec": 5.036899999999999,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "IGR J17498-2921",
+      "ra": 267.48062500000003,
+      "dec": -29.32211111111111,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "4U 1730-22",
+      "ra": 263.4875,
+      "dec": -22.03527777777778,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "V* V1101 Sco",
+      "ra": 256.43538166923,
+      "dec": -36.4230692568,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "MAXI J1727-203",
+      "ra": 261.971,
+      "dec": -20.389,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "SWIFT J174540.7-290015",
+      "ra": 266.41975,
+      "dec": -29.004083333333334,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "ATLAS 19bcxp",
+      "ra": 68.847,
+      "dec": 55.37618055555556,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "V* V2293 Oph",
+      "ra": 259.90383409797,
+      "dec": -25.01781155596,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "2MAXI J1753-013",
+      "ra": 268.36787448601,
+      "dec": -1.45173793202,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "INTREF  1012",
+      "ra": 303.15733032739,
+      "dec": 38.18354747836,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "MAXI J0637-430",
+      "ra": 99.09829166666667,
+      "dec": -42.86780555555556,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "NAME XTE J17464-3213",
+      "ra": 266.564984875,
+      "dec": -32.23357222222222,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "MAXI J0556-332",
+      "ra": 89.193,
+      "dec": -33.174499999999995,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[PLV2002] CX1",
+      "ra": 267.21734583333335,
+      "dec": -20.359,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "IGR J17511-3057",
+      "ra": 267.78562500000004,
+      "dec": -30.961583333333333,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "IGR J17591-2342",
+      "ra": 269.78662,
+      "dec": -23.712973,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "3FHL J1746.2-2852",
+      "ra": 266.137875,
+      "dec": -28.740833333333338,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "V* KZ TrA",
+      "ra": 248.06996,
+      "dec": -67.46091,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "CXOGlb J002400.9-720453",
+      "ra": 6.004033333333333,
+      "dec": -72.08143888888888,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[BGM2013] BHC 26",
+      "ra": 10.762200390849998,
+      "dec": 41.25625984425999,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "MAXI J1910-057",
+      "ra": 287.595,
+      "dec": -5.798861111111111,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "V* KY TrA",
+      "ra": 232.07070833333336,
+      "dec": -61.88272222222222,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "MAXI J1659-152",
+      "ra": 254.75700000000003,
+      "dec": -15.257980555555555,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "V* V822 Cen",
+      "ra": 224.5913949342,
+      "dec": -31.668754286880002,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "V* LZ Aqr",
+      "ra": 320.81058333333334,
+      "dec": -5.798027777777778,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "X LMC X-2",
+      "ra": 80.1208,
+      "dec": -71.9591,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "[KRL2007b] 225",
+      "ra": 257.5533,
+      "dec": -28.131000000000004,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "Granat 1747-312",
+      "ra": 267.6952583333333,
+      "dec": -31.274683333333332,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "V* UY Vol",
+      "ra": 117.14045833333333,
+      "dec": -67.7521388888889,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "V* NP Ser",
+      "ra": 274.0072,
+      "dec": -14.035700000000002,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "4U 1812-12",
+      "ra": 273.7765999999999,
+      "dec": -12.096699999999998,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "4U 1642-45",
+      "ra": 251.45039999999995,
+      "dec": -45.6118,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "SWIFT J0428.2-6704A",
+      "ra": 66.95671650342543,
+      "dec": -67.07640744581083,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "4U 1624-49",
+      "ra": 247.0117708333333,
+      "dec": -49.19850277777777,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "V* V2216 Oph",
+      "ra": 262.93404166666664,
+      "dec": -16.961361111111113,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "V* V1405 Aql",
+      "ra": 289.6984,
+      "dec": -5.238200000000001,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    },
+    {
+      "main_id": "XTE J1810-189",
+      "ra": 272.5869166666667,
+      "dec": -19.069777777777777,
+      "otype": "LXB",
+      "source": "Simbad TAP"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "2mass_viewer": "https://irsa.ipac.caltech.edu/applications/2MASS/IM/viewer/getImage?ra=293.247625&dec=0.000000&size=300",
+    "wise_viewer": "https://irsa.ipac.caltech.edu/applications/WISE/IM/viewer/getImage?ra=293.247625&dec=0.000000&size=300",
+    "simbad": "https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=293.247625+0.000000&Radius=5&Radius.unit=arcmin",
+    "aladin": "https://aladin.u-strasbg.fr/AladinLite/?target=293.247625+0.000000&fov=0.1",
+    "anchor": "J1933+1726",
+    "ra": 293.247625,
+    "dec": 0.0
+  },
+  {
+    "2mass_viewer": "https://irsa.ipac.caltech.edu/applications/2MASS/IM/viewer/getImage?ra=278.846167&dec=0.000000&size=300",
+    "wise_viewer": "https://irsa.ipac.caltech.edu/applications/WISE/IM/viewer/getImage?ra=278.846167&dec=0.000000&size=300",
+    "simbad": "https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=278.846167+0.000000&Radius=5&Radius.unit=arcmin",
+    "aladin": "https://aladin.u-strasbg.fr/AladinLite/?target=278.846167+0.000000&fov=0.1",
+    "anchor": "J1835-0928",
+    "ra": 278.84616666666665,
+    "dec": 0.0
+  },
+  {
+    "2mass_viewer": "https://irsa.ipac.caltech.edu/applications/2MASS/IM/viewer/getImage?ra=128.569583&dec=0.000000&size=300",
+    "wise_viewer": "https://irsa.ipac.caltech.edu/applications/WISE/IM/viewer/getImage?ra=128.569583&dec=0.000000&size=300",
+    "simbad": "https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=128.569583+0.000000&Radius=5&Radius.unit=arcmin",
+    "aladin": "https://aladin.u-strasbg.fr/AladinLite/?target=128.569583+0.000000&fov=0.1",
+    "anchor": "J0834-4159",
+    "ra": 128.56958333333333,
+    "dec": 0.0
+  },
+  {
+    "2mass_viewer": "https://irsa.ipac.caltech.edu/applications/2MASS/IM/viewer/getImage?ra=153.228125&dec=0.000000&size=300",
+    "wise_viewer": "https://irsa.ipac.caltech.edu/applications/WISE/IM/viewer/getImage?ra=153.228125&dec=0.000000&size=300",
+    "simbad": "https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=153.228125+0.000000&Radius=5&Radius.unit=arcmin",
+    "aladin": "https://aladin.u-strasbg.fr/AladinLite/?target=153.228125+0.000000&fov=0.1",
+    "anchor": "J1012-5830",
+    "ra": 153.228125,
+    "dec": 0.0
+  },
+  {
+    "2mass_viewer": "https://irsa.ipac.caltech.edu/applications/2MASS/IM/viewer/getImage?ra=281.046917&dec=0.000000&size=300",
+    "wise_viewer": "https://irsa.ipac.caltech.edu/applications/WISE/IM/viewer/getImage?ra=281.046917&dec=0.000000&size=300",
+    "simbad": "https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=281.046917+0.000000&Radius=5&Radius.unit=arcmin",
+    "aladin": "https://aladin.u-strasbg.fr/AladinLite/?target=281.046917+0.000000&fov=0.1",
+    "anchor": "J1844+00",
+    "ra": 281.0469166666667,
+    "dec": 0.0
+  },
+  {
+    "2mass_viewer": "https://irsa.ipac.caltech.edu/applications/2MASS/IM/viewer/getImage?ra=281.008000&dec=0.000000&size=300",
+    "wise_viewer": "https://irsa.ipac.caltech.edu/applications/WISE/IM/viewer/getImage?ra=281.008000&dec=0.000000&size=300",
+    "simbad": "https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=281.008000+0.000000&Radius=5&Radius.unit=arcmin",
+    "aladin": "https://aladin.u-strasbg.fr/AladinLite/?target=281.008000+0.000000&fov=0.1",
+    "anchor": "J1844-0452",
+    "ra": 281.00800000000004,
+    "dec": 0.0
+  },
+  {
+    "2mass_viewer": "https://irsa.ipac.caltech.edu/applications/2MASS/IM/viewer/getImage?ra=280.579083&dec=0.000000&size=300",
+    "wise_viewer": "https://irsa.ipac.caltech.edu/applications/WISE/IM/viewer/getImage?ra=280.579083&dec=0.000000&size=300",
+    "simbad": "https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=280.579083+0.000000&Radius=5&Radius.unit=arcmin",
+    "aladin": "https://aladin.u-strasbg.fr/AladinLite/?target=280.579083+0.000000&fov=0.1",
+    "anchor": "J1842-0309",
+    "ra": 280.5790833333333,
+    "dec": 0.0
+  },
+  {
+    "2mass_viewer": "https://irsa.ipac.caltech.edu/applications/2MASS/IM/viewer/getImage?ra=283.016625&dec=0.000000&size=300",
+    "wise_viewer": "https://irsa.ipac.caltech.edu/applications/WISE/IM/viewer/getImage?ra=283.016625&dec=0.000000&size=300",
+    "simbad": "https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=283.016625+0.000000&Radius=5&Radius.unit=arcmin",
+    "aladin": "https://aladin.u-strasbg.fr/AladinLite/?target=283.016625+0.000000&fov=0.1",
+    "anchor": "J1852-0127",
+    "ra": 283.01662500000003,
+    "dec": 0.0
+  },
+  {
+    "2mass_viewer": "https://irsa.ipac.caltech.edu/applications/2MASS/IM/viewer/getImage?ra=280.863583&dec=0.000000&size=300",
+    "wise_viewer": "https://irsa.ipac.caltech.edu/applications/WISE/IM/viewer/getImage?ra=280.863583&dec=0.000000&size=300",
+    "simbad": "https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=280.863583+0.000000&Radius=5&Radius.unit=arcmin",
+    "aladin": "https://aladin.u-strasbg.fr/AladinLite/?target=280.863583+0.000000&fov=0.1",
+    "anchor": "J1843-0000",
+    "ra": 280.86358333333334,
+    "dec": 0.0
+  },
+  {
+    "2mass_viewer": "https://irsa.ipac.caltech.edu/applications/2MASS/IM/viewer/getImage?ra=286.703083&dec=0.000000&size=300",
+    "wise_viewer": "https://irsa.ipac.caltech.edu/applications/WISE/IM/viewer/getImage?ra=286.703083&dec=0.000000&size=300",
+    "simbad": "https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=286.703083+0.000000&Radius=5&Radius.unit=arcmin",
+    "aladin": "https://aladin.u-strasbg.fr/AladinLite/?target=286.703083+0.000000&fov=0.1",
+    "anchor": "J1906+0746",
+    "ra": 286.7030833333333,
+    "dec": 0.0
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "anchor": "J1835-09242",
+    "ra": 278.841863,
+    "dec": -9.403417,
+    "prob": 1.0,
+    "urls": {
+      "2MASS": "https://irsa.ipac.caltech.edu/cgi-bin/2MASS/IM/judith.pl?RA=278.841863&DEC=-9.403417&SIZE=300",
+      "WISE": "https://irsa.ipac.caltech.edu/cgi-bin/WiseView/judith.pl?RA=278.841863&DEC=-9.403417&SIZE=300",
+      "DSS (optical)": "https://archive.stsci.edu/cgi-bin/dss_form?RA=278.841863&DEC=-9.403417&SIZE=5&FORMAT=GIF",
+      "Simbad": "https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=278.841863+-9.403417&Radius=10&Radius.unit=arcmin"
+    }
+  },
+  {
+    "anchor": "J1859+00",
+    "ra": 284.939042,
+    "dec": 0.581793,
+    "prob": 0.9988906307089099,
+    "urls": {
+      "2MASS": "https://irsa.ipac.caltech.edu/cgi-bin/2MASS/IM/judith.pl?RA=284.939042&DEC=0.581793&SIZE=300",
+      "WISE": "https://irsa.ipac.caltech.edu/cgi-bin/WiseView/judith.pl?RA=284.939042&DEC=0.581793&SIZE=300",
+      "DSS (optical)": "https://archive.stsci.edu/cgi-bin/dss_form?RA=284.939042&DEC=0.581793&SIZE=5&FORMAT=GIF",
+      "Simbad": "https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=284.939042+0.581793&Radius=10&Radius.unit=arcmin"
+    }
+  },
+  {
+    "anchor": "J1823-1807",
+    "ra": 275.7906,
+    "dec": -18.123659,
+    "prob": 0.9980303150229172,
+    "urls": {
+      "2MASS": "https://irsa.ipac.caltech.edu/cgi-bin/2MASS/IM/judith.pl?RA=275.7906&DEC=-18.123659&SIZE=300",
+      "WISE": "https://irsa.ipac.caltech.edu/cgi-bin/WiseView/judith.pl?RA=275.7906&DEC=-18.123659&SIZE=300",
+      "DSS (optical)": "https://archive.stsci.edu/cgi-bin/dss_form?RA=275.7906&DEC=-18.123659&SIZE=5&FORMAT=GIF",
+      "Simbad": "https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=275.7906+-18.123659&Radius=10&Radius.unit=arcmin"
+    }
+  },
+  {
+    "anchor": "J1857+0809",
+    "ra": 284.287881,
+    "dec": 8.149372,
+    "prob": 0.9969656234596881,
+    "urls": {
+      "2MASS": "https://irsa.ipac.caltech.edu/cgi-bin/2MASS/IM/judith.pl?RA=284.287881&DEC=8.149372&SIZE=300",
+      "WISE": "https://irsa.ipac.caltech.edu/cgi-bin/WiseView/judith.pl?RA=284.287881&DEC=8.149372&SIZE=300",
+      "DSS (optical)": "https://archive.stsci.edu/cgi-bin/dss_form?RA=284.287881&DEC=8.149372&SIZE=5&FORMAT=GIF",
+      "Simbad": "https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=284.287881+8.149372&Radius=10&Radius.unit=arcmin"
+    }
+  },
+  {
+    "anchor": "J1931+1440",
+    "ra": 292.747068,
+    "dec": 14.666696,
+    "prob": 0.9966675165754834,
+    "urls": {
+      "2MASS": "https://irsa.ipac.caltech.edu/cgi-bin/2MASS/IM/judith.pl?RA=292.747068&DEC=14.666696&SIZE=300",
+      "WISE": "https://irsa.ipac.caltech.edu/cgi-bin/WiseView/judith.pl?RA=292.747068&DEC=14.666696&SIZE=300",
+      "DSS (optical)": "https://archive.stsci.edu/cgi-bin/dss_form?RA=292.747068&DEC=14.666696&SIZE=5&FORMAT=GIF",
+      "Simbad": "https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=292.747068+14.666696&Radius=10&Radius.unit=arcmin"
+    }
+  },
+  {
+    "anchor": "J1835-0522",
+    "ra": 278.783659,
+    "dec": -5.36637,
+    "prob": 0.9962839418153413,
+    "urls": {
+      "2MASS": "https://irsa.ipac.caltech.edu/cgi-bin/2MASS/IM/judith.pl?RA=278.783659&DEC=-5.36637&SIZE=300",
+      "WISE": "https://irsa.ipac.caltech.edu/cgi-bin/WiseView/judith.pl?RA=278.783659&DEC=-5.36637&SIZE=300",
+      "DSS (optical)": "https://archive.stsci.edu/cgi-bin/dss_form?RA=278.783659&DEC=-5.36637&SIZE=5&FORMAT=GIF",
+      "Simbad": "https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=278.783659+-5.36637&Radius=10&Radius.unit=arcmin"
+    }
+  },
+  {
+    "anchor": "J1907+0602",
+    "ra": 286.978019,
+    "dec": 6.041788,
+    "prob": 0.9961877859406016,
+    "urls": {
+      "2MASS": "https://irsa.ipac.caltech.edu/cgi-bin/2MASS/IM/judith.pl?RA=286.978019&DEC=6.041788&SIZE=300",
+      "WISE": "https://irsa.ipac.caltech.edu/cgi-bin/WiseView/judith.pl?RA=286.978019&DEC=6.041788&SIZE=300",
+      "DSS (optical)": "https://archive.stsci.edu/cgi-bin/dss_form?RA=286.978019&DEC=6.041788&SIZE=5&FORMAT=GIF",
+      "Simbad": "https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=286.978019+6.041788&Radius=10&Radius.unit=arcmin"
+    }
+  },
+  {
+    "anchor": "J1921+1419",
+    "ra": 290.347459,
+    "dec": 14.319987,
+    "prob": 0.9956864302773347,
+    "urls": {
+      "2MASS": "https://irsa.ipac.caltech.edu/cgi-bin/2MASS/IM/judith.pl?RA=290.347459&DEC=14.319987&SIZE=300",
+      "WISE": "https://irsa.ipac.caltech.edu/cgi-bin/WiseView/judith.pl?RA=290.347459&DEC=14.319987&SIZE=300",
+      "DSS (optical)": "https://archive.stsci.edu/cgi-bin/dss_form?RA=290.347459&DEC=14.319987&SIZE=5&FORMAT=GIF",
+      "Simbad": "https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=290.347459+14.319987&Radius=10&Radius.unit=arcmin"
+    }
+  },
+  {
+    "anchor": "J1901+0355",
+    "ra": 285.37493,
+    "dec": 3.93379,
+    "prob": 0.9956785139647512,
+    "urls": {
+      "2MASS": "https://irsa.ipac.caltech.edu/cgi-bin/2MASS/IM/judith.pl?RA=285.37493&DEC=3.93379&SIZE=300",
+      "WISE": "https://irsa.ipac.caltech.edu/cgi-bin/WiseView/judith.pl?RA=285.37493&DEC=3.93379&SIZE=300",
+      "DSS (optical)": "https://archive.stsci.edu/cgi-bin/dss_form?RA=285.37493&DEC=3.93379&SIZE=5&FORMAT=GIF",
+      "Simbad": "https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=285.37493+3.93379&Radius=10&Radius.unit=arcmin"
+    }
+  },
+  {
+    "anchor": "J1857+0210",
+    "ra": 284.420745,
+    "dec": 2.185011,
+    "prob": 0.9953893323157168,
+    "urls": {
+      "2MASS": "https://irsa.ipac.caltech.edu/cgi-bin/2MASS/IM/judith.pl?RA=284.420745&DEC=2.185011&SIZE=300",
+      "WISE": "https://irsa.ipac.caltech.edu/cgi-bin/WiseView/judith.pl?RA=284.420745&DEC=2.185011&SIZE=300",
+      "DSS (optical)": "https://archive.stsci.edu/cgi-bin/dss_form?RA=284.420745&DEC=2.185011&SIZE=5&FORMAT=GIF",
+      "Simbad": "https://simbad.u-strasbg.fr/simbad/sim-coo?Coord=284.420745+2.185011&Radius=10&Radius.unit=arcmin"
+    }
+  }
+]

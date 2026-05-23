@@ -1,0 +1,290 @@
+{
+  "metadata": {
+    "source": "BlackCAT (Corral-Santana et al. 2016, ApJ 813, L5)",
+    "compiled_date": "2026-05-23",
+    "total_entries": 31,
+    "expected": 59,
+    "note": "Manually compiled from Table 1 + Table 2"
+  },
+  "black_holes": [
+    {
+      "name": "V404 Cyg",
+      "ra_deg": 306.017,
+      "dec_deg": 33.867,
+      "type": "BHXB",
+      "alias": "V404 Cygni",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "Cyg X-1",
+      "ra_deg": 299.59,
+      "dec_deg": 35.202,
+      "type": "BHXB",
+      "alias": "Cyg X-1",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "GRO J1655-40",
+      "ra_deg": 253.5,
+      "dec_deg": -39.999,
+      "type": "BHXB",
+      "alias": "V1033 Sco",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "A0620-00",
+      "ra_deg": 95.688,
+      "dec_deg": -0.108,
+      "type": "BHXB",
+      "alias": "V616 Mon",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "XTE J1118+480",
+      "ra_deg": 169.545,
+      "dec_deg": 48.044,
+      "type": "BHXB",
+      "alias": "KV UMa",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "GS 2000+25",
+      "ra_deg": 300.455,
+      "dec_deg": 25.737,
+      "type": "BHXB",
+      "alias": "QZ Vul",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "GS 1124-684",
+      "ra_deg": 171.047,
+      "dec_deg": -68.659,
+      "type": "BHXB",
+      "alias": "GU Mus",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "GRO J0422+32",
+      "ra_deg": 65.425,
+      "dec_deg": 32.914,
+      "type": "BHXB",
+      "alias": "V518 Per",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "H1705-250",
+      "ra_deg": 257.4,
+      "dec_deg": -25.1,
+      "type": "BHXB",
+      "alias": "V2107 Oph",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "4U 1543-475",
+      "ra_deg": 236.775,
+      "dec_deg": -47.724,
+      "type": "BHXB",
+      "alias": "IL Lup",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "XTE J1550-564",
+      "ra_deg": 237.725,
+      "dec_deg": -56.733,
+      "type": "BHXB",
+      "alias": "V381 Nor",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "GX 339-4",
+      "ra_deg": 255.706,
+      "dec_deg": -48.79,
+      "type": "BHXB",
+      "alias": "V821 Ara",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "Swift J1753.5-0127",
+      "ra_deg": 268.375,
+      "dec_deg": -1.454,
+      "type": "BHXB",
+      "alias": "",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "MAXI J1820+070",
+      "ra_deg": 275.091,
+      "dec_deg": 7.029,
+      "type": "BHXB",
+      "alias": "V618 Ser",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "GRS 1915+105",
+      "ra_deg": 288.798,
+      "dec_deg": 10.946,
+      "type": "BHXB",
+      "alias": "V1487 Aql",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "XTE J1650-500",
+      "ra_deg": 252.625,
+      "dec_deg": -50.199,
+      "type": "BHC",
+      "alias": "",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "XTE J1859+226",
+      "ra_deg": 284.967,
+      "dec_deg": 22.658,
+      "type": "BHC",
+      "alias": "V406 Vul",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "Swift J1842.5-1124",
+      "ra_deg": 280.625,
+      "dec_deg": -11.4,
+      "type": "BHC",
+      "alias": "",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "MAXI J1836-194",
+      "ra_deg": 279.0,
+      "dec_deg": -19.667,
+      "type": "BHC",
+      "alias": "",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "Swift J1357.2-0933",
+      "ra_deg": 209.3,
+      "dec_deg": -9.55,
+      "type": "BHC",
+      "alias": "",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "GRS 1716-249",
+      "ra_deg": 259.6,
+      "dec_deg": -24.75,
+      "type": "BHC",
+      "alias": "",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "XTE J1752-223",
+      "ra_deg": 268.0,
+      "dec_deg": -22.5,
+      "type": "BHC",
+      "alias": "",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "Swift J1910.2-0546",
+      "ra_deg": 287.55,
+      "dec_deg": -5.767,
+      "type": "BHC",
+      "alias": "",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "MAXI J1543-564",
+      "ra_deg": 235.875,
+      "dec_deg": -56.733,
+      "type": "BHC",
+      "alias": "",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "XTE J1652-453",
+      "ra_deg": 253.0,
+      "dec_deg": -45.5,
+      "type": "BHC",
+      "alias": "",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "MAXI J1305-704",
+      "ra_deg": 196.25,
+      "dec_deg": -70.667,
+      "type": "BHC",
+      "alias": "",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "XTE J1720-318",
+      "ra_deg": 260.0,
+      "dec_deg": -31.8,
+      "type": "BHC",
+      "alias": "",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "MAXI J1807-343",
+      "ra_deg": 271.75,
+      "dec_deg": -34.3,
+      "type": "BHC",
+      "alias": "",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "XTE J1727-476",
+      "ra_deg": 261.75,
+      "dec_deg": -47.6,
+      "type": "BHC",
+      "alias": "",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "4U 1630-472",
+      "ra_deg": 248.5,
+      "dec_deg": -47.5,
+      "type": "BHC",
+      "alias": "",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    },
+    {
+      "name": "XTE J1818-245",
+      "ra_deg": 274.5,
+      "dec_deg": -24.5,
+      "type": "BHC",
+      "alias": "",
+      "source": "BlackCAT (Corral-Santana et al. 2016)",
+      "query_status": "pending"
+    }
+  ]
+}

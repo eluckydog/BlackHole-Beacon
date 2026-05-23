@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.log
+debug_*
+_test_*
+_checkpoint*
+_neg_*

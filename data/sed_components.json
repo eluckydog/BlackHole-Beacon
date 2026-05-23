@@ -1,0 +1,6032 @@
+[
+  {
+    "anchor": "J0024-7204C",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.62,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204D",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.58,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204E",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.6,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204F",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.47,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204G",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.37,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204H",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.34,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204I",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.37,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204J",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.6,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204L",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.51,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204M",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.63,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204N",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.4,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204O",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.37,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204P",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.48,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204Q",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.37,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204R",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.48,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204S",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.47,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204T",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.37,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204U",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.45,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204V",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.48,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204W",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.45,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204X",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.48,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204Y",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.48,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0024-7204Z",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.48,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0026+6320",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.75,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0030+0451",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.55,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0033+57",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.57,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0033+61",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.76,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0034-0534",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.66,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0034+69",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.59,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0040+5716",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 2.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0045-7042",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.46,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0045-7319",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.73,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0051+0423",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0053+69",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.71,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0054+66",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.61,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0054+69",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.59,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0056+4756",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0057-7201",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.74,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0059+50",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.7,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0100-7211",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.69,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0101-6422",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0102+4839",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0102+6537",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.62,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0103+54",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.67,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0106+4855",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.71,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0108-1431",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 2.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0108+6608",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.65,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0108+6905",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.58,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0113-7220",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0125+62",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.54,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0131-7310",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.81,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0133-6957",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0136+63",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.78,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0137+1654",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.41,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0139+5621",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.66,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0139+5814",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.51,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0141+6009",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.68,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0141+63",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.64,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0146+6145",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.56,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0147+5922",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.89,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0151-0635",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.51,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0152+0948",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.47,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0152-1637",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0157+6212",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.61,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0201+7005",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.59,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0205+6449",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.65,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0211-8159",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0212+5222",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.67,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0214+5222",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.4,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0218+4232",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0231+7026",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.72,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0241+16",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0243+6027",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.46,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0244+14",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0248+6021",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.56,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0255-5304",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.71,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0304+1932",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.36,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0308+74",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0323+3944",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.74,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0332+5434",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.48,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0332+79",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.75,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0335+4555",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.64,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0337+1715",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0338+66",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0343-3000",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.61,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0343+5312",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.59,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0348+0432",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0357+5236",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.59,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0358+42",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.64,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0358+5413",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0358+66",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.6,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0406+6138",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.78,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0407+1607",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.67,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0410-31",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.38,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0413+58",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0417+61",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.62,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0418-4154",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.4,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0418+5732",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.64,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0419+44",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.55,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0435+27",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.63,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0437-4715",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.41,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0447-04",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.69,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0448-2749",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0449-7031",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.61,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0450-1248",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0451-67",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.73,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0454+5543",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.98,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0455-6951",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.71,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0456-69",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.59,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0456-7031",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.56,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0457+23",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.61,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0457-6337",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.42,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0457-69",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.62,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0458-67",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.59,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0459-0210",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.43,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0501+4516",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.66,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0502+4654",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.65,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0502-6617",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.52,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0509+08",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.64,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0510+38",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.51,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0514-4002A",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.41,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0517+22",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.59,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0519+44",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.73,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0519+54",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.48,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0519-6932",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.48,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0520-2553",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.51,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0521-68",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.55,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0522-6847",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.69,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0525+1115",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0525-6607",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.47,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0529-6652",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 2.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.4,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0532-6639",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.57,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0533+0402",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.41,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0534+2200",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.36,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0535-66",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.71,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0535-6935",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.84,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0536-7543",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.51,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0537-69",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.94,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0537-6910",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.46,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0540-6919",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.43,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0540-7125",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.58,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0542-68",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.6,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0543+2329",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.58,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0543-6851",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0546+2441",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0554+3107",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.73,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0555+3948",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.48,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0557+1550",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.67,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0600-5756",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.47,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0605+37",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0608+00",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.43,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0609+2130",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0610-2100",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.51,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0610+37",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0611+30",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.29,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0612+3721",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.73,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0613-0200",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.74,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0613+3731",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.44,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0614+2229",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.67,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0614-3329",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.62,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0614+83",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0621+0336",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.72,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0621+1002",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.66,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0621+25",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.71,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0622+3749",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.59,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0623+0340",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.71,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0624-0424",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.48,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0625+10",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.63,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0627+0649",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.65,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0627+16",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.66,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0628+0909",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.76,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0629+2415",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.55,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0630-2834",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.48,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0631+1036",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0633+0632",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.52,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0633-2015",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.36,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0635+0533",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.71,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0636-4549",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.65,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0636+5129",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0645+80",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.48,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0646+0905",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.58,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0647+0913",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.46,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0652-0142",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.55,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0653+8051",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0656-2228",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.59,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0659+1414",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.45,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0700+6418",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.66,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0709-5923",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.47,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0711+0931",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.65,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0711-6830",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.51,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0719-2545",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.62,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0720-3125",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.75,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0721-2038",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.73,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0725-1635",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.56,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0726-2612",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0729-1448",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.76,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0729-1836",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.46,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0733-2345",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.58,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0734-1559",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.7,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0737-2202",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.6,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0737-3039A",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.74,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0737-3039B",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.74,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0738-4042",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0740+41",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.51,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0742-2822",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.48,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0746-4529",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.61,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0746+66",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0749-4247",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.67,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0750+57",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.52,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0751+1807",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.42,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0754+3231",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.65,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0758-1528",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.77,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0804-3647",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.53,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0806+08",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.6,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0806-4123",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.68,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0807-5421",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0808-3937",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.73,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0809-4753",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.86,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0812-3905",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.58,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0815+0939",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.45,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0818-3049",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 2.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.43,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0818-3232",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.73,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0820-3826",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.66,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0820-3921",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.55,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0820-4114",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.75,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0821-4221",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.48,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0823+0159",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.42,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0824+00",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0826+2637",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.48,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0828-3417",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.53,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0831-4406",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.82,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0834-4159",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.36,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0835-3707",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.52,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0835-42",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 2.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.34,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0835-4510",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.69,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0837-24",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.7,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0837-4135",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.69,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0838-2621",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.59,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0840-5332",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.92,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0842-4851",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.73,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0843+0719",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0843-5022",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0846-3533",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.33,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0847-4316",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.61,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0849-6322",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.73,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0855-4658",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0856-6137",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.76,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0857-4424",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.51,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0900-3144",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.7,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0901-4624",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.73,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0904-4246",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.56,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0904-7459",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.7,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0905-4536",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.55,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0905-5127",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.86,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0905-6019",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.75,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0907-5157",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.57,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0908-1739",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0909-7212",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.65,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0910+77",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.51,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0912-3851",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.54,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0919-6040",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.76,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0922+0638",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0922-4949",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.62,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0922-52",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.72,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0923-31",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.64,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0924-5302",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.61,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0924-5814",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.58,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0927+23",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0931-1902",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.4,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0932-3217",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0932-5327",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.71,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0934-4154",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.47,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0934-5249",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.64,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0940-5428",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.58,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0941-39",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.74,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0941-5244",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.55,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0942-5552",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.72,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0942-5657",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.69,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0943+1631",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.55,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0944-1354",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0945-4833",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.75,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0946+0951",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.47,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0947+27",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0949-6902",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.72,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0953+0755",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.45,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0954-5430",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.62,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0955-5304",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.66,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0955-61",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.67,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0957-06",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.45,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0957-5432",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.6,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J0959-4809",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.66,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1000-5149",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.62,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1001-5507",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.58,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1001-5559",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.58,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1001-5939",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.76,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1002-5559",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.57,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1002-5919",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.45,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1003-4747",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.75,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1006-6311",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.68,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1010+15",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.48,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1012-2337",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.46,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1012-4235",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.63,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1012-5830",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.79,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1012-5857",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.62,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1013-5934",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.64,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1015-5719",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.61,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1016-5345",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.68,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1016-5819",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.61,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1016-5857",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.51,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1017-5621",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1018-1642",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.48,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1019-5749",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.61,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1020-5921",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.56,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1020-6026",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.42,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1021-5601",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.59,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1022-5813",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.57,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1023+0038",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.58,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1023-5746",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.92,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1024-0719",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.45,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1028-5819",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.58,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1031-6117",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.67,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1032-5206",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.51,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1032-5911",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.73,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1034-3224",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1035-6345",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.66,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1036-6559",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.67,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1036-8317",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1038+0032",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.51,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1038-5831",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.41,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1041-1942",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1043-6116",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.49,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1044-5737",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.73,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1045-4509",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.53,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1046-5813",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.88,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1047-58",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.53,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1047-6709",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.64,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1048-5832",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.74,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1049-5833",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.7,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1050-5953",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.6,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1052-5954",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.65,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1052-6348",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.69,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1054-5943",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.63,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1054-5946",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.74,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1054-6452",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.74,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1055-6022",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.62,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1055-6028",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.82,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1055-6236",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.67,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1056-5709",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.88,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1056-6258",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.56,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1056-7117",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.76,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1057-4754",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.63,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1057-5226",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.74,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1058-5957",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.6,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1059-5742",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.8,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1101-6101",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.62,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1101-6424",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.77,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1103-5403",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.92,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1103-6025",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.44,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1104-6103",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.93,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1105-43",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.65,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1105-6107",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.65,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1106-6438",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.92,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1107-5907",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.63,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1107-5947",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.4,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1107-6143",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.48,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1110+58",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.48,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1112-6103",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.3,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1112-6613",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.73,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1112-6926",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.7,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1114-6100",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.71,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1115+5030",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.51,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1115-6052",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.6,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1116-4122",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.58,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1117-6154",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.8,
+      "pl_frac": 0.2,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.54,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1117-6447",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.87,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1119-6127",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.35,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1119-7936",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.73,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1120-3618",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.51,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1121-5444",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.61,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1122+78",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.51,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1123-4844",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.59,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1123-6102",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.65,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1123-6259",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.68,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1123-6651",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.68,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1124-5638",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.66,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1124-5916",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.66,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1124-6421",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.45,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1125-5825",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1125-6014",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.54,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1126-6054",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.7,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1126-6942",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.55,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1128-6219",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.59,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1129-53",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": 0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.5,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1130-5826",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.77,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1130-5925",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.69,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1130-6807",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.64,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1132-46",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -0.5,
+      "dust_T_K": 0,
+      "fit_quality": 0.52,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1132-5627",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.52,
+      "n_bands": 7
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1133-6250",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.88,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1135-6055",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.72,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1136+1551",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.44,
+      "n_bands": 4
+    },
+    "class": "BB_DOMINATED"
+  },
+  {
+    "anchor": "J1136-5525",
+    "type": "pulsar",
+    "components": {
+      "bb_frac": 0.5,
+      "pl_frac": 0.5,
+      "dust_frac": 0.0,
+      "bb_T_K": 3500,
+      "alpha": -1.0,
+      "dust_T_K": 0,
+      "fit_quality": 0.88,
+      "n_bands": 3
+    },
+    "class": "BB_DOMINATED"
+  }
+]

@@ -1,0 +1,2726 @@
+[
+  {
+    "anchor": "J0024-7204C",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204J",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204W",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1107-5947",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0501+4516",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0959-4809",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1050-5953",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1119-6127",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204L",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0941-5244",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1128-6219",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204W",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0525-6607",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0540-6919",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0737-2202",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0806-4123",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0808-3937",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0905-4536",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0941-5244",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1001-5507",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1047-6709",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1119-6127",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0729-1836",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1016-5819",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1107-5947",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1107-6143",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0514-4002A",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0534+2200",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0820-4114",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1038-5831",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1055-6022",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1128-6219",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204H",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204J",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0501+4516",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0537-69",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0729-1836",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0729-1836",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0856-6137",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0922-52",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1020-5921",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1023+0038",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1052-5954",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1055-6236",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1101-6101",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1117-6154",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1130-6807",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204F",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204O",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204P",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204R",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204S",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204V",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204X",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204Y",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204Z",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0243+6027",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0332+5434",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0633+0632",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0905-4536",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1012-5830",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1117-6447",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204J",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204Q",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0045-7319",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1038-5831",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1054-5943",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1054-5943",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204O",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204P",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204R",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204V",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204X",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204Y",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204Z",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0410-31",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1015-5719",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1023+0038",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1107-6143",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1119-6127",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204C",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204D",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204F",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204G",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204I",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204O",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204Q",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204S",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204T",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204U",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204U",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204W",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0033+61",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0514-4002A",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0613-0200",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0613-0200",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0614+2229",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0635+0533",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0711+0931",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0809-4753",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0809-4753",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0840-5332",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0942-5657",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0942-5657",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0955-5304",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1000-5149",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1001-5559",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1017-5621",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1019-5749",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1019-5749",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1052-5954",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1058-5957",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1105-6107",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1107-5907",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1114-6100",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1117-6154",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1125-6014",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1130-6807",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204D",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204D",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204F",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204G",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204H",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204I",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204L",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204O",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204P",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204R",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204S",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204U",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204V",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204W",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204X",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204Y",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204Z",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0501+4516",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0534+2200",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0613-0200",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0621+0336",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0842-4851",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0843-5022",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0955-5304",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1016-5345",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1016-5857",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1017-5621",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1024-0719",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1024-0719",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1032-5911",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1047-58",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1047-58",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1047-58",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1052-6348",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1057-5226",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1107-5907",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1112-6103",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1123-6259",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1125-5825",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204E",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204H",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204J",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204Q",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204U",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0338+66",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0358+5413",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0358+66",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0358+66",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0455-6951",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0455-6951",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0455-6951",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0455-6951",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0456-69",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0456-69",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0521-68",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0521-68",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0536-7543",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0543-6851",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0614+2229",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0614+2229",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0700+6418",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0737-3039A",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0737-3039A",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0737-3039B",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0737-3039B",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0749-4247",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0749-4247",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0808-3937",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0808-3937",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0901-4624",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0901-4624",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0919-6040",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0919-6040",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0954-5430",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0954-5430",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1012-5830",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1012-5830",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1022-5813",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1028-5819",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1052-6348",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1052-6348",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1055-6236",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1055-6236",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1055-6236",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1057-5226",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1123-6259",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1128-6219",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204G",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204G",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204I",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204I",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204L",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204L",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204N",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204N",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204T",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204U",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204W",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204W",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0212+5222",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0214+5222",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0332+5434",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0418-4154",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0522-6847",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0534+2200",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0534+2200",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0534+2200",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0629+2415",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0635+0533",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0751+1807",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0912-3851",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0957-06",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1012-5857",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1015-5719",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1017-5621",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1055-6022",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1112-6103",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1132-5627",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204C",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204C",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204C",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204C",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204E",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204E",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204F",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204F",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204G",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204H",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204H",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204I",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204J",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204L",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204N",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204N",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204N",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204O",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204P",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204P",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204P",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204R",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204R",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204R",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204S",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204S",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204T",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204V",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204V",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204V",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204W",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204X",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204X",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204X",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204Y",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204Y",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204Y",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204Z",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204Z",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204Z",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0026+6320",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0026+6320",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0033+61",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0034+69",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0051+0423",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0100-7211",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0108+6608",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0108+6608",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0131-7310",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0131-7310",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0139+5621",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0139+5621",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0139+5621",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0151-0635",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0157+6212",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0248+6021",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0248+6021",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0335+4555",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0335+4555",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0358+42",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0358+42",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0407+1607",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0407+1607",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0447-04",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0447-04",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0457+23",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0457+23",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0501+4516",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0501+4516",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0514-4002A",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0517+22",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0519-6932",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0522-6847",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0535-66",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0535-66",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0621+25",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0621+25",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0646+0905",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0646+0905",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0719-2545",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0737-2202",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0737-2202",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0820-3921",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0820-3921",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0824+00",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0831-4406",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0834-4159",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0834-4159",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0835-4510",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0849-6322",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0849-6322",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0856-6137",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0856-6137",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0857-4424",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0857-4424",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0901-4624",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0909-7212",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0922-4949",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0922-52",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0922-52",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0932-5327",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0934-5249",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0941-5244",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0943+1631",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0943+1631",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0945-4833",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0955-5304",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1000-5149",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1001-5507",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1002-5559",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1012-5857",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1012-5857",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1013-5934",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1013-5934",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1013-5934",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1015-5719",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1016-5345",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1016-5345",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1017-5621",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1020-5921",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1021-5601",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1021-5601",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1028-5819",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1028-5819",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1031-6117",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1049-5833",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1052-5954",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1052-5954",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1054-5946",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1055-6028",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1056-7117",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1056-7117",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1056-7117",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1057-4754",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1057-4754",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1057-5226",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1101-6101",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1103-6025",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1104-6103",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1107-5907",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1107-5907",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1107-5907",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1107-5947",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1115-6052",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1115-6052",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1116-4122",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1117-6447",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1119-6127",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1119-7936",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1119-7936",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1123-6102",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1123-6102",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1123-6102",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1124-5638",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1124-5638",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1124-5638",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1125-5825",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1125-5825",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1125-6014",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1126-6054",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1126-6942",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1130-5925",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1132-46",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204D",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0024-7204N",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0030+0451",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0040+5716",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0054+69",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0108+6608",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0131-7310",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0406+6138",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0456-69",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0522-6847",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0522-6847",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0534+2200",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0535-6935",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0537-6910",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0537-6910",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0537-6910",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0609+2130",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0611+30",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0621+1002",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0633+0632",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0656-2228",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0721-2038",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0725-1635",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0809-4753",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0820-4114",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0826+2637",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0834-4159",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0843-5022",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0849-6322",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0855-4658",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0905-4536",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0905-6019",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0912-3851",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0932-5327",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J0940-5428",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1012-5830",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1012-5830",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1016-5819",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1020-5921",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1021-5601",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1022-5813",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1028-5819",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1035-6345",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1049-5833",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1052-6348",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1054-6452",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1054-6452",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1055-6028",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1057-4754",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1101-6424",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1103-6025",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1115-6052",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1123-6259",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1125-6014",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  },
+  {
+    "anchor": "J1128-6219",
+    "phase3_score": 0,
+    "ml_probability": 0.496527023882533,
+    "combined_score": 3.4756891671777312
+  }
+]

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "method": "IR color-cut + Simbad web (web_fetch)",
+    "num_candidates": 10,
+    "validation_date": "2026-05-23",
+    "note": "AI should use web_fetch to check each simbad_url"
+  },
+  "results": [
+    {
+      "rank": 1,
+      "anchor": "J1840-0643",
+      "score": 12.717999800000001,
+      "colors": {
+        "W1-W2": 6.6589999
+      },
+      "proper_motion_masyr": 0,
+      "simbad_url": "http://simbad.u-strasbg.fr/simbad/sim-coo?Coord=+280.0000-6.7167&Radius=5&Radius.unit=arcmin&submit=submit+query",
+      "validation_status": "pending"
+    },
+    {
+      "rank": 2,
+      "anchor": "J1855+0307",
+      "score": 6.945999600000002,
+      "colors": {
+        "W1-W2": 3.772999800000001
+      },
+      "proper_motion_masyr": 0,
+      "simbad_url": "http://simbad.u-strasbg.fr/simbad/sim-coo?Coord=+283.7500+3.1167&Radius=5&Radius.unit=arcmin&submit=submit+query",
+      "validation_status": "pending"
+    },
+    {
+      "rank": 3,
+      "anchor": "J1852+0031",
+      "score": 5.962000070000001,
+      "colors": {
+        "J-H": 3.8330002000000007,
+        "H-K": 2.92899987
+      },
+      "proper_motion_masyr": 0,
+      "simbad_url": "http://simbad.u-strasbg.fr/simbad/sim-coo?Coord=+283.0000+0.5167&Radius=5&Radius.unit=arcmin&submit=submit+query",
+      "validation_status": "pending"
+    },
+    {
+      "rank": 4,
+      "anchor": "J1901+0459",
+      "score": 5.099999700000001,
+      "colors": {
+        "J-H": 3.7670002,
+        "H-K": 2.1329995000000004
+      },
+      "proper_motion_masyr": 0,
+      "simbad_url": "http://simbad.u-strasbg.fr/simbad/sim-coo?Coord=+285.2500+4.9833&Radius=5&Radius.unit=arcmin&submit=submit+query",
+      "validation_status": "pending"
+    },
+    {
+      "rank": 5,
+      "anchor": "J1843-0355",
+      "score": 5.0369999000000005,
+      "colors": {
+        "J-H": 3.1429995999999996,
+        "H-K": 2.694000300000001
+      },
+      "proper_motion_masyr": 0,
+      "simbad_url": "http://simbad.u-strasbg.fr/simbad/sim-coo?Coord=+280.7500-3.9167&Radius=5&Radius.unit=arcmin&submit=submit+query",
+      "validation_status": "pending"
+    },
+    {
+      "rank": 6,
+      "anchor": "J1856+0113",
+      "score": 4.45,
+      "colors": {
+        "J-H": 4.217999500000001,
+        "H-K": 1.0320004999999988
+      },
+      "proper_motion_masyr": 0,
+      "simbad_url": "http://simbad.u-strasbg.fr/simbad/sim-coo?Coord=+284.0000+1.2167&Radius=5&Radius.unit=arcmin&submit=submit+query",
+      "validation_status": "pending"
+    },
+    {
+      "rank": 7,
+      "anchor": "J1843-0408",
+      "score": 4.427000200000001,
+      "colors": {
+        "J-H": 3.196000100000001,
+        "H-K": 2.0310001
+      },
+      "proper_motion_masyr": 0,
+      "simbad_url": "http://simbad.u-strasbg.fr/simbad/sim-coo?Coord=+280.7500-4.1333&Radius=5&Radius.unit=arcmin&submit=submit+query",
+      "validation_status": "pending"
+    },
+    {
+      "rank": 8,
+      "anchor": "J1856+0245",
+      "score": 4.40900006,
+      "colors": {
+        "J-H": 3.517000150000001,
+        "H-K": 1.691999909999999
+      },
+      "proper_motion_masyr": 0,
+      "simbad_url": "http://simbad.u-strasbg.fr/simbad/sim-coo?Coord=+284.0000+2.7500&Radius=5&Radius.unit=arcmin&submit=submit+query",
+      "validation_status": "pending"
+    },
+    {
+      "rank": 9,
+      "anchor": "J1901+0459",
+      "score": 4.4039995,
+      "colors": {
+        "J-H": 3.5099991999999993,
+        "H-K": 1.6940003000000008
+      },
+      "proper_motion_masyr": 0,
+      "simbad_url": "http://simbad.u-strasbg.fr/simbad/sim-coo?Coord=+285.2500+4.9833&Radius=5&Radius.unit=arcmin&submit=submit+query",
+      "validation_status": "pending"
+    },
+    {
+      "rank": 10,
+      "anchor": "J1858+0215",
+      "score": 4.285999400000001,
+      "colors": {
+        "J-H": 2.103999999999999,
+        "H-K": 2.981999400000001
+      },
+      "proper_motion_masyr": 0,
+      "simbad_url": "http://simbad.u-strasbg.fr/simbad/sim-coo?Coord=+284.5000+2.2500&Radius=5&Radius.unit=arcmin&submit=submit+query",
+      "validation_status": "pending"
+    }
+  ]
+}

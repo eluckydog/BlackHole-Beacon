@@ -1,0 +1,92 @@
+[
+  {
+    "rank": 1371,
+    "anchor": "J1933+1726",
+    "designation": "19325943+1726076",
+    "anomaly_score": 0.21330471004129792,
+    "prob": 1.0,
+    "score_total": 5.0,
+    "pm_total": 0.0
+  },
+  {
+    "rank": 1167,
+    "anchor": "J1835-0928",
+    "designation": "18352308-0928078",
+    "anomaly_score": 0.2130425583685323,
+    "prob": 0.9991957046393307,
+    "score_total": 5.0,
+    "pm_total": 0.0
+  },
+  {
+    "rank": 1941,
+    "anchor": "J0834-4159",
+    "designation": "08341670-4159413",
+    "anomaly_score": 0.21274292308310033,
+    "prob": 0.9982764075491259,
+    "score_total": 4.0,
+    "pm_total": 0.0
+  },
+  {
+    "rank": 256,
+    "anchor": "J1012-5830",
+    "designation": "10125475-5830243",
+    "anomaly_score": 0.21235929903504913,
+    "prob": 0.997099428440682,
+    "score_total": 8.0,
+    "pm_total": 0.0
+  },
+  {
+    "rank": 286,
+    "anchor": "J1844+00",
+    "designation": "18441126+0035005",
+    "anomaly_score": 0.21230668508190315,
+    "prob": 0.9969380060168792,
+    "score_total": 8.0,
+    "pm_total": 0.0
+  },
+  {
+    "rank": 417,
+    "anchor": "J1844-0452",
+    "designation": "18440192-0452180",
+    "anomaly_score": 0.21222068156244012,
+    "prob": 0.9966741426168269,
+    "score_total": 7.0,
+    "pm_total": 0.0
+  },
+  {
+    "rank": 284,
+    "anchor": "J1842-0309",
+    "designation": "18421898-0309440",
+    "anomaly_score": 0.21212222883425308,
+    "prob": 0.9963720843782099,
+    "score_total": 8.0,
+    "pm_total": 0.0
+  },
+  {
+    "rank": 1283,
+    "anchor": "J1852-0127",
+    "designation": "18520399-0127183",
+    "anomaly_score": 0.21203270174968186,
+    "prob": 0.9960974104918477,
+    "score_total": 5.0,
+    "pm_total": 0.0
+  },
+  {
+    "rank": 1223,
+    "anchor": "J1843-0000",
+    "designation": "18432726-0000482",
+    "anomaly_score": 0.21195580391499957,
+    "prob": 0.9958614838199787,
+    "score_total": 5.0,
+    "pm_total": 0.0
+  },
+  {
+    "rank": 2287,
+    "anchor": "J1906+0746",
+    "designation": "19064874+0746161",
+    "anomaly_score": 0.21189220371944978,
+    "prob": 0.99566635501657,
+    "score_total": 4.0,
+    "pm_total": 0.0
+  }
+]

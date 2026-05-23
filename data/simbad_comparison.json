@@ -1,0 +1,588 @@
+[
+  {
+    "anchor": "J0006+1834",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "PSR J0006+1834",
+      "otype": "Psr",
+      "otype_txt": "Psr",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0007+7303",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "PSR J0007+7303",
+      "otype": "Psr",
+      "otype_txt": "Psr",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0014+4746",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "PSR B0011+47",
+      "otype": "Psr",
+      "otype_txt": "Psr",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0023+0923",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "PSR J0023+0923",
+      "otype": "Psr",
+      "otype_txt": "Psr",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204C",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "PSR J0024-7204C",
+      "otype": "Psr",
+      "otype_txt": "Psr",
+      "pmra_masyr": 5.2,
+      "pmdec_masyr": -3.1,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204D",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "Cl* NGC  104      R      10",
+      "otype": "LP*",
+      "otype_txt": "LP*",
+      "pmra_masyr": 4.9,
+      "pmdec_masyr": -3.5,
+      "parallax_mas": 0.201,
+      "sp_type": "K3II"
+    }
+  },
+  {
+    "anchor": "J0024-7204E",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "CXOGlb J002411.7-720518",
+      "otype": "X",
+      "otype_txt": "X",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204F",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "Cl* NGC  104     WD       9",
+      "otype": "*",
+      "otype_txt": "*",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204G",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "[MSS2012] 41",
+      "otype": "*",
+      "otype_txt": "*",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204H",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "[CPF2015] COM-47TucH",
+      "otype": "WD?",
+      "otype_txt": "WD?",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204I",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "[MSS2012] 41",
+      "otype": "*",
+      "otype_txt": "*",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204J",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "CXOGlb J002359.4-720358",
+      "otype": "Psr",
+      "otype_txt": "Psr",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204L",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "[MSS2012] 76",
+      "otype": "*",
+      "otype_txt": "*",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204M",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "PSR J0024-7204M",
+      "otype": "Psr",
+      "otype_txt": "Psr",
+      "pmra_masyr": 5.0,
+      "pmdec_masyr": -2.0,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204N",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "Cl* NGC  104  AGBWF  2-47",
+      "otype": "*",
+      "otype_txt": "*",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204O",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "CXOGlb J002404.9-720451",
+      "otype": "X",
+      "otype_txt": "X",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204P",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "CXOGlb J002404.9-720451",
+      "otype": "X",
+      "otype_txt": "X",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204Q",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "Gaia DR3 4689639301203677952",
+      "otype": "*",
+      "otype_txt": "*",
+      "pmra_masyr": 7.4,
+      "pmdec_masyr": -3.5,
+      "parallax_mas": 0.591,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204R",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "CXOGlb J002404.9-720451",
+      "otype": "X",
+      "otype_txt": "X",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204S",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "Cl* NGC  104     WD       9",
+      "otype": "*",
+      "otype_txt": "*",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204T",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "[MSS2012] 41",
+      "otype": "*",
+      "otype_txt": "*",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204U",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "CXOGlb J002410.2-720401",
+      "otype": "XB*",
+      "otype_txt": "XB*",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204V",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "CXOGlb J002404.9-720451",
+      "otype": "X",
+      "otype_txt": "X",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204W",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "Cl* NGC  104    EGG V40",
+      "otype": "BY*",
+      "otype_txt": "BY*",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204X",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "CXOGlb J002404.9-720451",
+      "otype": "X",
+      "otype_txt": "X",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204Y",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "CXOGlb J002404.9-720451",
+      "otype": "X",
+      "otype_txt": "X",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0024-7204Z",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "CXOGlb J002404.9-720451",
+      "otype": "X",
+      "otype_txt": "X",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0026+6320",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "PSR J0026+6320",
+      "otype": "Psr",
+      "otype_txt": "Psr",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0030+0451",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "[KLS2003] 5",
+      "otype": "*",
+      "otype_txt": "*",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0033+57",
+    "type": "pulsar",
+    "error": "no simbad match"
+  },
+  {
+    "anchor": "J0033+61",
+    "type": "pulsar",
+    "error": "no simbad match"
+  },
+  {
+    "anchor": "J0034-0534",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "PSR J0034-05",
+      "otype": "Psr",
+      "otype_txt": "Psr",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0034-0721",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "PSR B0031-07",
+      "otype": "Psr",
+      "otype_txt": "Psr",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0034+69",
+    "type": "pulsar",
+    "error": "no simbad match"
+  },
+  {
+    "anchor": "J0040+5716",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "PSR B0037+56",
+      "otype": "Psr",
+      "otype_txt": "Psr",
+      "pmra_masyr": 12.4,
+      "pmdec_masyr": -5.5,
+      "parallax_mas": 0.102,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0045-7042",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "PSR J0045-7042",
+      "otype": "Psr",
+      "otype_txt": "Psr",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0045-7319",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "PSR J0045-7319",
+      "otype": "HXB",
+      "otype_txt": "HXB",
+      "pmra_masyr": 0.6,
+      "pmdec_masyr": -1.5,
+      "parallax_mas": NaN,
+      "sp_type": "B0.5-B2IV-V"
+    }
+  },
+  {
+    "anchor": "J0048+3412",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "PSR B0045+33",
+      "otype": "Psr",
+      "otype_txt": "Psr",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0051+0423",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "PSR J0051+0423",
+      "otype": "Psr",
+      "otype_txt": "Psr",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0053+69",
+    "type": "pulsar",
+    "error": "no simbad match"
+  },
+  {
+    "anchor": "J0054+66",
+    "type": "pulsar",
+    "error": "no simbad match"
+  },
+  {
+    "anchor": "J0054+69",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "PSR J0054+6926",
+      "otype": "Psr",
+      "otype_txt": "Psr",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0055+5117",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "PSR B0052+51",
+      "otype": "Psr",
+      "otype_txt": "Psr",
+      "pmra_masyr": 10.5,
+      "pmdec_masyr": -17.4,
+      "parallax_mas": 0.349,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0056+4756",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "PSR B0053+47",
+      "otype": "Psr",
+      "otype_txt": "Psr",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0057-7201",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "PSR J0057-7201",
+      "otype": "Psr",
+      "otype_txt": "Psr",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0058+6125",
+    "type": "pulsar",
+    "error": "no simbad match"
+  },
+  {
+    "anchor": "J0059+50",
+    "type": "pulsar",
+    "error": "no simbad match"
+  },
+  {
+    "anchor": "J0100-7211",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "Gaia DR3 4690504268954191488",
+      "otype": "Pu*",
+      "otype_txt": "Pu*",
+      "pmra_masyr": 0.6,
+      "pmdec_masyr": -1.5,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0101-6422",
+    "type": "pulsar",
+    "simbad": {
+      "main_id": "PSR J0101-6422",
+      "otype": "Psr",
+      "otype_txt": "Psr",
+      "pmra_masyr": NaN,
+      "pmdec_masyr": NaN,
+      "parallax_mas": NaN,
+      "sp_type": ""
+    }
+  },
+  {
+    "anchor": "J0102+4839",
+    "type": "pulsar",
+    "error": "no simbad match"
+  }
+]

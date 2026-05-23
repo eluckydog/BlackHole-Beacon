@@ -1,0 +1,82 @@
+[
+  {
+    "rank": 1,
+    "designation": "18352206-0924123",
+    "ra": 278.841931,
+    "dec": -9.403436,
+    "url_2mass": "https://irsa.ipac.caltech.edu/iba/firefly/survey?survey=2mass&ra=278.8419&dec=-9.4034&size=60",
+    "url_wise": "https://irsa.ipac.caltech.edu/iba/firefly/survey?survey=wise&ra=278.8419&dec=-9.4034&size=60"
+  },
+  {
+    "rank": 2,
+    "designation": "18594537+0034544",
+    "ra": 284.939042,
+    "dec": 0.581793,
+    "url_2mass": "https://irsa.ipac.caltech.edu/iba/firefly/survey?survey=2mass&ra=284.9390&dec=0.5818&size=60",
+    "url_wise": "https://irsa.ipac.caltech.edu/iba/firefly/survey?survey=wise&ra=284.9390&dec=0.5818&size=60"
+  },
+  {
+    "rank": 3,
+    "designation": "18230995-1807385",
+    "ra": 275.791495,
+    "dec": -18.127367,
+    "url_2mass": "https://irsa.ipac.caltech.edu/iba/firefly/survey?survey=2mass&ra=275.7915&dec=-18.1274&size=60",
+    "url_wise": "https://irsa.ipac.caltech.edu/iba/firefly/survey?survey=wise&ra=275.7915&dec=-18.1274&size=60"
+  },
+  {
+    "rank": 4,
+    "designation": "18570909+0808577",
+    "ra": 284.287881,
+    "dec": 8.149372,
+    "url_2mass": "https://irsa.ipac.caltech.edu/iba/firefly/survey?survey=2mass&ra=284.2879&dec=8.1494&size=60",
+    "url_wise": "https://irsa.ipac.caltech.edu/iba/firefly/survey?survey=wise&ra=284.2879&dec=8.1494&size=60"
+  },
+  {
+    "rank": 5,
+    "designation": "19305929+1440001",
+    "ra": 292.747068,
+    "dec": 14.666696,
+    "url_2mass": "https://irsa.ipac.caltech.edu/iba/firefly/survey?survey=2mass&ra=292.7471&dec=14.6667&size=60",
+    "url_wise": "https://irsa.ipac.caltech.edu/iba/firefly/survey?survey=wise&ra=292.7471&dec=14.6667&size=60"
+  },
+  {
+    "rank": 6,
+    "designation": "18350889-0522172",
+    "ra": 278.787072,
+    "dec": -5.371472,
+    "url_2mass": "https://irsa.ipac.caltech.edu/iba/firefly/survey?survey=2mass&ra=278.7871&dec=-5.3715&size=60",
+    "url_wise": "https://irsa.ipac.caltech.edu/iba/firefly/survey?survey=wise&ra=278.7871&dec=-5.3715&size=60"
+  },
+  {
+    "rank": 7,
+    "designation": "19075497+0602198",
+    "ra": 286.979045,
+    "dec": 6.038855,
+    "url_2mass": "https://irsa.ipac.caltech.edu/iba/firefly/survey?survey=2mass&ra=286.9790&dec=6.0389&size=60",
+    "url_wise": "https://irsa.ipac.caltech.edu/iba/firefly/survey?survey=wise&ra=286.9790&dec=6.0389&size=60"
+  },
+  {
+    "rank": 8,
+    "designation": "19212424+1419223",
+    "ra": 290.351013,
+    "dec": 14.322882,
+    "url_2mass": "https://irsa.ipac.caltech.edu/iba/firefly/survey?survey=2mass&ra=290.3510&dec=14.3229&size=60",
+    "url_wise": "https://irsa.ipac.caltech.edu/iba/firefly/survey?survey=wise&ra=290.3510&dec=14.3229&size=60"
+  },
+  {
+    "rank": 9,
+    "designation": "19013174+0356028",
+    "ra": 285.382287,
+    "dec": 3.934137,
+    "url_2mass": "https://irsa.ipac.caltech.edu/iba/firefly/survey?survey=2mass&ra=285.3823&dec=3.9341&size=60",
+    "url_wise": "https://irsa.ipac.caltech.edu/iba/firefly/survey?survey=wise&ra=285.3823&dec=3.9341&size=60"
+  },
+  {
+    "rank": 10,
+    "designation": "18574102+0211103",
+    "ra": 284.420948,
+    "dec": 2.186197,
+    "url_2mass": "https://irsa.ipac.caltech.edu/iba/firefly/survey?survey=2mass&ra=284.4209&dec=2.1862&size=60",
+    "url_wise": "https://irsa.ipac.caltech.edu/iba/firefly/survey?survey=wise&ra=284.4209&dec=2.1862&size=60"
+  }
+]

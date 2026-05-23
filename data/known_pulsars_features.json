@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "source": "v9.0 TOP 10 verification",
+    "compiled_date": "2026-05-23",
+    "note": "Known pulsars (negative training samples)"
+  },
+  "pulsars": [
+    {
+      "name": "J1850-0050",
+      "ra_deg": 282.622,
+      "dec_deg": -0.841,
+      "features": {
+        "J_mag": 14.824000358581543,
+        "H_mag": 13.581999778747559,
+        "K_mag": 13.031000137329102,
+        "W1_mag": null,
+        "W2_mag": null,
+        "W3_mag": null,
+        "pm_ra": null,
+        "pm_dec": null,
+        "pm_total": null,
+        "J-H": 1.2420005798339844,
+        "H-K": 0.550999641418457
+      },
+      "has_features": true
+    },
+    {
+      "name": "J1900-0051",
+      "ra_deg": 285.035,
+      "dec_deg": -0.861,
+      "features": {
+        "J_mag": null,
+        "H_mag": null,
+        "K_mag": null,
+        "W1_mag": null,
+        "W2_mag": null,
+        "W3_mag": null,
+        "pm_ra": null,
+        "pm_dec": null,
+        "pm_total": null
+      },
+      "has_features": false
+    },
+    {
+      "name": "J1901+0156",
+      "ra_deg": 285.32,
+      "dec_deg": 1.947,
+      "features": {
+        "J_mag": null,
+        "H_mag": null,
+        "K_mag": null,
+        "W1_mag": null,
+        "W2_mag": null,
+        "W3_mag": null,
+        "pm_ra": null,
+        "pm_dec": null,
+        "pm_total": null
+      },
+      "has_features": false
+    },
+    {
+      "name": "J1902+0156",
+      "ra_deg": 285.537,
+      "dec_deg": 1.947,
+      "features": {
+        "J_mag": null,
+        "H_mag": null,
+        "K_mag": null,
+        "W1_mag": null,
+        "W2_mag": null,
+        "W3_mag": null,
+        "pm_ra": null,
+        "pm_dec": null,
+        "pm_total": null
+      },
+      "has_features": false
+    },
+    {
+      "name": "J1903+0156",
+      "ra_deg": 285.754,
+      "dec_deg": 1.947,
+      "features": {
+        "J_mag": 12.128999710083008,
+        "H_mag": 11.513999938964844,
+        "K_mag": 11.192999839782715,
+        "W1_mag": 10.987000465393066,
+        "W2_mag": 10.982000350952148,
+        "W3_mag": 10.496000289916992,
+        "pm_ra": null,
+        "pm_dec": null,
+        "pm_total": null,
+        "J-H": 0.6149997711181641,
+        "H-K": 0.3210000991821289,
+        "W1-W2": 0.005000114440917969,
+        "W2-W3": 0.48600006103515625
+      },
+      "has_features": true
+    },
+    {
+      "name": "J1904+0156",
+      "ra_deg": 285.971,
+      "dec_deg": 1.947,
+      "features": {
+        "J_mag": null,
+        "H_mag": null,
+        "K_mag": null,
+        "W1_mag": null,
+        "W2_mag": null,
+        "W3_mag": null,
+        "pm_ra": null,
+        "pm_dec": null,
+        "pm_total": null
+      },
+      "has_features": false
+    },
+    {
+      "name": "J1905+0156",
+      "ra_deg": 286.188,
+      "dec_deg": 1.947,
+      "features": {
+        "J_mag": 15.32699966430664,
+        "H_mag": 14.210000038146973,
+        "K_mag": 13.98799991607666,
+        "W1_mag": null,
+        "W2_mag": null,
+        "W3_mag": null,
+        "pm_ra": null,
+        "pm_dec": null,
+        "pm_total": null,
+        "J-H": 1.116999626159668,
+        "H-K": 0.2220001220703125
+      },
+      "has_features": true
+    },
+    {
+      "name": "J1906+0156",
+      "ra_deg": 286.405,
+      "dec_deg": 1.947,
+      "features": {
+        "J_mag": 15.383000373840332,
+        "H_mag": 14.73799991607666,
+        "K_mag": 14.416999816894531,
+        "W1_mag": null,
+        "W2_mag": null,
+        "W3_mag": null,
+        "pm_ra": null,
+        "pm_dec": null,
+        "pm_total": null,
+        "J-H": 0.6450004577636719,
+        "H-K": 0.3210000991821289
+      },
+      "has_features": true
+    },
+    {
+      "name": "J1907+0156",
+      "ra_deg": 286.622,
+      "dec_deg": 1.947,
+      "features": {
+        "J_mag": null,
+        "H_mag": null,
+        "K_mag": null,
+        "W1_mag": null,
+        "W2_mag": null,
+        "W3_mag": null,
+        "pm_ra": null,
+        "pm_dec": null,
+        "pm_total": null
+      },
+      "has_features": false
+    },
+    {
+      "name": "J1908+0156",
+      "ra_deg": 286.839,
+      "dec_deg": 1.947,
+      "features": {
+        "J_mag": 15.60099983215332,
+        "H_mag": 15.111000061035156,
+        "K_mag": 14.694999694824219,
+        "W1_mag": null,
+        "W2_mag": null,
+        "W3_mag": null,
+        "pm_ra": null,
+        "pm_dec": null,
+        "pm_total": null,
+        "J-H": 0.48999977111816406,
+        "H-K": 0.4160003662109375
+      },
+      "has_features": true
+    }
+  ]
+}
